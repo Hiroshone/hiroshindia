@@ -12,3 +12,6 @@
 .odc-visual{margin:30px auto 0}.odc-visual img{width:100%;height:auto}.odc-visual figcaption{font-size:.8rem;color:var(--muted);padding-top:8px}
 
 .mobile-contact{display:none}fieldset[data-fields="odc"]{margin:0;padding:20px;border:1px solid var(--line);min-width:0}fieldset[data-fields="odc"] legend{font-weight:bold;padding:0 8px}@media(max-width:700px){body{padding-bottom:76px}.mobile-contact{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:50;background:var(--navy);padding:8px 12px calc(8px + env(safe-area-inset-bottom));gap:10px}.mobile-contact a{flex:1;text-align:center;padding:12px 6px;color:white;font-weight:700}.mobile-contact a:last-child{background:var(--orange);color:var(--navy)}}
+
+/* Approved orange Roadways logo */
+.brand .brand-logo{display:block;width:270px;height:auto;max-width:100%}footer .brand{display:inline-flex;background:#fff;border-radius:3px}footer .brand .brand-logo{width:240px}@media(max-width:760px){.brand .brand-logo{width:230px}}@media(max-width:420px){.brand .brand-logo{width:200px}}
