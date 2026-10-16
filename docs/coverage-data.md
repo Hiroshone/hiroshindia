@@ -32,4 +32,4 @@ Local coverage expansion, 16 October 2026: 54 local groups across Kerala, Tamil 
 
 Pages and district lists render without JavaScript. Visitors make no third-party location API calls. The hub adds filtering; quote links prefill pickup/delivery using query parameters. PIN checks validate format only. All 37 new pages have crawlable links and appear in the sitemap.
 
-The corporate page describes the current confirmed roadways services. Broader company objects are not treated as proof of active warehouses, air freight, rail freight or sea-freight operations.
+The corporate profile now uses the owner-approved business-area copy in data/corporate-profile.html (16 October 2026). It describes domestic/international logistics, multimodal transport, freight forwarding, warehousing/cold chain, inventory, distribution and project logistics. It does not claim owned facilities, fleet or overseas offices; service scope, equipment, facilities and partner involvement are confirmed per engagement. The homepage introduction links to this broader company profile.
