@@ -18,17 +18,22 @@
       "districts": [
         {
           "code": "603",
-          "name": "Nicobars"
+          "name": "Nicobars",
+          "official_url": "https://nicobars.andaman.nic.in/"
         },
         {
           "code": "632",
-          "name": "North And Middle Andaman"
+          "name": "North And Middle Andaman",
+          "official_url": "https://northmiddle.andaman.nic.in/"
         },
         {
           "code": "602",
-          "name": "South Andamans"
+          "name": "South Andamans",
+          "official_url": "https://southandaman.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/AN/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "28",
@@ -36,55 +41,68 @@
       "districts": [
         {
           "code": "745",
-          "name": "Alluri Sitharama Raju"
+          "name": "Alluri Sitharama Raju",
+          "official_url": "https://allurisitharamaraju.ap.gov.in/"
         },
         {
           "code": "744",
-          "name": "Anakapalli"
+          "name": "Anakapalli",
+          "official_url": "https://anakapalli.ap.gov.in/"
         },
         {
           "code": "502",
-          "name": "Ananthapuramu"
+          "name": "Ananthapuramu",
+          "official_url": "https://ananthapuramu.ap.gov.in/"
         },
         {
           "code": "753",
-          "name": "Annamayya"
+          "name": "Annamayya",
+          "official_url": "https://annamayya.ap.gov.in/"
         },
         {
           "code": "750",
-          "name": "Bapatla"
+          "name": "Bapatla",
+          "official_url": "https://bapatla.ap.gov.in/"
         },
         {
           "code": "503",
-          "name": "Chittoor"
+          "name": "Chittoor",
+          "official_url": "https://chittoor.ap.gov.in/"
         },
         {
           "code": "747",
-          "name": "Dr. B.R. Ambedkar Konaseema"
+          "name": "Dr. B.R. Ambedkar Konaseema",
+          "official_url": "https://konaseema.ap.gov.in/"
         },
         {
           "code": "505",
-          "name": "East Godavari"
+          "name": "East Godavari",
+          "official_url": "https://eastgodavari.ap.gov.in/"
         },
         {
           "code": "748",
-          "name": "Eluru"
+          "name": "Eluru",
+          "official_url": "https://eluru.ap.gov.in/"
         },
         {
           "code": "506",
-          "name": "Guntur"
+          "name": "Guntur",
+          "official_url": "https://guntur.ap.gov.in/"
         },
         {
           "code": "746",
-          "name": "Kakinada"
+          "name": "Kakinada",
+          "official_url": "https://kakinada.ap.gov.in/"
         },
         {
           "code": "510",
-          "name": "Krishna"
+          "name": "Krishna",
+          "official_url": "https://krishna.ap.gov.in/"
         },
         {
           "code": "511",
-          "name": "Kurnool"
+          "name": "Kurnool",
+          "official_url": "https://kurnool.ap.gov.in/"
         },
         {
           "code": "790",
@@ -92,19 +110,23 @@
         },
         {
           "code": "755",
-          "name": "Nandyal"
+          "name": "Nandyal",
+          "official_url": "https://nandyal.ap.gov.in/"
         },
         {
           "code": "749",
-          "name": "Ntr"
+          "name": "Ntr",
+          "official_url": "https://ntr.ap.gov.in/"
         },
         {
           "code": "751",
-          "name": "Palnadu"
+          "name": "Palnadu",
+          "official_url": "https://palnadu.ap.gov.in/"
         },
         {
           "code": "743",
-          "name": "Parvathipuram Manyam"
+          "name": "Parvathipuram Manyam",
+          "official_url": "https://parvathipurammanyam.ap.gov.in/"
         },
         {
           "code": "791",
@@ -112,41 +134,52 @@
         },
         {
           "code": "517",
-          "name": "Prakasam"
+          "name": "Prakasam",
+          "official_url": "https://prakasam.ap.gov.in/"
         },
         {
           "code": "515",
-          "name": "Sri Potti Sriramulu Nellore"
+          "name": "Sri Potti Sriramulu Nellore",
+          "official_url": "https://spsnellore.ap.gov.in/"
         },
         {
           "code": "754",
-          "name": "Sri Sathya Sai"
+          "name": "Sri Sathya Sai",
+          "official_url": "https://srisathyasai.ap.gov.in/"
         },
         {
           "code": "519",
-          "name": "Srikakulam"
+          "name": "Srikakulam",
+          "official_url": "https://srikakulam.ap.gov.in/"
         },
         {
           "code": "752",
-          "name": "Tirupati"
+          "name": "Tirupati",
+          "official_url": "https://tirupati.ap.gov.in/"
         },
         {
           "code": "520",
-          "name": "Visakhapatnam"
+          "name": "Visakhapatnam",
+          "official_url": "https://visakhapatnam.ap.gov.in/"
         },
         {
           "code": "521",
-          "name": "Vizianagaram"
+          "name": "Vizianagaram",
+          "official_url": "https://vizianagaram.ap.gov.in/"
         },
         {
           "code": "523",
-          "name": "West Godavari"
+          "name": "West Godavari",
+          "official_url": "https://westgodavari.ap.gov.in/"
         },
         {
           "code": "504",
-          "name": "Y.S.R. Kadapa"
+          "name": "Y.S.R. Kadapa",
+          "official_url": "https://kadapa.ap.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/AP/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "12",
@@ -154,7 +187,8 @@
       "districts": [
         {
           "code": "628",
-          "name": "Anjaw"
+          "name": "Anjaw",
+          "official_url": "https://anjaw.nic.in/"
         },
         {
           "code": "787",
@@ -162,19 +196,23 @@
         },
         {
           "code": "229",
-          "name": "Changlang"
+          "name": "Changlang",
+          "official_url": "https://changlang.nic.in/"
         },
         {
           "code": "230",
-          "name": "Dibang Valley"
+          "name": "Dibang Valley",
+          "official_url": "https://dibangvalley.nic.in/"
         },
         {
           "code": "231",
-          "name": "East Kameng"
+          "name": "East Kameng",
+          "official_url": "https://eastkameng.nic.in/"
         },
         {
           "code": "232",
-          "name": "East Siang"
+          "name": "East Siang",
+          "official_url": "https://eastsiang.nic.in/"
         },
         {
           "code": "718",
@@ -186,11 +224,13 @@
         },
         {
           "code": "677",
-          "name": "Kra Daadi"
+          "name": "Kra Daadi",
+          "official_url": "https://kradaadi.nic.in/"
         },
         {
           "code": "233",
-          "name": "Kurung Kumey"
+          "name": "Kurung Kumey",
+          "official_url": "https://kurungkumey.nic.in/"
         },
         {
           "code": "724",
@@ -198,15 +238,18 @@
         },
         {
           "code": "234",
-          "name": "Lohit"
+          "name": "Lohit",
+          "official_url": "https://lohit.nic.in/"
         },
         {
           "code": "666",
-          "name": "Longding"
+          "name": "Longding",
+          "official_url": "https://longding.nic.in/"
         },
         {
           "code": "235",
-          "name": "Lower Dibang Valley"
+          "name": "Lower Dibang Valley",
+          "official_url": "https://roing.nic.in/"
         },
         {
           "code": "719",
@@ -214,11 +257,13 @@
         },
         {
           "code": "236",
-          "name": "Lower Subansiri"
+          "name": "Lower Subansiri",
+          "official_url": "https://lowersubansiri.nic.in/"
         },
         {
           "code": "678",
-          "name": "Namsai"
+          "name": "Namsai",
+          "official_url": "https://namsai.nic.in/"
         },
         {
           "code": "723",
@@ -226,41 +271,52 @@
         },
         {
           "code": "237",
-          "name": "Papum Pare"
+          "name": "Papum Pare",
+          "official_url": "https://papumpare.nic.in/"
         },
         {
           "code": "725",
-          "name": "Shi Yomi"
+          "name": "Shi Yomi",
+          "official_url": "https://shiyomi.nic.in/"
         },
         {
           "code": "679",
-          "name": "Siang"
+          "name": "Siang",
+          "official_url": "https://siang.nic.in/"
         },
         {
           "code": "238",
-          "name": "Tawang"
+          "name": "Tawang",
+          "official_url": "https://tawang.nic.in/"
         },
         {
           "code": "239",
-          "name": "Tirap"
+          "name": "Tirap",
+          "official_url": "https://tirap.nic.in/"
         },
         {
           "code": "240",
-          "name": "Upper Siang"
+          "name": "Upper Siang",
+          "official_url": "https://uppersiang.nic.in/"
         },
         {
           "code": "241",
-          "name": "Upper Subansiri"
+          "name": "Upper Subansiri",
+          "official_url": "https://uppersubansiri.nic.in/"
         },
         {
           "code": "242",
-          "name": "West Kameng"
+          "name": "West Kameng",
+          "official_url": "https://westkameng.nic.in/"
         },
         {
           "code": "243",
-          "name": "West Siang"
+          "name": "West Siang",
+          "official_url": "https://westsiang.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/AR/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "18",
@@ -268,127 +324,158 @@
       "districts": [
         {
           "code": "739",
-          "name": "Bajali"
+          "name": "Bajali",
+          "official_url": "https://bajali.assam.gov.in/"
         },
         {
           "code": "616",
-          "name": "Baksa"
+          "name": "Baksa",
+          "official_url": "https://baksa.assam.gov.in/"
         },
         {
           "code": "280",
-          "name": "Barpeta"
+          "name": "Barpeta",
+          "official_url": "https://barpeta.assam.gov.in/"
         },
         {
           "code": "705",
-          "name": "Biswanath"
+          "name": "Biswanath",
+          "official_url": "https://biswanath.gov.in/"
         },
         {
           "code": "281",
-          "name": "Bongaigaon"
+          "name": "Bongaigaon",
+          "official_url": "https://bongaigaon.gov.in/"
         },
         {
           "code": "282",
-          "name": "Cachar"
+          "name": "Cachar",
+          "official_url": "https://cachar.gov.in/"
         },
         {
           "code": "708",
-          "name": "Charaideo"
+          "name": "Charaideo",
+          "official_url": "https://charaideo.gov.in/"
         },
         {
           "code": "612",
-          "name": "Chirang"
+          "name": "Chirang",
+          "official_url": "https://chirang.assam.gov.in/"
         },
         {
           "code": "283",
-          "name": "Darrang"
+          "name": "Darrang",
+          "official_url": "https://darrang.gov.in/"
         },
         {
           "code": "284",
-          "name": "Dhemaji"
+          "name": "Dhemaji",
+          "official_url": "https://dhemaji.gov.in/"
         },
         {
           "code": "285",
-          "name": "Dhubri"
+          "name": "Dhubri",
+          "official_url": "https://dhubri.gov.in/"
         },
         {
           "code": "286",
-          "name": "Dibrugarh"
+          "name": "Dibrugarh",
+          "official_url": "https://dibrugarh.assam.gov.in/"
         },
         {
           "code": "299",
-          "name": "Dima Hasao"
+          "name": "Dima Hasao",
+          "official_url": "https://dimahasao.assam.gov.in/"
         },
         {
           "code": "287",
-          "name": "Goalpara"
+          "name": "Goalpara",
+          "official_url": "https://goalpara.assam.gov.in/"
         },
         {
           "code": "288",
-          "name": "Golaghat"
+          "name": "Golaghat",
+          "official_url": "https://golaghat.gov.in/"
         },
         {
           "code": "289",
-          "name": "Hailakandi"
+          "name": "Hailakandi",
+          "official_url": "https://hailakandi.assam.gov.in/"
         },
         {
           "code": "709",
-          "name": "Hojai"
+          "name": "Hojai",
+          "official_url": "https://hojai.assam.gov.in/"
         },
         {
           "code": "290",
-          "name": "Jorhat"
+          "name": "Jorhat",
+          "official_url": "https://jorhat.assam.gov.in/"
         },
         {
           "code": "291",
-          "name": "Kamrup"
+          "name": "Kamrup",
+          "official_url": "https://kamrup.assam.gov.in/"
         },
         {
           "code": "618",
-          "name": "Kamrup Metro"
+          "name": "Kamrup Metro",
+          "official_url": "https://kamrupmetro.assam.gov.in/"
         },
         {
           "code": "292",
-          "name": "Karbi Anglong"
+          "name": "Karbi Anglong",
+          "official_url": "https://karbianglong.gov.in/"
         },
         {
           "code": "294",
-          "name": "Kokrajhar"
+          "name": "Kokrajhar",
+          "official_url": "https://kokrajhar.assam.gov.in/"
         },
         {
           "code": "295",
-          "name": "Lakhimpur"
+          "name": "Lakhimpur",
+          "official_url": "https://lakhimpur.nic.in/"
         },
         {
           "code": "706",
-          "name": "Majuli"
+          "name": "Majuli",
+          "official_url": "https://majuli.gov.in/"
         },
         {
           "code": "296",
-          "name": "Marigaon"
+          "name": "Marigaon",
+          "official_url": "https://morigaon.gov.in/"
         },
         {
           "code": "297",
-          "name": "Nagaon"
+          "name": "Nagaon",
+          "official_url": "https://nagaon.assam.gov.in/"
         },
         {
           "code": "298",
-          "name": "Nalbari"
+          "name": "Nalbari",
+          "official_url": "https://nalbari.gov.in/"
         },
         {
           "code": "300",
-          "name": "Sivasagar"
+          "name": "Sivasagar",
+          "official_url": "https://sivasagar.assam.gov.in/"
         },
         {
           "code": "301",
-          "name": "Sonitpur"
+          "name": "Sonitpur",
+          "official_url": "https://sonitpur.gov.in/"
         },
         {
           "code": "707",
-          "name": "South Salmara Mancachar"
+          "name": "South Salmara Mancachar",
+          "official_url": "https://southsalmaramankachar.assam.gov.in/"
         },
         {
           "code": "293",
-          "name": "Sribhumi"
+          "name": "Sribhumi",
+          "official_url": "https://karimganj.gov.in/"
         },
         {
           "code": "756",
@@ -396,17 +483,22 @@
         },
         {
           "code": "302",
-          "name": "Tinsukia"
+          "name": "Tinsukia",
+          "official_url": "https://tinsukia.assam.gov.in/"
         },
         {
           "code": "617",
-          "name": "Udalguri"
+          "name": "Udalguri",
+          "official_url": "https://udalguri.assam.gov.in/"
         },
         {
           "code": "710",
-          "name": "West Karbi Anglong"
+          "name": "West Karbi Anglong",
+          "official_url": "https://westkarbianglong.assam.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/AS/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "10",
@@ -414,157 +506,197 @@
       "districts": [
         {
           "code": "188",
-          "name": "Araria"
+          "name": "Araria",
+          "official_url": "https://araria.nic.in/"
         },
         {
           "code": "611",
-          "name": "Arwal"
+          "name": "Arwal",
+          "official_url": "https://arwal.nic.in/"
         },
         {
           "code": "189",
-          "name": "Aurangabad"
+          "name": "Aurangabad",
+          "official_url": "https://aurangabad.bih.nic.in/"
         },
         {
           "code": "190",
-          "name": "Banka"
+          "name": "Banka",
+          "official_url": "https://banka.nic.in/"
         },
         {
           "code": "191",
-          "name": "Begusarai"
+          "name": "Begusarai",
+          "official_url": "https://begusarai.nic.in/"
         },
         {
           "code": "192",
-          "name": "Bhagalpur"
+          "name": "Bhagalpur",
+          "official_url": "https://bhagalpur.nic.in/"
         },
         {
           "code": "193",
-          "name": "Bhojpur"
+          "name": "Bhojpur",
+          "official_url": "https://bhojpur.nic.in/"
         },
         {
           "code": "194",
-          "name": "Buxar"
+          "name": "Buxar",
+          "official_url": "https://buxar.nic.in/"
         },
         {
           "code": "195",
-          "name": "Darbhanga"
+          "name": "Darbhanga",
+          "official_url": "https://darbhanga.nic.in/"
         },
         {
           "code": "196",
-          "name": "Gaya"
+          "name": "Gaya",
+          "official_url": "https://gaya.nic.in/"
         },
         {
           "code": "197",
-          "name": "Gopalganj"
+          "name": "Gopalganj",
+          "official_url": "https://gopalganj.nic.in/"
         },
         {
           "code": "198",
-          "name": "Jamui"
+          "name": "Jamui",
+          "official_url": "https://jamui.nic.in/"
         },
         {
           "code": "199",
-          "name": "Jehanabad"
+          "name": "Jehanabad",
+          "official_url": "https://jehanabad.nic.in/"
         },
         {
           "code": "200",
-          "name": "Kaimur (Bhabua)"
+          "name": "Kaimur (Bhabua)",
+          "official_url": "https://kaimur.nic.in/"
         },
         {
           "code": "201",
-          "name": "Katihar"
+          "name": "Katihar",
+          "official_url": "https://katihar.nic.in/"
         },
         {
           "code": "202",
-          "name": "Khagaria"
+          "name": "Khagaria",
+          "official_url": "https://khagaria.nic.in/"
         },
         {
           "code": "203",
-          "name": "Kishanganj"
+          "name": "Kishanganj",
+          "official_url": "https://kishanganj.nic.in/"
         },
         {
           "code": "204",
-          "name": "Lakhisarai"
+          "name": "Lakhisarai",
+          "official_url": "https://lakhisarai.nic.in/"
         },
         {
           "code": "205",
-          "name": "Madhepura"
+          "name": "Madhepura",
+          "official_url": "https://madhepura.nic.in/"
         },
         {
           "code": "206",
-          "name": "Madhubani"
+          "name": "Madhubani",
+          "official_url": "https://madhubani.nic.in/"
         },
         {
           "code": "207",
-          "name": "Munger"
+          "name": "Munger",
+          "official_url": "https://munger.nic.in/"
         },
         {
           "code": "208",
-          "name": "Muzaffarpur"
+          "name": "Muzaffarpur",
+          "official_url": "https://muzaffarpur.nic.in/"
         },
         {
           "code": "209",
-          "name": "Nalanda"
+          "name": "Nalanda",
+          "official_url": "https://nalanda.nic.in/"
         },
         {
           "code": "210",
-          "name": "Nawada"
+          "name": "Nawada",
+          "official_url": "https://nawada.nic.in/"
         },
         {
           "code": "211",
-          "name": "Pashchim Champaran"
+          "name": "Pashchim Champaran",
+          "official_url": "https://westchamparan.nic.in/"
         },
         {
           "code": "212",
-          "name": "Patna"
+          "name": "Patna",
+          "official_url": "https://patna.nic.in/"
         },
         {
           "code": "213",
-          "name": "Purbi Champaran"
+          "name": "Purbi Champaran",
+          "official_url": "https://eastchamparan.nic.in/"
         },
         {
           "code": "214",
-          "name": "Purnia"
+          "name": "Purnia",
+          "official_url": "https://purnea.nic.in/"
         },
         {
           "code": "215",
-          "name": "Rohtas"
+          "name": "Rohtas",
+          "official_url": "https://rohtas.nic.in/"
         },
         {
           "code": "216",
-          "name": "Saharsa"
+          "name": "Saharsa",
+          "official_url": "https://saharsa.nic.in/"
         },
         {
           "code": "217",
-          "name": "Samastipur"
+          "name": "Samastipur",
+          "official_url": "https://samastipur.nic.in/"
         },
         {
           "code": "218",
-          "name": "Saran"
+          "name": "Saran",
+          "official_url": "https://saran.nic.in/"
         },
         {
           "code": "219",
-          "name": "Sheikhpura"
+          "name": "Sheikhpura",
+          "official_url": "https://sheikhpura.nic.in/"
         },
         {
           "code": "220",
-          "name": "Sheohar"
+          "name": "Sheohar",
+          "official_url": "https://sheohar.nic.in/"
         },
         {
           "code": "221",
-          "name": "Sitamarhi"
+          "name": "Sitamarhi",
+          "official_url": "https://sitamarhi.nic.in/"
         },
         {
           "code": "222",
-          "name": "Siwan"
+          "name": "Siwan",
+          "official_url": "https://siwan.nic.in/"
         },
         {
           "code": "223",
-          "name": "Supaul"
+          "name": "Supaul",
+          "official_url": "https://supaul.nic.in/"
         },
         {
           "code": "224",
-          "name": "Vaishali"
+          "name": "Vaishali",
+          "official_url": "https://vaishali.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/BR/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "4",
@@ -572,9 +704,12 @@
       "districts": [
         {
           "code": "44",
-          "name": "Chandigarh"
+          "name": "Chandigarh",
+          "official_url": "https://chandigarhdistrict.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/CH/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "22",
@@ -582,63 +717,78 @@
       "districts": [
         {
           "code": "646",
-          "name": "Balod"
+          "name": "Balod",
+          "official_url": "https://balod.gov.in/"
         },
         {
           "code": "644",
-          "name": "Balodabazar-Bhatapara"
+          "name": "Balodabazar-Bhatapara",
+          "official_url": "https://balodabazar.gov.in/"
         },
         {
           "code": "649",
-          "name": "Balrampur-Ramanujganj"
+          "name": "Balrampur-Ramanujganj",
+          "official_url": "https://balrampur.gov.in/"
         },
         {
           "code": "374",
-          "name": "Bastar"
+          "name": "Bastar",
+          "official_url": "https://bastar.gov.in/"
         },
         {
           "code": "650",
-          "name": "Bemetara"
+          "name": "Bemetara",
+          "official_url": "https://bemetara.gov.in/"
         },
         {
           "code": "636",
-          "name": "Bijapur"
+          "name": "Bijapur",
+          "official_url": "https://bijapur.gov.in/"
         },
         {
           "code": "375",
-          "name": "Bilaspur"
+          "name": "Bilaspur",
+          "official_url": "https://bilaspur.gov.in/"
         },
         {
           "code": "376",
-          "name": "Dakshin Bastar Dantewada"
+          "name": "Dakshin Bastar Dantewada",
+          "official_url": "https://dantewada.nic.in/"
         },
         {
           "code": "377",
-          "name": "Dhamtari"
+          "name": "Dhamtari",
+          "official_url": "https://dhamtari.gov.in/"
         },
         {
           "code": "378",
-          "name": "Durg"
+          "name": "Durg",
+          "official_url": "https://durg.gov.in/"
         },
         {
           "code": "645",
-          "name": "Gariyaband"
+          "name": "Gariyaband",
+          "official_url": "https://gariaband.gov.in/"
         },
         {
           "code": "734",
-          "name": "Gaurela-Pendra-Marwahi"
+          "name": "Gaurela-Pendra-Marwahi",
+          "official_url": "https://gaurela-pendra-marwahi.cg.gov.in/"
         },
         {
           "code": "379",
-          "name": "Janjgir-Champa"
+          "name": "Janjgir-Champa",
+          "official_url": "https://janjgir-champa.gov.in/"
         },
         {
           "code": "380",
-          "name": "Jashpur"
+          "name": "Jashpur",
+          "official_url": "https://jashpur.nic.in/"
         },
         {
           "code": "382",
-          "name": "Kabeerdham"
+          "name": "Kabeerdham",
+          "official_url": "https://kawardha.gov.in/"
         },
         {
           "code": "759",
@@ -646,19 +796,23 @@
         },
         {
           "code": "643",
-          "name": "Kondagaon"
+          "name": "Kondagaon",
+          "official_url": "https://kondagaon.gov.in/"
         },
         {
           "code": "383",
-          "name": "Korba"
+          "name": "Korba",
+          "official_url": "https://korba.gov.in/"
         },
         {
           "code": "384",
-          "name": "Korea"
+          "name": "Korea",
+          "official_url": "https://korea.gov.in/"
         },
         {
           "code": "385",
-          "name": "Mahasamund"
+          "name": "Mahasamund",
+          "official_url": "https://mahasamund.gov.in/"
         },
         {
           "code": "760",
@@ -666,27 +820,33 @@
         },
         {
           "code": "761",
-          "name": "Mohla-Manpur-Ambagarh Chouki"
+          "name": "Mohla-Manpur-Ambagarh Chouki",
+          "official_url": "https://mohla-manpur-ambagarhchowki.cg.gov.in/"
         },
         {
           "code": "647",
-          "name": "Mungeli"
+          "name": "Mungeli",
+          "official_url": "https://mungeli.gov.in/"
         },
         {
           "code": "637",
-          "name": "Narayanpur"
+          "name": "Narayanpur",
+          "official_url": "https://narayanpur.gov.in/"
         },
         {
           "code": "386",
-          "name": "Raigarh"
+          "name": "Raigarh",
+          "official_url": "https://raigarh.gov.in/"
         },
         {
           "code": "387",
-          "name": "Raipur"
+          "name": "Raipur",
+          "official_url": "https://raipur.gov.in/"
         },
         {
           "code": "388",
-          "name": "Rajnandgaon"
+          "name": "Rajnandgaon",
+          "official_url": "https://rajnandgaon.nic.in/"
         },
         {
           "code": "762",
@@ -698,21 +858,27 @@
         },
         {
           "code": "642",
-          "name": "Sukma"
+          "name": "Sukma",
+          "official_url": "https://sukma.gov.in/"
         },
         {
           "code": "648",
-          "name": "Surajpur"
+          "name": "Surajpur",
+          "official_url": "https://surajpur.nic.in/"
         },
         {
           "code": "389",
-          "name": "Surguja"
+          "name": "Surguja",
+          "official_url": "https://surguja.gov.in/"
         },
         {
           "code": "381",
-          "name": "Uttar Bastar Kanker"
+          "name": "Uttar Bastar Kanker",
+          "official_url": "https://kanker.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/CG/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "7",
@@ -720,7 +886,8 @@
       "districts": [
         {
           "code": "77",
-          "name": "Central"
+          "name": "Central",
+          "official_url": "https://dccentral.delhi.gov.in/"
         },
         {
           "code": "796",
@@ -728,23 +895,28 @@
         },
         {
           "code": "78",
-          "name": "East"
+          "name": "East",
+          "official_url": "https://dmeast.delhi.gov.in/"
         },
         {
           "code": "79",
-          "name": "New Delhi"
+          "name": "New Delhi",
+          "official_url": "https://dmnewdelhi.delhi.gov.in/"
         },
         {
           "code": "80",
-          "name": "North"
+          "name": "North",
+          "official_url": "https://dmnorth.delhi.gov.in/"
         },
         {
           "code": "81",
-          "name": "North East"
+          "name": "North East",
+          "official_url": "https://dmnortheast.delhi.gov.in/"
         },
         {
           "code": "82",
-          "name": "North West"
+          "name": "North West",
+          "official_url": "https://dmnorthwest.delhi.gov.in/"
         },
         {
           "code": "795",
@@ -756,21 +928,27 @@
         },
         {
           "code": "83",
-          "name": "South"
+          "name": "South",
+          "official_url": "https://dmsouth.delhi.gov.in/"
         },
         {
           "code": "670",
-          "name": "South East"
+          "name": "South East",
+          "official_url": "https://dmsoutheast.delhi.gov.in/"
         },
         {
           "code": "84",
-          "name": "South West"
+          "name": "South West",
+          "official_url": "https://dmsouthwest.delhi.gov.in/"
         },
         {
           "code": "85",
-          "name": "West"
+          "name": "West",
+          "official_url": "https://dcwestrev.delhi.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/DL/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "30",
@@ -782,13 +960,17 @@
         },
         {
           "code": "551",
-          "name": "North Goa"
+          "name": "North Goa",
+          "official_url": "https://northgoa.gov.in/"
         },
         {
           "code": "552",
-          "name": "South Goa"
+          "name": "South Goa",
+          "official_url": "https://southgoa.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/GA/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "24",
@@ -796,141 +978,176 @@
       "districts": [
         {
           "code": "438",
-          "name": "Ahmedabad"
+          "name": "Ahmedabad",
+          "official_url": "https://ahmedabad.nic.in/"
         },
         {
           "code": "439",
-          "name": "Amreli"
+          "name": "Amreli",
+          "official_url": "https://amreli.nic.in/"
         },
         {
           "code": "440",
-          "name": "Anand"
+          "name": "Anand",
+          "official_url": "https://anand.nic.in/"
         },
         {
           "code": "672",
-          "name": "Arvalli"
+          "name": "Arvalli",
+          "official_url": "https://arvalli.nic.in/"
         },
         {
           "code": "441",
-          "name": "Banas Kantha"
+          "name": "Banas Kantha",
+          "official_url": "https://banaskantha.nic.in/"
         },
         {
           "code": "442",
-          "name": "Bharuch"
+          "name": "Bharuch",
+          "official_url": "https://bharuch.nic.in/"
         },
         {
           "code": "443",
-          "name": "Bhavnagar"
+          "name": "Bhavnagar",
+          "official_url": "https://bhavnagar.nic.in/"
         },
         {
           "code": "676",
-          "name": "Botad"
+          "name": "Botad",
+          "official_url": "https://botad.nic.in/"
         },
         {
           "code": "668",
-          "name": "Chhotaudepur"
+          "name": "Chhotaudepur",
+          "official_url": "https://chhotaudepur.nic.in/"
         },
         {
           "code": "445",
-          "name": "Dahod"
+          "name": "Dahod",
+          "official_url": "https://dahod.gujarat.gov.in/"
         },
         {
           "code": "444",
-          "name": "Dangs"
+          "name": "Dangs",
+          "official_url": "https://dangs.nic.in/"
         },
         {
           "code": "674",
-          "name": "Devbhumi Dwarka"
+          "name": "Devbhumi Dwarka",
+          "official_url": "https://devbhumidwarka.nic.in/"
         },
         {
           "code": "446",
-          "name": "Gandhinagar"
+          "name": "Gandhinagar",
+          "official_url": "https://gandhinagar.nic.in/"
         },
         {
           "code": "675",
-          "name": "Gir Somnath"
+          "name": "Gir Somnath",
+          "official_url": "https://girsomnath.gujarat.gov.in/"
         },
         {
           "code": "447",
-          "name": "Jamnagar"
+          "name": "Jamnagar",
+          "official_url": "https://jamnagar.nic.in/"
         },
         {
           "code": "448",
-          "name": "Junagadh"
+          "name": "Junagadh",
+          "official_url": "https://junagadh.nic.in/"
         },
         {
           "code": "449",
-          "name": "Kachchh"
+          "name": "Kachchh",
+          "official_url": "https://kachchh.nic.in/"
         },
         {
           "code": "450",
-          "name": "Kheda"
+          "name": "Kheda",
+          "official_url": "https://kheda.nic.in/"
         },
         {
           "code": "451",
-          "name": "Mahesana"
+          "name": "Mahesana",
+          "official_url": "https://mahesana.nic.in/"
         },
         {
           "code": "669",
-          "name": "Mahisagar"
+          "name": "Mahisagar",
+          "official_url": "https://mahisagar.gujarat.gov.in/"
         },
         {
           "code": "673",
-          "name": "Morbi"
+          "name": "Morbi",
+          "official_url": "https://morbi.gujarat.gov.in/"
         },
         {
           "code": "452",
-          "name": "Narmada"
+          "name": "Narmada",
+          "official_url": "https://narmada.nic.in/"
         },
         {
           "code": "453",
-          "name": "Navsari"
+          "name": "Navsari",
+          "official_url": "https://navsari.nic.in/"
         },
         {
           "code": "454",
-          "name": "Panch Mahals"
+          "name": "Panch Mahals",
+          "official_url": "https://panchmahals.nic.in/"
         },
         {
           "code": "455",
-          "name": "Patan"
+          "name": "Patan",
+          "official_url": "https://patan.nic.in/"
         },
         {
           "code": "456",
-          "name": "Porbandar"
+          "name": "Porbandar",
+          "official_url": "https://porbandar.nic.in/"
         },
         {
           "code": "457",
-          "name": "Rajkot"
+          "name": "Rajkot",
+          "official_url": "https://rajkot.nic.in/"
         },
         {
           "code": "458",
-          "name": "Sabar Kantha"
+          "name": "Sabar Kantha",
+          "official_url": "https://sabarkantha.nic.in/"
         },
         {
           "code": "459",
-          "name": "Surat"
+          "name": "Surat",
+          "official_url": "https://surat.nic.in/"
         },
         {
           "code": "460",
-          "name": "Surendranagar"
+          "name": "Surendranagar",
+          "official_url": "https://surendranagar.nic.in/"
         },
         {
           "code": "641",
-          "name": "Tapi"
+          "name": "Tapi",
+          "official_url": "https://tapi.nic.in/"
         },
         {
           "code": "461",
-          "name": "Vadodara"
+          "name": "Vadodara",
+          "official_url": "https://vadodara.nic.in/"
         },
         {
           "code": "462",
-          "name": "Valsad"
+          "name": "Valsad",
+          "official_url": "https://valsad.nic.in/"
         },
         {
           "code": "789",
           "name": "Vav-Tharad"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/GJ/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "6",
@@ -938,27 +1155,33 @@
       "districts": [
         {
           "code": "58",
-          "name": "Ambala"
+          "name": "Ambala",
+          "official_url": "https://ambala.gov.in/"
         },
         {
           "code": "59",
-          "name": "Bhiwani"
+          "name": "Bhiwani",
+          "official_url": "https://bhiwani.gov.in/"
         },
         {
           "code": "701",
-          "name": "Charkhi Dadri"
+          "name": "Charkhi Dadri",
+          "official_url": "https://charkhidadri.gov.in/"
         },
         {
           "code": "60",
-          "name": "Faridabad"
+          "name": "Faridabad",
+          "official_url": "https://faridabad.nic.in/"
         },
         {
           "code": "61",
-          "name": "Fatehabad"
+          "name": "Fatehabad",
+          "official_url": "https://fatehabad.nic.in/"
         },
         {
           "code": "62",
-          "name": "Gurugram"
+          "name": "Gurugram",
+          "official_url": "https://gurugram.gov.in/"
         },
         {
           "code": "792",
@@ -966,69 +1189,87 @@
         },
         {
           "code": "63",
-          "name": "Hisar"
+          "name": "Hisar",
+          "official_url": "https://hisar.gov.in/"
         },
         {
           "code": "64",
-          "name": "Jhajjar"
+          "name": "Jhajjar",
+          "official_url": "https://jhajjar.nic.in/"
         },
         {
           "code": "65",
-          "name": "Jind"
+          "name": "Jind",
+          "official_url": "https://jind.gov.in/"
         },
         {
           "code": "66",
-          "name": "Kaithal"
+          "name": "Kaithal",
+          "official_url": "https://kaithal.gov.in/"
         },
         {
           "code": "67",
-          "name": "Karnal"
+          "name": "Karnal",
+          "official_url": "https://karnal.gov.in/"
         },
         {
           "code": "68",
-          "name": "Kurukshetra"
+          "name": "Kurukshetra",
+          "official_url": "https://kurukshetra.gov.in/"
         },
         {
           "code": "69",
-          "name": "Mahendragarh"
+          "name": "Mahendragarh",
+          "official_url": "https://mahendragarh.gov.in/"
         },
         {
           "code": "604",
-          "name": "Nuh"
+          "name": "Nuh",
+          "official_url": "https://nuh.gov.in/"
         },
         {
           "code": "619",
-          "name": "Palwal"
+          "name": "Palwal",
+          "official_url": "https://palwal.gov.in/"
         },
         {
           "code": "70",
-          "name": "Panchkula"
+          "name": "Panchkula",
+          "official_url": "https://panchkula.nic.in/"
         },
         {
           "code": "71",
-          "name": "Panipat"
+          "name": "Panipat",
+          "official_url": "https://panipat.gov.in/"
         },
         {
           "code": "72",
-          "name": "Rewari"
+          "name": "Rewari",
+          "official_url": "https://rewari.gov.in/"
         },
         {
           "code": "73",
-          "name": "Rohtak"
+          "name": "Rohtak",
+          "official_url": "https://rohtak.gov.in/"
         },
         {
           "code": "74",
-          "name": "Sirsa"
+          "name": "Sirsa",
+          "official_url": "https://sirsa.gov.in/"
         },
         {
           "code": "75",
-          "name": "Sonipat"
+          "name": "Sonipat",
+          "official_url": "https://sonipat.gov.in/"
         },
         {
           "code": "76",
-          "name": "Yamunanagar"
+          "name": "Yamunanagar",
+          "official_url": "https://yamunanagar.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/HR/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "2",
@@ -1036,53 +1277,67 @@
       "districts": [
         {
           "code": "15",
-          "name": "Bilaspur"
+          "name": "Bilaspur",
+          "official_url": "https://hpbilaspur.nic.in/"
         },
         {
           "code": "16",
-          "name": "Chamba"
+          "name": "Chamba",
+          "official_url": "https://hpchamba.nic.in/"
         },
         {
           "code": "17",
-          "name": "Hamirpur"
+          "name": "Hamirpur",
+          "official_url": "https://hphamirpur.nic.in/"
         },
         {
           "code": "18",
-          "name": "Kangra"
+          "name": "Kangra",
+          "official_url": "https://hpkangra.nic.in/"
         },
         {
           "code": "19",
-          "name": "Kinnaur"
+          "name": "Kinnaur",
+          "official_url": "https://hpkinnaur.nic.in/"
         },
         {
           "code": "20",
-          "name": "Kullu"
+          "name": "Kullu",
+          "official_url": "https://hpkullu.nic.in/"
         },
         {
           "code": "21",
-          "name": "Lahaul And Spiti"
+          "name": "Lahaul And Spiti",
+          "official_url": "https://hplahaulspiti.nic.in/"
         },
         {
           "code": "22",
-          "name": "Mandi"
+          "name": "Mandi",
+          "official_url": "https://hpmandi.nic.in/"
         },
         {
           "code": "23",
-          "name": "Shimla"
+          "name": "Shimla",
+          "official_url": "https://hpshimla.nic.in/"
         },
         {
           "code": "24",
-          "name": "Sirmaur"
+          "name": "Sirmaur",
+          "official_url": "https://hpsirmaur.nic.in/"
         },
         {
           "code": "25",
-          "name": "Solan"
+          "name": "Solan",
+          "official_url": "https://hpsolan.nic.in/"
         },
         {
           "code": "26",
-          "name": "Una"
+          "name": "Una",
+          "official_url": "https://hpuna.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/HP/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "1",
@@ -1090,85 +1345,107 @@
       "districts": [
         {
           "code": "1",
-          "name": "Anantnag"
+          "name": "Anantnag",
+          "official_url": "https://anantnag.nic.in/"
         },
         {
           "code": "623",
-          "name": "Bandipora"
+          "name": "Bandipora",
+          "official_url": "https://bandipore.nic.in/"
         },
         {
           "code": "3",
-          "name": "Baramulla"
+          "name": "Baramulla",
+          "official_url": "https://baramulla.nic.in/"
         },
         {
           "code": "2",
-          "name": "Budgam"
+          "name": "Budgam",
+          "official_url": "https://budgam.nic.in/"
         },
         {
           "code": "4",
-          "name": "Doda"
+          "name": "Doda",
+          "official_url": "https://doda.nic.in/"
         },
         {
           "code": "626",
-          "name": "Ganderbal"
+          "name": "Ganderbal",
+          "official_url": "https://ganderbal.nic.in/"
         },
         {
           "code": "5",
-          "name": "Jammu"
+          "name": "Jammu",
+          "official_url": "https://jammu.nic.in/"
         },
         {
           "code": "7",
-          "name": "Kathua"
+          "name": "Kathua",
+          "official_url": "https://kathua.nic.in/"
         },
         {
           "code": "620",
-          "name": "Kishtwar"
+          "name": "Kishtwar",
+          "official_url": "https://kishtwar.nic.in/"
         },
         {
           "code": "622",
-          "name": "Kulgam"
+          "name": "Kulgam",
+          "official_url": "https://kulgam.nic.in/"
         },
         {
           "code": "8",
-          "name": "Kupwara"
+          "name": "Kupwara",
+          "official_url": "https://kupwara.nic.in/"
         },
         {
           "code": "10",
-          "name": "Poonch"
+          "name": "Poonch",
+          "official_url": "https://poonch.nic.in/"
         },
         {
           "code": "11",
-          "name": "Pulwama"
+          "name": "Pulwama",
+          "official_url": "https://pulwama.gov.in/"
         },
         {
           "code": "12",
-          "name": "Rajouri"
+          "name": "Rajouri",
+          "official_url": "https://rajouri.nic.in/"
         },
         {
           "code": "621",
-          "name": "Ramban"
+          "name": "Ramban",
+          "official_url": "https://ramban.gov.in/"
         },
         {
           "code": "627",
-          "name": "Reasi"
+          "name": "Reasi",
+          "official_url": "https://reasi.nic.in/"
         },
         {
           "code": "624",
-          "name": "Samba"
+          "name": "Samba",
+          "official_url": "https://samba.gov.in/"
         },
         {
           "code": "625",
-          "name": "Shopian"
+          "name": "Shopian",
+          "official_url": "https://shopian.nic.in/"
         },
         {
           "code": "13",
-          "name": "Srinagar"
+          "name": "Srinagar",
+          "official_url": "https://srinagar.nic.in/"
         },
         {
           "code": "14",
-          "name": "Udhampur"
+          "name": "Udhampur",
+          "official_url": "https://udhampur.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/JK/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "20",
@@ -1176,101 +1453,127 @@
       "districts": [
         {
           "code": "322",
-          "name": "Bokaro"
+          "name": "Bokaro",
+          "official_url": "https://bokaro.nic.in/"
         },
         {
           "code": "323",
-          "name": "Chatra"
+          "name": "Chatra",
+          "official_url": "https://chatra.nic.in/"
         },
         {
           "code": "324",
-          "name": "Deoghar"
+          "name": "Deoghar",
+          "official_url": "https://deoghar.nic.in/"
         },
         {
           "code": "325",
-          "name": "Dhanbad"
+          "name": "Dhanbad",
+          "official_url": "https://dhanbad.nic.in/"
         },
         {
           "code": "326",
-          "name": "Dumka"
+          "name": "Dumka",
+          "official_url": "https://dumka.nic.in/"
         },
         {
           "code": "327",
-          "name": "East Singhbum"
+          "name": "East Singhbum",
+          "official_url": "https://jamshedpur.nic.in/"
         },
         {
           "code": "328",
-          "name": "Garhwa"
+          "name": "Garhwa",
+          "official_url": "https://garhwa.nic.in/"
         },
         {
           "code": "329",
-          "name": "Giridih"
+          "name": "Giridih",
+          "official_url": "https://giridih.nic.in/"
         },
         {
           "code": "330",
-          "name": "Godda"
+          "name": "Godda",
+          "official_url": "https://godda.nic.in/"
         },
         {
           "code": "331",
-          "name": "Gumla"
+          "name": "Gumla",
+          "official_url": "https://gumla.nic.in/"
         },
         {
           "code": "332",
-          "name": "Hazaribagh"
+          "name": "Hazaribagh",
+          "official_url": "https://hazaribag.nic.in/"
         },
         {
           "code": "333",
-          "name": "Jamtara"
+          "name": "Jamtara",
+          "official_url": "https://jamtara.nic.in/"
         },
         {
           "code": "606",
-          "name": "Khunti"
+          "name": "Khunti",
+          "official_url": "https://khunti.nic.in/"
         },
         {
           "code": "334",
-          "name": "Koderma"
+          "name": "Koderma",
+          "official_url": "https://koderma.nic.in/"
         },
         {
           "code": "335",
-          "name": "Latehar"
+          "name": "Latehar",
+          "official_url": "https://latehar.nic.in/"
         },
         {
           "code": "336",
-          "name": "Lohardaga"
+          "name": "Lohardaga",
+          "official_url": "https://lohardaga.nic.in/"
         },
         {
           "code": "337",
-          "name": "Pakur"
+          "name": "Pakur",
+          "official_url": "https://pakur.nic.in/"
         },
         {
           "code": "338",
-          "name": "Palamu"
+          "name": "Palamu",
+          "official_url": "https://palamu.nic.in/"
         },
         {
           "code": "607",
-          "name": "Ramgarh"
+          "name": "Ramgarh",
+          "official_url": "https://ramgarh.nic.in/"
         },
         {
           "code": "339",
-          "name": "Ranchi"
+          "name": "Ranchi",
+          "official_url": "https://ranchi.nic.in/"
         },
         {
           "code": "340",
-          "name": "Sahebganj"
+          "name": "Sahebganj",
+          "official_url": "https://sahibganj.nic.in/"
         },
         {
           "code": "341",
-          "name": "Saraikela Kharsawan"
+          "name": "Saraikela Kharsawan",
+          "official_url": "https://seraikela.nic.in/"
         },
         {
           "code": "342",
-          "name": "Simdega"
+          "name": "Simdega",
+          "official_url": "https://simdega.nic.in/"
         },
         {
           "code": "343",
-          "name": "West Singhbhum"
+          "name": "West Singhbhum",
+          "official_url": "https://chaibasa.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/JH/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "29",
@@ -1278,129 +1581,162 @@
       "districts": [
         {
           "code": "524",
-          "name": "Bagalkote"
+          "name": "Bagalkote",
+          "official_url": "https://bagalkot.nic.in/"
         },
         {
           "code": "528",
-          "name": "Ballari"
+          "name": "Ballari",
+          "official_url": "https://ballari.nic.in/"
         },
         {
           "code": "527",
-          "name": "Belagavi"
+          "name": "Belagavi",
+          "official_url": "https://belagavi.nic.in/"
         },
         {
           "code": "526",
-          "name": "Bengaluru Rural"
+          "name": "Bengaluru Rural",
+          "official_url": "https://bangalorerural.nic.in/"
         },
         {
           "code": "631",
-          "name": "Bengaluru South"
+          "name": "Bengaluru South",
+          "official_url": "https://ramanagara.nic.in/"
         },
         {
           "code": "525",
-          "name": "Bengaluru Urban"
+          "name": "Bengaluru Urban",
+          "official_url": "https://bengaluruurban.nic.in/"
         },
         {
           "code": "529",
-          "name": "Bidar"
+          "name": "Bidar",
+          "official_url": "https://bidar.nic.in/"
         },
         {
           "code": "531",
-          "name": "Chamarajanagar"
+          "name": "Chamarajanagar",
+          "official_url": "https://chamrajnagar.nic.in/"
         },
         {
           "code": "630",
-          "name": "Chikkaballapura"
+          "name": "Chikkaballapura",
+          "official_url": "https://chikkaballapur.nic.in/"
         },
         {
           "code": "532",
-          "name": "Chikkamagaluru"
+          "name": "Chikkamagaluru",
+          "official_url": "https://chikkamagaluru.nic.in/"
         },
         {
           "code": "533",
-          "name": "Chitradurga"
+          "name": "Chitradurga",
+          "official_url": "https://chitradurga.nic.in/"
         },
         {
           "code": "534",
-          "name": "Dakshina Kannada"
+          "name": "Dakshina Kannada",
+          "official_url": "https://dk.nic.in/"
         },
         {
           "code": "535",
-          "name": "Davanagere"
+          "name": "Davanagere",
+          "official_url": "https://davanagere.nic.in/"
         },
         {
           "code": "536",
-          "name": "Dharwad"
+          "name": "Dharwad",
+          "official_url": "https://dharwad.nic.in/"
         },
         {
           "code": "537",
-          "name": "Gadag"
+          "name": "Gadag",
+          "official_url": "https://gadag.nic.in/"
         },
         {
           "code": "539",
-          "name": "Hassan"
+          "name": "Hassan",
+          "official_url": "https://hassan.nic.in/"
         },
         {
           "code": "540",
-          "name": "Haveri"
+          "name": "Haveri",
+          "official_url": "https://haveri.nic.in/"
         },
         {
           "code": "538",
-          "name": "Kalaburagi"
+          "name": "Kalaburagi",
+          "official_url": "https://kalaburagi.nic.in/"
         },
         {
           "code": "541",
-          "name": "Kodagu"
+          "name": "Kodagu",
+          "official_url": "https://kodagu.nic.in/"
         },
         {
           "code": "542",
-          "name": "Kolar"
+          "name": "Kolar",
+          "official_url": "https://kolar.nic.in/"
         },
         {
           "code": "543",
-          "name": "Koppal"
+          "name": "Koppal",
+          "official_url": "https://koppal.nic.in/"
         },
         {
           "code": "544",
-          "name": "Mandya"
+          "name": "Mandya",
+          "official_url": "https://mandya.nic.in/"
         },
         {
           "code": "545",
-          "name": "Mysuru"
+          "name": "Mysuru",
+          "official_url": "https://mysore.nic.in/"
         },
         {
           "code": "546",
-          "name": "Raichur"
+          "name": "Raichur",
+          "official_url": "https://raichur.nic.in/"
         },
         {
           "code": "547",
-          "name": "Shivamogga"
+          "name": "Shivamogga",
+          "official_url": "https://shimoga.nic.in/"
         },
         {
           "code": "548",
-          "name": "Tumakuru"
+          "name": "Tumakuru",
+          "official_url": "https://tumkur.nic.in/"
         },
         {
           "code": "549",
-          "name": "Udupi"
+          "name": "Udupi",
+          "official_url": "https://udupi.nic.in/"
         },
         {
           "code": "550",
-          "name": "Uttara Kannada"
+          "name": "Uttara Kannada",
+          "official_url": "https://uttarakannada.nic.in/"
         },
         {
           "code": "738",
-          "name": "Vijayanagara"
+          "name": "Vijayanagara",
+          "official_url": "https://vijayanagara.nic.in/"
         },
         {
           "code": "530",
-          "name": "Vijayapura"
+          "name": "Vijayapura",
+          "official_url": "https://vijayapura.nic.in/"
         },
         {
           "code": "635",
-          "name": "Yadgir"
+          "name": "Yadgir",
+          "official_url": "https://yadgir.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/KA/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "32",
@@ -1408,75 +1744,120 @@
       "districts": [
         {
           "code": "554",
-          "name": "Alappuzha"
+          "name": "Alappuzha",
+          "official_url": "https://alappuzha.nic.in/"
         },
         {
           "code": "555",
-          "name": "Ernakulam"
+          "name": "Ernakulam",
+          "official_url": "https://ernakulam.nic.in/"
         },
         {
           "code": "556",
-          "name": "Idukki"
+          "name": "Idukki",
+          "official_url": "https://idukki.nic.in/"
         },
         {
           "code": "557",
-          "name": "Kannur"
+          "name": "Kannur",
+          "official_url": "https://kannur.nic.in/"
         },
         {
           "code": "558",
-          "name": "Kasaragod"
+          "name": "Kasaragod",
+          "official_url": "https://kasargod.nic.in/"
         },
         {
           "code": "559",
-          "name": "Kollam"
+          "name": "Kollam",
+          "official_url": "https://kollam.nic.in/"
         },
         {
           "code": "560",
-          "name": "Kottayam"
+          "name": "Kottayam",
+          "official_url": "https://kottayam.nic.in/"
         },
         {
           "code": "561",
-          "name": "Kozhikode"
+          "name": "Kozhikode",
+          "official_url": "https://kozhikode.nic.in/"
         },
         {
           "code": "562",
-          "name": "Malappuram"
+          "name": "Malappuram",
+          "official_url": "https://malappuram.nic.in/"
         },
         {
           "code": "563",
-          "name": "Palakkad"
+          "name": "Palakkad",
+          "official_url": "https://palakkad.nic.in/"
         },
         {
           "code": "564",
-          "name": "Pathanamthitta"
+          "name": "Pathanamthitta",
+          "official_url": "https://pathanamthitta.nic.in/"
         },
         {
           "code": "565",
-          "name": "Thiruvananthapuram"
+          "name": "Thiruvananthapuram",
+          "official_url": "https://trivandrum.nic.in/"
         },
         {
           "code": "566",
-          "name": "Thrissur"
+          "name": "Thrissur",
+          "official_url": "https://thrissur.nic.in/"
         },
         {
           "code": "567",
-          "name": "Wayanad"
+          "name": "Wayanad",
+          "official_url": "https://wayanad.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/KL/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "37",
       "name": "Ladakh",
       "districts": [
         {
+          "code": "supplement-changthang",
+          "name": "Changthang",
+          "source": "https://ladakh.gov.in/historic-milestone-for-ladakh-five-new-districts-notified-in-ladakh-taking-total-districts-to-seven/"
+        },
+        {
+          "code": "supplement-drass",
+          "name": "Drass",
+          "source": "https://ladakh.gov.in/historic-milestone-for-ladakh-five-new-districts-notified-in-ladakh-taking-total-districts-to-seven/"
+        },
+        {
           "code": "6",
-          "name": "Kargil"
+          "name": "Kargil",
+          "official_url": "https://kargil.nic.in/"
         },
         {
           "code": "9",
-          "name": "Leh Ladakh"
+          "name": "Leh Ladakh",
+          "official_url": "https://leh.nic.in/"
+        },
+        {
+          "code": "supplement-nubra",
+          "name": "Nubra",
+          "source": "https://ladakh.gov.in/historic-milestone-for-ladakh-five-new-districts-notified-in-ladakh-taking-total-districts-to-seven/"
+        },
+        {
+          "code": "supplement-sham",
+          "name": "Sham",
+          "source": "https://ladakh.gov.in/historic-milestone-for-ladakh-five-new-districts-notified-in-ladakh-taking-total-districts-to-seven/"
+        },
+        {
+          "code": "supplement-zanskar",
+          "name": "Zanskar",
+          "source": "https://ladakh.gov.in/historic-milestone-for-ladakh-five-new-districts-notified-in-ladakh-taking-total-districts-to-seven/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/LA/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "31",
@@ -1484,9 +1865,12 @@
       "districts": [
         {
           "code": "553",
-          "name": "Lakshadweep District"
+          "name": "Lakshadweep District",
+          "official_url": "https://lakshadweep.gov.in/district-panchayath"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/LD/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "23",
@@ -1494,111 +1878,138 @@
       "districts": [
         {
           "code": "667",
-          "name": "Agar-Malwa"
+          "name": "Agar-Malwa",
+          "official_url": "https://agarmalwa.nic.in/"
         },
         {
           "code": "639",
-          "name": "Alirajpur"
+          "name": "Alirajpur",
+          "official_url": "https://alirajpur.nic.in/"
         },
         {
           "code": "390",
-          "name": "Anuppur"
+          "name": "Anuppur",
+          "official_url": "https://anuppur.nic.in/"
         },
         {
           "code": "391",
-          "name": "Ashoknagar"
+          "name": "Ashoknagar",
+          "official_url": "https://ashoknagar.nic.in/"
         },
         {
           "code": "392",
-          "name": "Balaghat"
+          "name": "Balaghat",
+          "official_url": "https://balaghat.nic.in/"
         },
         {
           "code": "393",
-          "name": "Barwani"
+          "name": "Barwani",
+          "official_url": "https://barwani.nic.in/"
         },
         {
           "code": "394",
-          "name": "Betul"
+          "name": "Betul",
+          "official_url": "https://betul.nic.in/"
         },
         {
           "code": "395",
-          "name": "Bhind"
+          "name": "Bhind",
+          "official_url": "https://bhind.nic.in/"
         },
         {
           "code": "396",
-          "name": "Bhopal"
+          "name": "Bhopal",
+          "official_url": "https://bhopal.nic.in/"
         },
         {
           "code": "397",
-          "name": "Burhanpur"
+          "name": "Burhanpur",
+          "official_url": "https://burhanpur.nic.in/"
         },
         {
           "code": "398",
-          "name": "Chhatarpur"
+          "name": "Chhatarpur",
+          "official_url": "https://chhatarpur.nic.in/"
         },
         {
           "code": "399",
-          "name": "Chhindwara"
+          "name": "Chhindwara",
+          "official_url": "https://chhindwara.nic.in/"
         },
         {
           "code": "400",
-          "name": "Damoh"
+          "name": "Damoh",
+          "official_url": "https://damoh.nic.in/"
         },
         {
           "code": "401",
-          "name": "Datia"
+          "name": "Datia",
+          "official_url": "https://datia.nic.in/"
         },
         {
           "code": "402",
-          "name": "Dewas"
+          "name": "Dewas",
+          "official_url": "https://dewas.nic.in/"
         },
         {
           "code": "403",
-          "name": "Dhar"
+          "name": "Dhar",
+          "official_url": "https://dhar.nic.in/"
         },
         {
           "code": "404",
-          "name": "Dindori"
+          "name": "Dindori",
+          "official_url": "https://dindori.nic.in/"
         },
         {
           "code": "406",
-          "name": "Guna"
+          "name": "Guna",
+          "official_url": "https://guna.nic.in/"
         },
         {
           "code": "407",
-          "name": "Gwalior"
+          "name": "Gwalior",
+          "official_url": "https://gwalior.nic.in/"
         },
         {
           "code": "408",
-          "name": "Harda"
+          "name": "Harda",
+          "official_url": "https://harda.nic.in/"
         },
         {
           "code": "410",
-          "name": "Indore"
+          "name": "Indore",
+          "official_url": "https://indore.nic.in/"
         },
         {
           "code": "411",
-          "name": "Jabalpur"
+          "name": "Jabalpur",
+          "official_url": "https://jabalpur.nic.in/"
         },
         {
           "code": "412",
-          "name": "Jhabua"
+          "name": "Jhabua",
+          "official_url": "https://jhabua.nic.in/"
         },
         {
           "code": "413",
-          "name": "Katni"
+          "name": "Katni",
+          "official_url": "https://katni.nic.in/"
         },
         {
           "code": "405",
-          "name": "Khandwa (East Nimar)"
+          "name": "Khandwa (East Nimar)",
+          "official_url": "https://khandwa.nic.in/"
         },
         {
           "code": "414",
-          "name": "Khargone (West Nimar)"
+          "name": "Khargone (West Nimar)",
+          "official_url": "https://khargone.nic.in/"
         },
         {
           "code": "766",
-          "name": "MAUGANJ"
+          "name": "MAUGANJ",
+          "official_url": "https://mauganj.nic.in/en"
         },
         {
           "code": "784",
@@ -1606,31 +2017,38 @@
         },
         {
           "code": "415",
-          "name": "Mandla"
+          "name": "Mandla",
+          "official_url": "https://mandla.nic.in/"
         },
         {
           "code": "416",
-          "name": "Mandsaur"
+          "name": "Mandsaur",
+          "official_url": "https://mandsaur.nic.in/"
         },
         {
           "code": "417",
-          "name": "Morena"
+          "name": "Morena",
+          "official_url": "https://morena.nic.in/"
         },
         {
           "code": "409",
-          "name": "Narmadapuram"
+          "name": "Narmadapuram",
+          "official_url": "https://narmadapuram.nic.in/"
         },
         {
           "code": "418",
-          "name": "Narsimhapur"
+          "name": "Narsimhapur",
+          "official_url": "https://narsinghpur.nic.in/"
         },
         {
           "code": "419",
-          "name": "Neemuch"
+          "name": "Neemuch",
+          "official_url": "https://neemuch.nic.in/"
         },
         {
           "code": "722",
-          "name": "Niwari"
+          "name": "Niwari",
+          "official_url": "https://niwari.nic.in/"
         },
         {
           "code": "785",
@@ -1638,81 +2056,102 @@
         },
         {
           "code": "420",
-          "name": "Panna"
+          "name": "Panna",
+          "official_url": "https://panna.nic.in/"
         },
         {
           "code": "421",
-          "name": "Raisen"
+          "name": "Raisen",
+          "official_url": "https://raisen.nic.in/"
         },
         {
           "code": "422",
-          "name": "Rajgarh"
+          "name": "Rajgarh",
+          "official_url": "https://rajgarh.nic.in/"
         },
         {
           "code": "423",
-          "name": "Ratlam"
+          "name": "Ratlam",
+          "official_url": "https://ratlam.nic.in/"
         },
         {
           "code": "424",
-          "name": "Rewa"
+          "name": "Rewa",
+          "official_url": "https://rewa.nic.in/"
         },
         {
           "code": "425",
-          "name": "Sagar"
+          "name": "Sagar",
+          "official_url": "https://sagar.nic.in/"
         },
         {
           "code": "426",
-          "name": "Satna"
+          "name": "Satna",
+          "official_url": "https://satna.nic.in/"
         },
         {
           "code": "427",
-          "name": "Sehore"
+          "name": "Sehore",
+          "official_url": "https://sehore.nic.in/"
         },
         {
           "code": "428",
-          "name": "Seoni"
+          "name": "Seoni",
+          "official_url": "https://seoni.nic.in/"
         },
         {
           "code": "429",
-          "name": "Shahdol"
+          "name": "Shahdol",
+          "official_url": "https://shahdol.nic.in/"
         },
         {
           "code": "430",
-          "name": "Shajapur"
+          "name": "Shajapur",
+          "official_url": "https://shajapur.nic.in/"
         },
         {
           "code": "431",
-          "name": "Sheopur"
+          "name": "Sheopur",
+          "official_url": "https://sheopur.nic.in/"
         },
         {
           "code": "432",
-          "name": "Shivpuri"
+          "name": "Shivpuri",
+          "official_url": "https://shivpuri.nic.in/"
         },
         {
           "code": "433",
-          "name": "Sidhi"
+          "name": "Sidhi",
+          "official_url": "https://sidhi.nic.in/"
         },
         {
           "code": "638",
-          "name": "Singrauli"
+          "name": "Singrauli",
+          "official_url": "https://singrauli.nic.in/"
         },
         {
           "code": "434",
-          "name": "Tikamgarh"
+          "name": "Tikamgarh",
+          "official_url": "https://tikamgarh.nic.in/"
         },
         {
           "code": "435",
-          "name": "Ujjain"
+          "name": "Ujjain",
+          "official_url": "https://ujjain.nic.in/"
         },
         {
           "code": "436",
-          "name": "Umaria"
+          "name": "Umaria",
+          "official_url": "https://umaria.nic.in/"
         },
         {
           "code": "437",
-          "name": "Vidisha"
+          "name": "Vidisha",
+          "official_url": "https://vidisha.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/MP/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "27",
@@ -1720,149 +2159,187 @@
       "districts": [
         {
           "code": "466",
-          "name": "Ahilyanagar"
+          "name": "Ahilyanagar",
+          "official_url": "https://ahmednagar.nic.in/"
         },
         {
           "code": "467",
-          "name": "Akola"
+          "name": "Akola",
+          "official_url": "https://akola.gov.in/"
         },
         {
           "code": "468",
-          "name": "Amravati"
+          "name": "Amravati",
+          "official_url": "https://amravati.gov.in/"
         },
         {
           "code": "470",
-          "name": "Beed"
+          "name": "Beed",
+          "official_url": "https://beed.gov.in/"
         },
         {
           "code": "471",
-          "name": "Bhandara"
+          "name": "Bhandara",
+          "official_url": "https://bhandara.gov.in/"
         },
         {
           "code": "472",
-          "name": "Buldhana"
+          "name": "Buldhana",
+          "official_url": "https://buldhana.nic.in/"
         },
         {
           "code": "473",
-          "name": "Chandrapur"
+          "name": "Chandrapur",
+          "official_url": "https://chanda.nic.in/"
         },
         {
           "code": "469",
-          "name": "Chhatrapati Sambhajinagar"
+          "name": "Chhatrapati Sambhajinagar",
+          "official_url": "https://aurangabad.gov.in/"
         },
         {
           "code": "488",
-          "name": "Dharashiv"
+          "name": "Dharashiv",
+          "official_url": "https://osmanabad.gov.in/"
         },
         {
           "code": "474",
-          "name": "Dhule"
+          "name": "Dhule",
+          "official_url": "https://dhule.gov.in/"
         },
         {
           "code": "475",
-          "name": "Gadchiroli"
+          "name": "Gadchiroli",
+          "official_url": "https://gadchiroli.gov.in/"
         },
         {
           "code": "476",
-          "name": "Gondia"
+          "name": "Gondia",
+          "official_url": "https://gondia.gov.in/"
         },
         {
           "code": "477",
-          "name": "Hingoli"
+          "name": "Hingoli",
+          "official_url": "https://hingoli.nic.in/"
         },
         {
           "code": "478",
-          "name": "Jalgaon"
+          "name": "Jalgaon",
+          "official_url": "https://jalgaon.gov.in/"
         },
         {
           "code": "479",
-          "name": "Jalna"
+          "name": "Jalna",
+          "official_url": "https://jalna.gov.in/"
         },
         {
           "code": "480",
-          "name": "Kolhapur"
+          "name": "Kolhapur",
+          "official_url": "https://kolhapur.gov.in/"
         },
         {
           "code": "481",
-          "name": "Latur"
+          "name": "Latur",
+          "official_url": "https://latur.gov.in/"
         },
         {
           "code": "482",
-          "name": "Mumbai"
+          "name": "Mumbai",
+          "official_url": "https://mumbaicity.gov.in/"
         },
         {
           "code": "483",
-          "name": "Mumbai Suburban"
+          "name": "Mumbai Suburban",
+          "official_url": "https://mumbaisuburban.gov.in/"
         },
         {
           "code": "484",
-          "name": "Nagpur"
+          "name": "Nagpur",
+          "official_url": "https://nagpur.gov.in/"
         },
         {
           "code": "485",
-          "name": "Nanded"
+          "name": "Nanded",
+          "official_url": "https://nanded.gov.in/"
         },
         {
           "code": "486",
-          "name": "Nandurbar"
+          "name": "Nandurbar",
+          "official_url": "https://nandurbar.gov.in/"
         },
         {
           "code": "487",
-          "name": "Nashik"
+          "name": "Nashik",
+          "official_url": "https://nashik.gov.in/"
         },
         {
           "code": "665",
-          "name": "Palghar"
+          "name": "Palghar",
+          "official_url": "https://palghar.gov.in/"
         },
         {
           "code": "489",
-          "name": "Parbhani"
+          "name": "Parbhani",
+          "official_url": "https://parbhani.gov.in/"
         },
         {
           "code": "490",
-          "name": "Pune"
+          "name": "Pune",
+          "official_url": "https://pune.gov.in/"
         },
         {
           "code": "491",
-          "name": "Raigad"
+          "name": "Raigad",
+          "official_url": "https://raigad.gov.in/"
         },
         {
           "code": "492",
-          "name": "Ratnagiri"
+          "name": "Ratnagiri",
+          "official_url": "https://ratnagiri.gov.in/"
         },
         {
           "code": "493",
-          "name": "Sangli"
+          "name": "Sangli",
+          "official_url": "https://sangli.nic.in/"
         },
         {
           "code": "494",
-          "name": "Satara"
+          "name": "Satara",
+          "official_url": "https://www.satara.gov.in/"
         },
         {
           "code": "495",
-          "name": "Sindhudurg"
+          "name": "Sindhudurg",
+          "official_url": "https://sindhudurg.nic.in/"
         },
         {
           "code": "496",
-          "name": "Solapur"
+          "name": "Solapur",
+          "official_url": "https://solapur.gov.in/"
         },
         {
           "code": "497",
-          "name": "Thane"
+          "name": "Thane",
+          "official_url": "https://thane.nic.in/"
         },
         {
           "code": "498",
-          "name": "Wardha"
+          "name": "Wardha",
+          "official_url": "https://wardha.gov.in/"
         },
         {
           "code": "499",
-          "name": "Washim"
+          "name": "Washim",
+          "official_url": "https://washim.gov.in/"
         },
         {
           "code": "500",
-          "name": "Yavatmal"
+          "name": "Yavatmal",
+          "official_url": "https://yavatmal.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/MH/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "14",
@@ -1870,23 +2347,28 @@
       "districts": [
         {
           "code": "252",
-          "name": "Bishnupur"
+          "name": "Bishnupur",
+          "official_url": "https://bishnupur.nic.in/"
         },
         {
           "code": "253",
-          "name": "Chandel"
+          "name": "Chandel",
+          "official_url": "https://chandel.nic.in/"
         },
         {
           "code": "254",
-          "name": "Churachandpur"
+          "name": "Churachandpur",
+          "official_url": "https://churachandpur.nic.in/"
         },
         {
           "code": "255",
-          "name": "Imphal East"
+          "name": "Imphal East",
+          "official_url": "https://imphaleast.nic.in/"
         },
         {
           "code": "256",
-          "name": "Imphal West"
+          "name": "Imphal West",
+          "official_url": "https://imphalwest.nic.in/"
         },
         {
           "code": "713",
@@ -1894,15 +2376,18 @@
         },
         {
           "code": "711",
-          "name": "Kakching"
+          "name": "Kakching",
+          "official_url": "https://kakching.nic.in/"
         },
         {
           "code": "717",
-          "name": "Kamjong"
+          "name": "Kamjong",
+          "official_url": "https://kamjong.nic.in/"
         },
         {
           "code": "712",
-          "name": "Kangpokpi"
+          "name": "Kangpokpi",
+          "official_url": "https://kangpokpi.nic.in/"
         },
         {
           "code": "714",
@@ -1910,29 +2395,37 @@
         },
         {
           "code": "715",
-          "name": "Pherzawl"
+          "name": "Pherzawl",
+          "official_url": "https://pherzawl.nic.in/"
         },
         {
           "code": "257",
-          "name": "Senapati"
+          "name": "Senapati",
+          "official_url": "https://senapati.nic.in/"
         },
         {
           "code": "258",
-          "name": "Tamenglong"
+          "name": "Tamenglong",
+          "official_url": "https://tamenglong.nic.in/"
         },
         {
           "code": "716",
-          "name": "Tengnoupal"
+          "name": "Tengnoupal",
+          "official_url": "https://tengnoupal.nic.in/"
         },
         {
           "code": "259",
-          "name": "Thoubal"
+          "name": "Thoubal",
+          "official_url": "https://thoubal.nic.in/"
         },
         {
           "code": "260",
-          "name": "Ukhrul"
+          "name": "Ukhrul",
+          "official_url": "https://ukhrul.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/MN/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "17",
@@ -1940,15 +2433,18 @@
       "districts": [
         {
           "code": "273",
-          "name": "East Garo Hills"
+          "name": "East Garo Hills",
+          "official_url": "https://eastgarohills.gov.in/"
         },
         {
           "code": "657",
-          "name": "East Jaintia Hills"
+          "name": "East Jaintia Hills",
+          "official_url": "https://eastjaintiahills.gov.in/"
         },
         {
           "code": "274",
-          "name": "East Khasi Hills"
+          "name": "East Khasi Hills",
+          "official_url": "https://eastkhasihills.gov.in/"
         },
         {
           "code": "740",
@@ -1956,37 +2452,47 @@
         },
         {
           "code": "656",
-          "name": "North Garo Hills"
+          "name": "North Garo Hills",
+          "official_url": "https://northgarohills.gov.in/"
         },
         {
           "code": "276",
-          "name": "Ri Bhoi"
+          "name": "Ri Bhoi",
+          "official_url": "https://ribhoi.gov.in/"
         },
         {
           "code": "277",
-          "name": "South Garo Hills"
+          "name": "South Garo Hills",
+          "official_url": "https://southgarohills.gov.in/"
         },
         {
           "code": "663",
-          "name": "South West Garo Hills"
+          "name": "South West Garo Hills",
+          "official_url": "https://southwestgarohills.gov.in/"
         },
         {
           "code": "658",
-          "name": "South West Khasi Hills"
+          "name": "South West Khasi Hills",
+          "official_url": "https://southwestkhasihills.gov.in/"
         },
         {
           "code": "278",
-          "name": "West Garo Hills"
+          "name": "West Garo Hills",
+          "official_url": "https://westgarohills.gov.in/"
         },
         {
           "code": "275",
-          "name": "West Jaintia Hills"
+          "name": "West Jaintia Hills",
+          "official_url": "https://westjaintiahills.gov.in/"
         },
         {
           "code": "279",
-          "name": "West Khasi Hills"
+          "name": "West Khasi Hills",
+          "official_url": "https://westkhasihills.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/ML/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "15",
@@ -1994,11 +2500,13 @@
       "districts": [
         {
           "code": "261",
-          "name": "Aizawl"
+          "name": "Aizawl",
+          "official_url": "https://aizawl.nic.in/"
         },
         {
           "code": "262",
-          "name": "Champhai"
+          "name": "Champhai",
+          "official_url": "https://champhai.nic.in/"
         },
         {
           "code": "726",
@@ -2010,19 +2518,23 @@
         },
         {
           "code": "263",
-          "name": "Kolasib"
+          "name": "Kolasib",
+          "official_url": "https://kolasib.nic.in/"
         },
         {
           "code": "264",
-          "name": "Lawngtlai"
+          "name": "Lawngtlai",
+          "official_url": "https://lawngtlai.nic.in/"
         },
         {
           "code": "265",
-          "name": "Lunglei"
+          "name": "Lunglei",
+          "official_url": "https://lunglei.nic.in/"
         },
         {
           "code": "266",
-          "name": "Mamit"
+          "name": "Mamit",
+          "official_url": "https://mamit.nic.in/"
         },
         {
           "code": "727",
@@ -2030,13 +2542,17 @@
         },
         {
           "code": "268",
-          "name": "Serchhip"
+          "name": "Serchhip",
+          "official_url": "https://serchhip.nic.in/"
         },
         {
           "code": "267",
-          "name": "Siaha"
+          "name": "Siaha",
+          "official_url": "https://siaha.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/MZ/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "13",
@@ -2044,23 +2560,28 @@
       "districts": [
         {
           "code": "758",
-          "name": "Chumoukedima"
+          "name": "Chumoukedima",
+          "official_url": "https://chumoukedima.nic.in/"
         },
         {
           "code": "244",
-          "name": "Dimapur"
+          "name": "Dimapur",
+          "official_url": "https://dimapur.nic.in/"
         },
         {
           "code": "614",
-          "name": "Kiphire"
+          "name": "Kiphire",
+          "official_url": "https://kiphire.nic.in/"
         },
         {
           "code": "245",
-          "name": "Kohima"
+          "name": "Kohima",
+          "official_url": "https://kohima.nic.in/"
         },
         {
           "code": "615",
-          "name": "Longleng"
+          "name": "Longleng",
+          "official_url": "https://longleng.nic.in/"
         },
         {
           "code": "788",
@@ -2068,11 +2589,13 @@
         },
         {
           "code": "246",
-          "name": "Mokokchung"
+          "name": "Mokokchung",
+          "official_url": "https://mokokchung.nic.in/"
         },
         {
           "code": "247",
-          "name": "Mon"
+          "name": "Mon",
+          "official_url": "https://mon.nic.in/"
         },
         {
           "code": "764",
@@ -2080,37 +2603,47 @@
         },
         {
           "code": "736",
-          "name": "Noklak"
+          "name": "Noklak",
+          "official_url": "https://noklak.nic.in/"
         },
         {
           "code": "613",
-          "name": "Peren"
+          "name": "Peren",
+          "official_url": "https://peren-district.nic.in/"
         },
         {
           "code": "248",
-          "name": "Phek"
+          "name": "Phek",
+          "official_url": "https://phek.nic.in/"
         },
         {
           "code": "765",
-          "name": "Shamator"
+          "name": "Shamator",
+          "official_url": "https://shamator.nic.in/"
         },
         {
           "code": "757",
-          "name": "Tseminyu"
+          "name": "Tseminyu",
+          "official_url": "https://tseminyu.nic.in/"
         },
         {
           "code": "249",
-          "name": "Tuensang"
+          "name": "Tuensang",
+          "official_url": "https://tuensang.nic.in/"
         },
         {
           "code": "250",
-          "name": "Wokha"
+          "name": "Wokha",
+          "official_url": "https://wokha.nic.in/"
         },
         {
           "code": "251",
-          "name": "Zunheboto"
+          "name": "Zunheboto",
+          "official_url": "https://zunheboto.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/NL/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "21",
@@ -2118,125 +2651,157 @@
       "districts": [
         {
           "code": "344",
-          "name": "Anugola"
+          "name": "Anugola",
+          "official_url": "https://angul.odisha.gov.in/"
         },
         {
           "code": "345",
-          "name": "Balangir"
+          "name": "Balangir",
+          "official_url": "https://balangir.odisha.gov.in/"
         },
         {
           "code": "346",
-          "name": "Baleshwar"
+          "name": "Baleshwar",
+          "official_url": "https://balasore.odisha.gov.in/"
         },
         {
           "code": "347",
-          "name": "Baragada"
+          "name": "Baragada",
+          "official_url": "https://bargarh.odisha.gov.in/"
         },
         {
           "code": "348",
-          "name": "Bhadrak"
+          "name": "Bhadrak",
+          "official_url": "https://bhadrak.odisha.gov.in/"
         },
         {
           "code": "349",
-          "name": "Boudh"
+          "name": "Boudh",
+          "official_url": "https://boudh.odisha.gov.in/"
         },
         {
           "code": "351",
-          "name": "Debagada"
+          "name": "Debagada",
+          "official_url": "https://deogarh.odisha.gov.in/"
         },
         {
           "code": "352",
-          "name": "Dhenkanal"
+          "name": "Dhenkanal",
+          "official_url": "https://dhenkanal.odisha.gov.in/"
         },
         {
           "code": "353",
-          "name": "Gajapati"
+          "name": "Gajapati",
+          "official_url": "https://gajapati.odisha.gov.in/"
         },
         {
           "code": "354",
-          "name": "Ganjam"
+          "name": "Ganjam",
+          "official_url": "https://ganjam.odisha.gov.in/"
         },
         {
           "code": "355",
-          "name": "Jagatsinghapur"
+          "name": "Jagatsinghapur",
+          "official_url": "https://jagatsinghpur.odisha.gov.in/"
         },
         {
           "code": "356",
-          "name": "Jajpur"
+          "name": "Jajpur",
+          "official_url": "https://jajpur.odisha.gov.in/"
         },
         {
           "code": "357",
-          "name": "Jharsuguda"
+          "name": "Jharsuguda",
+          "official_url": "https://jharsuguda.odisha.gov.in/"
         },
         {
           "code": "358",
-          "name": "Kalahandi"
+          "name": "Kalahandi",
+          "official_url": "https://kalahandi.odisha.gov.in/"
         },
         {
           "code": "359",
-          "name": "Kandhamala"
+          "name": "Kandhamala",
+          "official_url": "https://kandhamal.odisha.gov.in/"
         },
         {
           "code": "350",
-          "name": "Kataka"
+          "name": "Kataka",
+          "official_url": "https://cuttack.odisha.gov.in/"
         },
         {
           "code": "360",
-          "name": "Kendrapada"
+          "name": "Kendrapada",
+          "official_url": "https://kendrapara.odisha.gov.in/"
         },
         {
           "code": "361",
-          "name": "Kendujhar"
+          "name": "Kendujhar",
+          "official_url": "https://kendujhar.odisha.gov.in/"
         },
         {
           "code": "362",
-          "name": "Khordha"
+          "name": "Khordha",
+          "official_url": "https://khordha.odisha.gov.in/"
         },
         {
           "code": "363",
-          "name": "Koraput"
+          "name": "Koraput",
+          "official_url": "https://koraput.odisha.gov.in/"
         },
         {
           "code": "364",
-          "name": "Malkangiri"
+          "name": "Malkangiri",
+          "official_url": "https://malkangiri.odisha.gov.in/"
         },
         {
           "code": "365",
-          "name": "Mayurbhanj"
+          "name": "Mayurbhanj",
+          "official_url": "https://mayurbhanj.odisha.gov.in/"
         },
         {
           "code": "366",
-          "name": "Nabarangpur"
+          "name": "Nabarangpur",
+          "official_url": "https://nabarangpur.odisha.gov.in/"
         },
         {
           "code": "367",
-          "name": "Nayagada"
+          "name": "Nayagada",
+          "official_url": "https://nayagarh.odisha.gov.in/"
         },
         {
           "code": "368",
-          "name": "Nuapada"
+          "name": "Nuapada",
+          "official_url": "https://nuapada.odisha.gov.in/"
         },
         {
           "code": "369",
-          "name": "Puri"
+          "name": "Puri",
+          "official_url": "https://puri.odisha.gov.in/"
         },
         {
           "code": "370",
-          "name": "Rayagada"
+          "name": "Rayagada",
+          "official_url": "https://rayagada.odisha.gov.in/"
         },
         {
           "code": "371",
-          "name": "Sambalpur"
+          "name": "Sambalpur",
+          "official_url": "https://sambalpur.odisha.gov.in/"
         },
         {
           "code": "372",
-          "name": "Subarnapur"
+          "name": "Subarnapur",
+          "official_url": "https://subarnapur.odisha.gov.in/"
         },
         {
           "code": "373",
-          "name": "Sundaragada"
+          "name": "Sundaragada",
+          "official_url": "https://sundargarh.odisha.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/OD/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "34",
@@ -2244,13 +2809,17 @@
       "districts": [
         {
           "code": "598",
-          "name": "Karaikal"
+          "name": "Karaikal",
+          "official_url": "https://karaikal.gov.in/"
         },
         {
           "code": "600",
-          "name": "Puducherry"
+          "name": "Puducherry",
+          "official_url": "https://puducherry-dt.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/PY/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "3",
@@ -2258,97 +2827,122 @@
       "districts": [
         {
           "code": "27",
-          "name": "Amritsar"
+          "name": "Amritsar",
+          "official_url": "https://amritsar.nic.in/"
         },
         {
           "code": "605",
-          "name": "Barnala"
+          "name": "Barnala",
+          "official_url": "https://barnala.gov.in/"
         },
         {
           "code": "28",
-          "name": "Bathinda"
+          "name": "Bathinda",
+          "official_url": "https://bathinda.nic.in/"
         },
         {
           "code": "29",
-          "name": "Faridkot"
+          "name": "Faridkot",
+          "official_url": "https://faridkot.nic.in/"
         },
         {
           "code": "30",
-          "name": "Fatehgarh Sahib"
+          "name": "Fatehgarh Sahib",
+          "official_url": "https://fatehgarhsahib.nic.in/"
         },
         {
           "code": "651",
-          "name": "Fazilka"
+          "name": "Fazilka",
+          "official_url": "https://fazilka.nic.in/"
         },
         {
           "code": "31",
-          "name": "Ferozepur"
+          "name": "Ferozepur",
+          "official_url": "https://ferozepur.nic.in/"
         },
         {
           "code": "32",
-          "name": "Gurdaspur"
+          "name": "Gurdaspur",
+          "official_url": "https://gurdaspur.nic.in/"
         },
         {
           "code": "33",
-          "name": "Hoshiarpur"
+          "name": "Hoshiarpur",
+          "official_url": "https://hoshiarpur.nic.in/"
         },
         {
           "code": "34",
-          "name": "Jalandhar"
+          "name": "Jalandhar",
+          "official_url": "https://jalandhar.nic.in/"
         },
         {
           "code": "35",
-          "name": "Kapurthala"
+          "name": "Kapurthala",
+          "official_url": "https://kapurthala.gov.in/"
         },
         {
           "code": "36",
-          "name": "Ludhiana"
+          "name": "Ludhiana",
+          "official_url": "https://ludhiana.nic.in/"
         },
         {
           "code": "737",
-          "name": "Malerkotla"
+          "name": "Malerkotla",
+          "official_url": "https://malerkotla.nic.in/"
         },
         {
           "code": "37",
-          "name": "Mansa"
+          "name": "Mansa",
+          "official_url": "https://mansa.nic.in/"
         },
         {
           "code": "38",
-          "name": "Moga"
+          "name": "Moga",
+          "official_url": "https://moga.nic.in/"
         },
         {
           "code": "662",
-          "name": "Pathankot"
+          "name": "Pathankot",
+          "official_url": "https://pathankot.nic.in/"
         },
         {
           "code": "41",
-          "name": "Patiala"
+          "name": "Patiala",
+          "official_url": "https://patiala.nic.in/"
         },
         {
           "code": "42",
-          "name": "Rupnagar"
+          "name": "Rupnagar",
+          "official_url": "https://rupnagar.nic.in/"
         },
         {
           "code": "608",
-          "name": "S.A.S Nagar"
+          "name": "S.A.S Nagar",
+          "official_url": "https://sasnagar.nic.in/"
         },
         {
           "code": "43",
-          "name": "Sangrur"
+          "name": "Sangrur",
+          "official_url": "https://sangrur.nic.in/"
         },
         {
           "code": "40",
-          "name": "Shahid Bhagat Singh Nagar"
+          "name": "Shahid Bhagat Singh Nagar",
+          "official_url": "https://nawanshahr.nic.in/"
         },
         {
           "code": "39",
-          "name": "Sri Muktsar Sahib"
+          "name": "Sri Muktsar Sahib",
+          "official_url": "https://muktsar.nic.in/"
         },
         {
           "code": "609",
-          "name": "Tarn Taran"
+          "name": "Tarn Taran",
+          "official_url": "https://tarntaran.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/PB/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "8",
@@ -2356,67 +2950,83 @@
       "districts": [
         {
           "code": "86",
-          "name": "Ajmer"
+          "name": "Ajmer",
+          "official_url": "https://ajmer.rajasthan.gov.in/"
         },
         {
           "code": "87",
-          "name": "Alwar"
+          "name": "Alwar",
+          "official_url": "https://alwar.rajasthan.gov.in/"
         },
         {
           "code": "775",
-          "name": "Balotra"
+          "name": "Balotra",
+          "official_url": "https://balotra.rajasthan.gov.in/"
         },
         {
           "code": "88",
-          "name": "Banswara"
+          "name": "Banswara",
+          "official_url": "https://banswara.rajasthan.gov.in/"
         },
         {
           "code": "89",
-          "name": "Baran"
+          "name": "Baran",
+          "official_url": "https://baran.rajasthan.gov.in/"
         },
         {
           "code": "90",
-          "name": "Barmer"
+          "name": "Barmer",
+          "official_url": "https://barmer.rajasthan.gov.in/"
         },
         {
           "code": "774",
-          "name": "Beawar"
+          "name": "Beawar",
+          "official_url": "https://beawar.rajasthan.gov.in/"
         },
         {
           "code": "91",
-          "name": "Bharatpur"
+          "name": "Bharatpur",
+          "official_url": "https://bharatpur.rajasthan.gov.in/"
         },
         {
           "code": "92",
-          "name": "Bhilwara"
+          "name": "Bhilwara",
+          "official_url": "https://bhilwara.rajasthan.gov.in/"
         },
         {
           "code": "93",
-          "name": "Bikaner"
+          "name": "Bikaner",
+          "official_url": "https://bikaner.rajasthan.gov.in/"
         },
         {
           "code": "94",
-          "name": "Bundi"
+          "name": "Bundi",
+          "official_url": "https://bundi.rajasthan.gov.in/"
         },
         {
           "code": "95",
-          "name": "Chittorgarh"
+          "name": "Chittorgarh",
+          "official_url": "https://chittorgarh.rajasthan.gov.in/"
         },
         {
           "code": "96",
-          "name": "Churu"
+          "name": "Churu",
+          "official_url": "https://churu.rajasthan.gov.in/"
         },
         {
           "code": "97",
-          "name": "Dausa"
+          "name": "Dausa",
+          "official_url": "https://dausa.rajasthan.gov.in/"
         },
         {
           "code": "767",
-          "name": "Deeg"
+          "name": "Deeg",
+          "official_url": "https://deeg.rajasthan.gov.in/"
         },
         {
           "code": "98",
-          "name": "Dholpur"
+          "name": "Dholpur",
+          "official_url": "https://dholpur.rajasthan.gov.in/"
         },
         {
           "code": "768",
@@ -2424,101 +3034,127 @@
         },
         {
           "code": "99",
-          "name": "Dungarpur"
+          "name": "Dungarpur",
+          "official_url": "https://dungarpur.rajasthan.gov.in/"
         },
         {
           "code": "100",
-          "name": "Ganganagar"
+          "name": "Ganganagar",
+          "official_url": "https://sriganganagar.rajasthan.gov.in/"
         },
         {
           "code": "101",
-          "name": "Hanumangarh"
+          "name": "Hanumangarh",
+          "official_url": "https://hanumangarh.rajasthan.gov.in/"
         },
         {
           "code": "102",
-          "name": "Jaipur"
+          "name": "Jaipur",
+          "official_url": "https://jaipur.rajasthan.gov.in/"
         },
         {
           "code": "103",
-          "name": "Jaisalmer"
+          "name": "Jaisalmer",
+          "official_url": "https://jaisalmer.rajasthan.gov.in/"
         },
         {
           "code": "104",
-          "name": "Jalore"
+          "name": "Jalore",
+          "official_url": "https://jalore.rajasthan.gov.in/"
         },
         {
           "code": "105",
-          "name": "Jhalawar"
+          "name": "Jhalawar",
+          "official_url": "https://jhalawar.rajasthan.gov.in/"
         },
         {
           "code": "106",
-          "name": "Jhunjhunu"
+          "name": "Jhunjhunu",
+          "official_url": "https://jhunjhunu.rajasthan.gov.in/"
         },
         {
           "code": "107",
-          "name": "Jodhpur"
+          "name": "Jodhpur",
+          "official_url": "https://jodhpur.rajasthan.gov.in/"
         },
         {
           "code": "108",
-          "name": "Karauli"
+          "name": "Karauli",
+          "official_url": "https://karauli.rajasthan.gov.in/"
         },
         {
           "code": "770",
-          "name": "Khairthal-Tijara"
+          "name": "Khairthal-Tijara",
+          "official_url": "https://khairthaltijara.rajasthan.gov.in/"
         },
         {
           "code": "109",
-          "name": "Kota"
+          "name": "Kota",
+          "official_url": "https://kota.rajasthan.gov.in/"
         },
         {
           "code": "782",
-          "name": "Kotputli-Behror"
+          "name": "Kotputli-Behror",
+          "official_url": "https://kotputlibehror.rajasthan.gov.in/"
         },
         {
           "code": "110",
-          "name": "Nagaur"
+          "name": "Nagaur",
+          "official_url": "https://nagaur.rajasthan.gov.in/"
         },
         {
           "code": "111",
-          "name": "Pali"
+          "name": "Pali",
+          "official_url": "https://pali.rajasthan.gov.in/"
         },
         {
           "code": "772",
-          "name": "Phalodi"
+          "name": "Phalodi",
+          "official_url": "https://phalodi.rajasthan.gov.in/"
         },
         {
           "code": "629",
-          "name": "Pratapgarh"
+          "name": "Pratapgarh",
+          "official_url": "https://pratapgarh.rajasthan.gov.in/"
         },
         {
           "code": "112",
-          "name": "Rajsamand"
+          "name": "Rajsamand",
+          "official_url": "https://rajsamand.rajasthan.gov.in/"
         },
         {
           "code": "777",
-          "name": "Salumbar"
+          "name": "Salumbar",
+          "official_url": "https://salumber.rajasthan.gov.in/"
         },
         {
           "code": "113",
-          "name": "Sawai Madhopur"
+          "name": "Sawai Madhopur",
+          "official_url": "https://sawaimadhopur.rajasthan.gov.in/"
         },
         {
           "code": "114",
-          "name": "Sikar"
+          "name": "Sikar",
+          "official_url": "https://sikar.rajasthan.gov.in/"
         },
         {
           "code": "115",
-          "name": "Sirohi"
+          "name": "Sirohi",
+          "official_url": "https://sirohi.rajasthan.gov.in/"
         },
         {
           "code": "116",
-          "name": "Tonk"
+          "name": "Tonk",
+          "official_url": "https://tonk.rajasthan.gov.in/"
         },
         {
           "code": "117",
-          "name": "Udaipur"
+          "name": "Udaipur",
+          "official_url": "https://udaipur.rajasthan.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/RJ/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "11",
@@ -2534,7 +3170,8 @@
         },
         {
           "code": "226",
-          "name": "Mangan"
+          "name": "Mangan",
+          "official_url": "https://mangan.nic.in/"
         },
         {
           "code": "227",
@@ -2546,9 +3183,12 @@
         },
         {
           "code": "742",
-          "name": "Soreng"
+          "name": "Soreng",
+          "official_url": "https://soreng.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/SK/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "33",
@@ -2556,83 +3196,103 @@
       "districts": [
         {
           "code": "610",
-          "name": "Ariyalur"
+          "name": "Ariyalur",
+          "official_url": "https://ariyalur.nic.in/"
         },
         {
           "code": "730",
-          "name": "Chengalpattu"
+          "name": "Chengalpattu",
+          "official_url": "https://chengalpattu.nic.in/"
         },
         {
           "code": "568",
-          "name": "Chennai"
+          "name": "Chennai",
+          "official_url": "https://chennai.nic.in/"
         },
         {
           "code": "569",
-          "name": "Coimbatore"
+          "name": "Coimbatore",
+          "official_url": "https://coimbatore.nic.in/"
         },
         {
           "code": "570",
-          "name": "Cuddalore"
+          "name": "Cuddalore",
+          "official_url": "https://cuddalore.nic.in/"
         },
         {
           "code": "571",
-          "name": "Dharmapuri"
+          "name": "Dharmapuri",
+          "official_url": "https://dharmapuri.nic.in/"
         },
         {
           "code": "572",
-          "name": "Dindigul"
+          "name": "Dindigul",
+          "official_url": "https://dindigul.nic.in/"
         },
         {
           "code": "573",
-          "name": "Erode"
+          "name": "Erode",
+          "official_url": "https://erode.nic.in/"
         },
         {
           "code": "729",
-          "name": "Kallakurichi"
+          "name": "Kallakurichi",
+          "official_url": "https://kallakurichi.nic.in/"
         },
         {
           "code": "574",
-          "name": "Kancheepuram"
+          "name": "Kancheepuram",
+          "official_url": "https://kancheepuram.nic.in/"
         },
         {
           "code": "575",
-          "name": "Kanniyakumari"
+          "name": "Kanniyakumari",
+          "official_url": "https://kanniyakumari.nic.in/"
         },
         {
           "code": "576",
-          "name": "Karur"
+          "name": "Karur",
+          "official_url": "https://karur.nic.in/"
         },
         {
           "code": "577",
-          "name": "Krishnagiri"
+          "name": "Krishnagiri",
+          "official_url": "https://krishnagiri.nic.in/"
         },
         {
           "code": "578",
-          "name": "Madurai"
+          "name": "Madurai",
+          "official_url": "https://madurai.nic.in/"
         },
         {
           "code": "735",
-          "name": "Mayiladuthurai"
+          "name": "Mayiladuthurai",
+          "official_url": "https://mayiladuthurai.nic.in/"
         },
         {
           "code": "579",
-          "name": "Nagapattinam"
+          "name": "Nagapattinam",
+          "official_url": "https://www.nagapattinam.nic.in/"
         },
         {
           "code": "580",
-          "name": "Namakkal"
+          "name": "Namakkal",
+          "official_url": "https://namakkal.nic.in/"
         },
         {
           "code": "581",
-          "name": "Perambalur"
+          "name": "Perambalur",
+          "official_url": "https://perambalur.nic.in/"
         },
         {
           "code": "582",
-          "name": "Pudukkottai"
+          "name": "Pudukkottai",
+          "official_url": "https://pudukkottai.nic.in/"
         },
         {
           "code": "583",
-          "name": "Ramanathapuram"
+          "name": "Ramanathapuram",
+          "official_url": "https://ramanathapuram.nic.in/"
         },
         {
           "code": "731",
@@ -2640,73 +3300,92 @@
         },
         {
           "code": "584",
-          "name": "Salem"
+          "name": "Salem",
+          "official_url": "https://salem.nic.in/"
         },
         {
           "code": "585",
-          "name": "Sivaganga"
+          "name": "Sivaganga",
+          "official_url": "https://sivaganga.nic.in/"
         },
         {
           "code": "733",
-          "name": "Tenkasi"
+          "name": "Tenkasi",
+          "official_url": "https://tenkasi.nic.in/"
         },
         {
           "code": "586",
-          "name": "Thanjavur"
+          "name": "Thanjavur",
+          "official_url": "https://thanjavur.nic.in/"
         },
         {
           "code": "587",
-          "name": "The Nilgiris"
+          "name": "The Nilgiris",
+          "official_url": "https://nilgiris.nic.in/"
         },
         {
           "code": "588",
-          "name": "Theni"
+          "name": "Theni",
+          "official_url": "https://theni.nic.in/"
         },
         {
           "code": "589",
-          "name": "Thiruvallur"
+          "name": "Thiruvallur",
+          "official_url": "https://tiruvallur.nic.in/"
         },
         {
           "code": "590",
-          "name": "Thiruvarur"
+          "name": "Thiruvarur",
+          "official_url": "https://tiruvarur.nic.in/"
         },
         {
           "code": "594",
-          "name": "Thoothukkudi"
+          "name": "Thoothukkudi",
+          "official_url": "https://thoothukudi.nic.in/"
         },
         {
           "code": "591",
-          "name": "Tiruchirappalli"
+          "name": "Tiruchirappalli",
+          "official_url": "https://tiruchirappalli.nic.in/"
         },
         {
           "code": "592",
-          "name": "Tirunelveli"
+          "name": "Tirunelveli",
+          "official_url": "https://tirunelveli.nic.in/"
         },
         {
           "code": "732",
-          "name": "Tirupathur"
+          "name": "Tirupathur",
+          "official_url": "https://tirupathur.nic.in/"
         },
         {
           "code": "634",
-          "name": "Tiruppur"
+          "name": "Tiruppur",
+          "official_url": "https://tiruppur.nic.in/"
         },
         {
           "code": "593",
-          "name": "Tiruvannamalai"
+          "name": "Tiruvannamalai",
+          "official_url": "https://tiruvannamalai.nic.in/"
         },
         {
           "code": "595",
-          "name": "Vellore"
+          "name": "Vellore",
+          "official_url": "https://vellore.nic.in/"
         },
         {
           "code": "596",
-          "name": "Viluppuram"
+          "name": "Viluppuram",
+          "official_url": "https://viluppuram.nic.in/"
         },
         {
           "code": "597",
-          "name": "Virudhunagar"
+          "name": "Virudhunagar",
+          "official_url": "https://virudhunagar.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/TN/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "36",
@@ -2714,137 +3393,172 @@
       "districts": [
         {
           "code": "501",
-          "name": "Adilabad"
+          "name": "Adilabad",
+          "official_url": "https://adilabad.telangana.gov.in/"
         },
         {
           "code": "690",
-          "name": "Bhadradri Kothagudem"
+          "name": "Bhadradri Kothagudem",
+          "official_url": "https://kothagudem.telangana.gov.in/"
         },
         {
           "code": "686",
-          "name": "Hanumakonda"
+          "name": "Hanumakonda",
+          "official_url": "https://hanumakonda.telangana.gov.in/"
         },
         {
           "code": "507",
-          "name": "Hyderabad"
+          "name": "Hyderabad",
+          "official_url": "https://hyderabad.telangana.gov.in/"
         },
         {
           "code": "681",
-          "name": "Jagitial"
+          "name": "Jagitial",
+          "official_url": "https://jagtial.telangana.gov.in/"
         },
         {
           "code": "689",
-          "name": "Jangoan"
+          "name": "Jangoan",
+          "official_url": "https://jangaon.telangana.gov.in/"
         },
         {
           "code": "687",
-          "name": "Jayashankar Bhupalapally"
+          "name": "Jayashankar Bhupalapally",
+          "official_url": "https://bhoopalapally.telangana.gov.in/"
         },
         {
           "code": "695",
-          "name": "Jogulamba Gadwal"
+          "name": "Jogulamba Gadwal",
+          "official_url": "https://gadwal.telangana.gov.in/"
         },
         {
           "code": "685",
-          "name": "Kamareddy"
+          "name": "Kamareddy",
+          "official_url": "https://kamareddy.telangana.gov.in/"
         },
         {
           "code": "508",
-          "name": "Karimnagar"
+          "name": "Karimnagar",
+          "official_url": "https://karimnagar.telangana.gov.in/"
         },
         {
           "code": "509",
-          "name": "Khammam"
+          "name": "Khammam",
+          "official_url": "https://khammam.telangana.gov.in/"
         },
         {
           "code": "699",
-          "name": "Kumuram Bheem Asifabad"
+          "name": "Kumuram Bheem Asifabad",
+          "official_url": "https://asifabad.telangana.gov.in/"
         },
         {
           "code": "688",
-          "name": "Mahabubabad"
+          "name": "Mahabubabad",
+          "official_url": "https://mahabubabad.telangana.gov.in/"
         },
         {
           "code": "512",
-          "name": "Mahabubnagar"
+          "name": "Mahabubnagar",
+          "official_url": "https://mahabubnagar.telangana.gov.in/"
         },
         {
           "code": "684",
-          "name": "Mancherial"
+          "name": "Mancherial",
+          "official_url": "https://mancherial.telangana.gov.in/"
         },
         {
           "code": "513",
-          "name": "Medak"
+          "name": "Medak",
+          "official_url": "https://medak.telangana.gov.in/"
         },
         {
           "code": "700",
-          "name": "Medchal Malkajgiri"
+          "name": "Medchal Malkajgiri",
+          "official_url": "https://medchal-malkajgiri.telangana.gov.in/"
         },
         {
           "code": "720",
-          "name": "Mulugu"
+          "name": "Mulugu",
+          "official_url": "https://mulugu.telangana.gov.in/"
         },
         {
           "code": "694",
-          "name": "Nagarkurnool"
+          "name": "Nagarkurnool",
+          "official_url": "https://nagarkurnool.telangana.gov.in/"
         },
         {
           "code": "514",
-          "name": "Nalgonda"
+          "name": "Nalgonda",
+          "official_url": "https://nalgonda.telangana.gov.in/"
         },
         {
           "code": "721",
-          "name": "Narayanpet"
+          "name": "Narayanpet",
+          "official_url": "https://narayanpet.telangana.gov.in/"
         },
         {
           "code": "680",
-          "name": "Nirmal"
+          "name": "Nirmal",
+          "official_url": "https://nirmal.telangana.gov.in/"
         },
         {
           "code": "516",
-          "name": "Nizamabad"
+          "name": "Nizamabad",
+          "official_url": "https://nizamabad.telangana.gov.in/"
         },
         {
           "code": "682",
-          "name": "Peddapalli"
+          "name": "Peddapalli",
+          "official_url": "https://peddapalli.telangana.gov.in/"
         },
         {
           "code": "683",
-          "name": "Rajanna Sircilla"
+          "name": "Rajanna Sircilla",
+          "official_url": "https://rajannasircilla.telangana.gov.in/"
         },
         {
           "code": "518",
-          "name": "Ranga Reddy"
+          "name": "Ranga Reddy",
+          "official_url": "https://rangareddy.telangana.gov.in/"
         },
         {
           "code": "691",
-          "name": "Sangareddy"
+          "name": "Sangareddy",
+          "official_url": "https://sangareddy.telangana.gov.in/"
         },
         {
           "code": "692",
-          "name": "Siddipet"
+          "name": "Siddipet",
+          "official_url": "https://siddipet.telangana.gov.in/"
         },
         {
           "code": "696",
-          "name": "Suryapet"
+          "name": "Suryapet",
+          "official_url": "https://suryapet.telangana.gov.in/"
         },
         {
           "code": "698",
-          "name": "Vikarabad"
+          "name": "Vikarabad",
+          "official_url": "https://vikarabad.telangana.gov.in/"
         },
         {
           "code": "693",
-          "name": "Wanaparthy"
+          "name": "Wanaparthy",
+          "official_url": "https://wanaparthy.telangana.gov.in/"
         },
         {
           "code": "522",
-          "name": "Warangal"
+          "name": "Warangal",
+          "official_url": "https://warangal.telangana.gov.in/"
         },
         {
           "code": "697",
-          "name": "Yadadri Bhuvanagiri"
+          "name": "Yadadri Bhuvanagiri",
+          "official_url": "https://yadadri.telangana.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/TS/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "38",
@@ -2852,17 +3566,22 @@
       "districts": [
         {
           "code": "465",
-          "name": "Dadra And Nagar Haveli"
+          "name": "Dadra And Nagar Haveli",
+          "official_url": "https://dnh.gov.in/"
         },
         {
           "code": "463",
-          "name": "Daman"
+          "name": "Daman",
+          "official_url": "https://daman.nic.in/websites/collectorate_daman/index.asp"
         },
         {
           "code": "464",
-          "name": "Diu"
+          "name": "Diu",
+          "official_url": "https://diu.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/ND/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "16",
@@ -2870,37 +3589,47 @@
       "districts": [
         {
           "code": "269",
-          "name": "Dhalai"
+          "name": "Dhalai",
+          "official_url": "https://dhalai.nic.in/"
         },
         {
           "code": "654",
-          "name": "Gomati"
+          "name": "Gomati",
+          "official_url": "https://gomati.nic.in/"
         },
         {
           "code": "652",
-          "name": "Khowai"
+          "name": "Khowai",
+          "official_url": "https://khowai.nic.in/"
         },
         {
           "code": "270",
-          "name": "North Tripura"
+          "name": "North Tripura",
+          "official_url": "https://northtripura.nic.in/"
         },
         {
           "code": "653",
-          "name": "Sepahijala"
+          "name": "Sepahijala",
+          "official_url": "https://sepahijala.nic.in/"
         },
         {
           "code": "271",
-          "name": "South Tripura"
+          "name": "South Tripura",
+          "official_url": "https://southtripura.nic.in/"
         },
         {
           "code": "655",
-          "name": "Unakoti"
+          "name": "Unakoti",
+          "official_url": "https://unakoti.nic.in/"
         },
         {
           "code": "272",
-          "name": "West Tripura"
+          "name": "West Tripura",
+          "official_url": "https://westtripura.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/TR/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "5",
@@ -2908,57 +3637,72 @@
       "districts": [
         {
           "code": "45",
-          "name": "Almora"
+          "name": "Almora",
+          "official_url": "https://almora.nic.in/"
         },
         {
           "code": "46",
-          "name": "Bageshwar"
+          "name": "Bageshwar",
+          "official_url": "https://bageshwar.nic.in/"
         },
         {
           "code": "47",
-          "name": "Chamoli"
+          "name": "Chamoli",
+          "official_url": "https://chamoli.gov.in/"
         },
         {
           "code": "48",
-          "name": "Champawat"
+          "name": "Champawat",
+          "official_url": "https://champawat.nic.in/"
         },
         {
           "code": "49",
-          "name": "Dehradun"
+          "name": "Dehradun",
+          "official_url": "https://dehradun.nic.in/"
         },
         {
           "code": "50",
-          "name": "Haridwar"
+          "name": "Haridwar",
+          "official_url": "https://haridwar.nic.in/"
         },
         {
           "code": "51",
-          "name": "Nainital"
+          "name": "Nainital",
+          "official_url": "https://nainital.nic.in/"
         },
         {
           "code": "52",
-          "name": "Pauri Garhwal"
+          "name": "Pauri Garhwal",
+          "official_url": "https://pauri.nic.in/"
         },
         {
           "code": "53",
-          "name": "Pithoragarh"
+          "name": "Pithoragarh",
+          "official_url": "https://pithoragarh.nic.in/"
         },
         {
           "code": "54",
-          "name": "Rudraprayag"
+          "name": "Rudraprayag",
+          "official_url": "https://rudraprayag.gov.in/"
         },
         {
           "code": "55",
-          "name": "Tehri Garhwal"
+          "name": "Tehri Garhwal",
+          "official_url": "https://tehri.nic.in/"
         },
         {
           "code": "56",
-          "name": "Udham Singh Nagar"
+          "name": "Udham Singh Nagar",
+          "official_url": "https://usnagar.nic.in/"
         },
         {
           "code": "57",
-          "name": "Uttarkashi"
+          "name": "Uttarkashi",
+          "official_url": "https://uttarkashi.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/UK/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "9",
@@ -2966,305 +3710,382 @@
       "districts": [
         {
           "code": "118",
-          "name": "Agra"
+          "name": "Agra",
+          "official_url": "https://agra.nic.in/"
         },
         {
           "code": "119",
-          "name": "Aligarh"
+          "name": "Aligarh",
+          "official_url": "https://aligarh.nic.in/"
         },
         {
           "code": "121",
-          "name": "Ambedkar Nagar"
+          "name": "Ambedkar Nagar",
+          "official_url": "https://ambedkarnagar.nic.in/"
         },
         {
           "code": "640",
-          "name": "Amethi"
+          "name": "Amethi",
+          "official_url": "https://amethi.nic.in/"
         },
         {
           "code": "154",
-          "name": "Amroha"
+          "name": "Amroha",
+          "official_url": "https://amroha.nic.in/"
         },
         {
           "code": "122",
-          "name": "Auraiya"
+          "name": "Auraiya",
+          "official_url": "https://auraiya.nic.in/"
         },
         {
           "code": "140",
-          "name": "Ayodhya"
+          "name": "Ayodhya",
+          "official_url": "https://ayodhya.nic.in/"
         },
         {
           "code": "123",
-          "name": "Azamgarh"
+          "name": "Azamgarh",
+          "official_url": "https://azamgarh.nic.in/"
         },
         {
           "code": "124",
-          "name": "Baghpat"
+          "name": "Baghpat",
+          "official_url": "https://bagpat.nic.in/"
         },
         {
           "code": "125",
-          "name": "Bahraich"
+          "name": "Bahraich",
+          "official_url": "https://bahraich.nic.in/"
         },
         {
           "code": "126",
-          "name": "Ballia"
+          "name": "Ballia",
+          "official_url": "https://ballia.nic.in/"
         },
         {
           "code": "127",
-          "name": "Balrampur"
+          "name": "Balrampur",
+          "official_url": "https://balrampur.nic.in/"
         },
         {
           "code": "128",
-          "name": "Banda"
+          "name": "Banda",
+          "official_url": "https://banda.nic.in/"
         },
         {
           "code": "129",
-          "name": "Bara Banki"
+          "name": "Bara Banki",
+          "official_url": "https://barabanki.nic.in/"
         },
         {
           "code": "130",
-          "name": "Bareilly"
+          "name": "Bareilly",
+          "official_url": "https://bareilly.nic.in/"
         },
         {
           "code": "131",
-          "name": "Basti"
+          "name": "Basti",
+          "official_url": "https://basti.nic.in/"
         },
         {
           "code": "179",
-          "name": "Bhadohi"
+          "name": "Bhadohi",
+          "official_url": "https://bhadohi.nic.in/"
         },
         {
           "code": "132",
-          "name": "Bijnor"
+          "name": "Bijnor",
+          "official_url": "https://bijnor.nic.in/"
         },
         {
           "code": "133",
-          "name": "Budaun"
+          "name": "Budaun",
+          "official_url": "https://budaun.nic.in/"
         },
         {
           "code": "134",
-          "name": "Bulandshahr"
+          "name": "Bulandshahr",
+          "official_url": "https://bulandshahar.nic.in/"
         },
         {
           "code": "135",
-          "name": "Chandauli"
+          "name": "Chandauli",
+          "official_url": "https://chandauli.nic.in/"
         },
         {
           "code": "136",
-          "name": "Chitrakoot"
+          "name": "Chitrakoot",
+          "official_url": "https://chitrakoot.nic.in/"
         },
         {
           "code": "137",
-          "name": "Deoria"
+          "name": "Deoria",
+          "official_url": "https://deoria.nic.in/"
         },
         {
           "code": "138",
-          "name": "Etah"
+          "name": "Etah",
+          "official_url": "https://etah.nic.in/"
         },
         {
           "code": "139",
-          "name": "Etawah"
+          "name": "Etawah",
+          "official_url": "https://etawah.nic.in/"
         },
         {
           "code": "141",
-          "name": "Farrukhabad"
+          "name": "Farrukhabad",
+          "official_url": "https://farrukhabad.nic.in/"
         },
         {
           "code": "142",
-          "name": "Fatehpur"
+          "name": "Fatehpur",
+          "official_url": "https://fatehpur.nic.in/"
         },
         {
           "code": "143",
-          "name": "Firozabad"
+          "name": "Firozabad",
+          "official_url": "https://firozabad.nic.in/"
         },
         {
           "code": "144",
-          "name": "Gautam Buddha Nagar"
+          "name": "Gautam Buddha Nagar",
+          "official_url": "https://gbnagar.nic.in/"
         },
         {
           "code": "145",
-          "name": "Ghaziabad"
+          "name": "Ghaziabad",
+          "official_url": "https://ghaziabad.nic.in/"
         },
         {
           "code": "146",
-          "name": "Ghazipur"
+          "name": "Ghazipur",
+          "official_url": "https://ghazipur.nic.in/"
         },
         {
           "code": "147",
-          "name": "Gonda"
+          "name": "Gonda",
+          "official_url": "https://gonda.nic.in/"
         },
         {
           "code": "148",
-          "name": "Gorakhpur"
+          "name": "Gorakhpur",
+          "official_url": "https://gorakhpur.nic.in/"
         },
         {
           "code": "149",
-          "name": "Hamirpur"
+          "name": "Hamirpur",
+          "official_url": "https://hamirpur.nic.in/"
         },
         {
           "code": "661",
-          "name": "Hapur"
+          "name": "Hapur",
+          "official_url": "https://hapur.nic.in/"
         },
         {
           "code": "150",
-          "name": "Hardoi"
+          "name": "Hardoi",
+          "official_url": "https://hardoi.nic.in/"
         },
         {
           "code": "163",
-          "name": "Hathras"
+          "name": "Hathras",
+          "official_url": "https://hathras.nic.in/"
         },
         {
           "code": "151",
-          "name": "Jalaun"
+          "name": "Jalaun",
+          "official_url": "https://jalaun.nic.in/"
         },
         {
           "code": "152",
-          "name": "Jaunpur"
+          "name": "Jaunpur",
+          "official_url": "https://jaunpur.nic.in/"
         },
         {
           "code": "153",
-          "name": "Jhansi"
+          "name": "Jhansi",
+          "official_url": "https://jhansi.nic.in/"
         },
         {
           "code": "155",
-          "name": "Kannauj"
+          "name": "Kannauj",
+          "official_url": "https://kannauj.nic.in/"
         },
         {
           "code": "156",
-          "name": "Kanpur Dehat"
+          "name": "Kanpur Dehat",
+          "official_url": "https://kanpurdehat.nic.in/"
         },
         {
           "code": "157",
-          "name": "Kanpur Nagar"
+          "name": "Kanpur Nagar",
+          "official_url": "https://kanpurnagar.nic.in/"
         },
         {
           "code": "633",
-          "name": "Kasganj"
+          "name": "Kasganj",
+          "official_url": "https://kasganj.nic.in/"
         },
         {
           "code": "158",
-          "name": "Kaushambi"
+          "name": "Kaushambi",
+          "official_url": "https://kaushambi.nic.in/"
         },
         {
           "code": "159",
-          "name": "Kheri"
+          "name": "Kheri",
+          "official_url": "https://kheri.nic.in/"
         },
         {
           "code": "160",
-          "name": "Kushinagar"
+          "name": "Kushinagar",
+          "official_url": "https://kushinagar.nic.in/"
         },
         {
           "code": "161",
-          "name": "Lalitpur"
+          "name": "Lalitpur",
+          "official_url": "https://lalitpur.nic.in/"
         },
         {
           "code": "162",
-          "name": "Lucknow"
+          "name": "Lucknow",
+          "official_url": "https://lucknow.nic.in/"
         },
         {
           "code": "165",
-          "name": "Mahoba"
+          "name": "Mahoba",
+          "official_url": "https://mahoba.nic.in/"
         },
         {
           "code": "164",
-          "name": "Mahrajganj"
+          "name": "Mahrajganj",
+          "official_url": "https://maharajganj.nic.in/"
         },
         {
           "code": "166",
-          "name": "Mainpuri"
+          "name": "Mainpuri",
+          "official_url": "https://mainpuri.nic.in/"
         },
         {
           "code": "167",
-          "name": "Mathura"
+          "name": "Mathura",
+          "official_url": "https://mathura.nic.in/"
         },
         {
           "code": "168",
-          "name": "Mau"
+          "name": "Mau",
+          "official_url": "https://mau.nic.in/"
         },
         {
           "code": "169",
-          "name": "Meerut"
+          "name": "Meerut",
+          "official_url": "https://meerut.nic.in/"
         },
         {
           "code": "170",
-          "name": "Mirzapur"
+          "name": "Mirzapur",
+          "official_url": "https://mirzapur.nic.in/"
         },
         {
           "code": "171",
-          "name": "Moradabad"
+          "name": "Moradabad",
+          "official_url": "https://moradabad.nic.in/"
         },
         {
           "code": "172",
-          "name": "Muzaffarnagar"
+          "name": "Muzaffarnagar",
+          "official_url": "https://muzaffarnagar.nic.in/"
         },
         {
           "code": "173",
-          "name": "Pilibhit"
+          "name": "Pilibhit",
+          "official_url": "https://pilibhit.nic.in/"
         },
         {
           "code": "174",
-          "name": "Pratapgarh"
+          "name": "Pratapgarh",
+          "official_url": "https://pratapgarh.nic.in/"
         },
         {
           "code": "120",
-          "name": "Prayagraj"
+          "name": "Prayagraj",
+          "official_url": "https://prayagraj.nic.in/"
         },
         {
           "code": "175",
-          "name": "Rae Bareli"
+          "name": "Rae Bareli",
+          "official_url": "https://raebareli.nic.in/"
         },
         {
           "code": "176",
-          "name": "Rampur"
+          "name": "Rampur",
+          "official_url": "https://rampur.nic.in/"
         },
         {
           "code": "177",
-          "name": "Saharanpur"
+          "name": "Saharanpur",
+          "official_url": "https://saharanpur.nic.in/"
         },
         {
           "code": "659",
-          "name": "Sambhal"
+          "name": "Sambhal",
+          "official_url": "https://sambhal.nic.in/"
         },
         {
           "code": "178",
-          "name": "Sant Kabir Nagar"
+          "name": "Sant Kabir Nagar",
+          "official_url": "https://sknagar.nic.in/"
         },
         {
           "code": "180",
-          "name": "Shahjahanpur"
+          "name": "Shahjahanpur",
+          "official_url": "https://shahjahanpur.nic.in/"
         },
         {
           "code": "660",
-          "name": "Shamli"
+          "name": "Shamli",
+          "official_url": "https://shamli.nic.in/"
         },
         {
           "code": "181",
-          "name": "Shrawasti"
+          "name": "Shrawasti",
+          "official_url": "https://shravasti.nic.in/"
         },
         {
           "code": "182",
-          "name": "Siddharthnagar"
+          "name": "Siddharthnagar",
+          "official_url": "https://siddharthnagar.nic.in/"
         },
         {
           "code": "183",
-          "name": "Sitapur"
+          "name": "Sitapur",
+          "official_url": "https://sitapur.nic.in/"
         },
         {
           "code": "184",
-          "name": "Sonbhadra"
+          "name": "Sonbhadra",
+          "official_url": "https://sonbhadra.nic.in/"
         },
         {
           "code": "185",
-          "name": "Sultanpur"
+          "name": "Sultanpur",
+          "official_url": "https://sultanpur.nic.in/"
         },
         {
           "code": "186",
-          "name": "Unnao"
+          "name": "Unnao",
+          "official_url": "https://unnao.nic.in/"
         },
         {
           "code": "187",
-          "name": "Varanasi"
+          "name": "Varanasi",
+          "official_url": "https://varanasi.nic.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/UP/E042/organizations",
+      "verified_date": "2026-10-16"
     },
     {
       "code": "19",
@@ -3272,47 +4093,58 @@
       "districts": [
         {
           "code": "664",
-          "name": "Alipurduar"
+          "name": "Alipurduar",
+          "official_url": "https://alipurduar.gov.in/"
         },
         {
           "code": "305",
-          "name": "Bankura"
+          "name": "Bankura",
+          "official_url": "https://bankura.gov.in/"
         },
         {
           "code": "307",
-          "name": "Birbhum"
+          "name": "Birbhum",
+          "official_url": "https://birbhum.gov.in/"
         },
         {
           "code": "308",
-          "name": "Cooch Behar"
+          "name": "Cooch Behar",
+          "official_url": "https://coochbehar.gov.in/"
         },
         {
           "code": "310",
-          "name": "Dakshin Dinajpur"
+          "name": "Dakshin Dinajpur",
+          "official_url": "https://ddinajpur.nic.in/"
         },
         {
           "code": "309",
-          "name": "Darjeeling"
+          "name": "Darjeeling",
+          "official_url": "https://darjeeling.gov.in/"
         },
         {
           "code": "312",
-          "name": "Hooghly"
+          "name": "Hooghly",
+          "official_url": "https://hooghly.nic.in/"
         },
         {
           "code": "313",
-          "name": "Howrah"
+          "name": "Howrah",
+          "official_url": "https://howrah.gov.in/"
         },
         {
           "code": "314",
-          "name": "Jalpaiguri"
+          "name": "Jalpaiguri",
+          "official_url": "https://jalpaiguri.gov.in/"
         },
         {
           "code": "703",
-          "name": "Jhargram"
+          "name": "Jhargram",
+          "official_url": "https://jhargram.gov.in/"
         },
         {
           "code": "702",
-          "name": "Kalimpong"
+          "name": "Kalimpong",
+          "official_url": "https://kalimpong.gov.in/"
         },
         {
           "code": "315",
@@ -3320,49 +4152,70 @@
         },
         {
           "code": "316",
-          "name": "Malda"
+          "name": "Malda",
+          "official_url": "https://malda.gov.in/"
         },
         {
           "code": "319",
-          "name": "Murshidabad"
+          "name": "Murshidabad",
+          "official_url": "https://murshidabad.gov.in/"
         },
         {
           "code": "320",
-          "name": "Nadia"
+          "name": "Nadia",
+          "official_url": "https://nadia.gov.in/"
         },
         {
           "code": "303",
-          "name": "North 24 Parganas"
+          "name": "North 24 Parganas",
+          "official_url": "https://north24parganas.gov.in/"
         },
         {
           "code": "704",
-          "name": "Paschim Bardhaman"
+          "name": "Paschim Bardhaman",
+          "official_url": "https://paschimbardhaman.gov.in/"
         },
         {
           "code": "318",
-          "name": "Paschim Medinipur"
+          "name": "Paschim Medinipur",
+          "official_url": "https://paschimmedinipur.gov.in/"
         },
         {
           "code": "306",
-          "name": "Purba Bardhaman"
+          "name": "Purba Bardhaman",
+          "official_url": "https://purbabardhaman.nic.in/"
         },
         {
           "code": "317",
-          "name": "Purba Medinipur"
+          "name": "Purba Medinipur",
+          "official_url": "https://purbamedinipur.gov.in/"
         },
         {
           "code": "321",
-          "name": "Purulia"
+          "name": "Purulia",
+          "official_url": "https://purulia.gov.in/"
         },
         {
           "code": "304",
-          "name": "South 24 Parganas"
+          "name": "South 24 Parganas",
+          "official_url": "https://s24pgs.gov.in/"
         },
         {
           "code": "311",
-          "name": "Uttar Dinajpur"
+          "name": "Uttar Dinajpur",
+          "official_url": "https://uttardinajpur.gov.in/"
         }
-      ]
+      ],
+      "official_source": "https://igod.gov.in/sg/WB/E042/organizations",
+      "verified_date": "2026-10-16"
     }
-  ]
+  ],
+  "verification": {
+    "checked": "2026-10-16",
+    "directory": "https://igod.gov.in/sg/district/states",
+    "base_count": 784,
+    "supplemental_count": 5,
+    "total": 789,
+    "note": "IGOD lists 784 district entries. Added five Ladakh districts from the UT notification dated 27 April 2026; supplemental identifiers are not LGD codes."
+  }
 }

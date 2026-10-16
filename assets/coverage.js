@@ -25,7 +25,7 @@
       if (count) stateCount++;
       districtCount += count;
     }
-    document.querySelector('#coverage-status').textContent = `${districtCount} districts in ${stateCount} states / union territories`;
+    document.querySelector('#coverage-status').textContent = `${districtCount} ${districtCount === 1 ? 'district' : 'districts'} in ${stateCount} ${stateCount === 1 ? 'state / union territory' : 'states / union territories'}`;
     document.querySelector('#coverage-empty').hidden = districtCount > 0;
   }
   document.querySelector('.coverage-controls').hidden = false;

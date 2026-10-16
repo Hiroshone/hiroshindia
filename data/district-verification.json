@@ -1,0 +1,257 @@
+{
+  "checked": "2026-10-16",
+  "states": [
+    {
+      "state": "Andaman And Nicobar Islands",
+      "source": "https://igod.gov.in/sg/AN/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 3
+    },
+    {
+      "state": "Andhra Pradesh",
+      "source": "https://igod.gov.in/sg/AP/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 28
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "source": "https://igod.gov.in/sg/AR/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 27
+    },
+    {
+      "state": "Assam",
+      "source": "https://igod.gov.in/sg/AS/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 35
+    },
+    {
+      "state": "Bihar",
+      "source": "https://igod.gov.in/sg/BR/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 38
+    },
+    {
+      "state": "Chandigarh",
+      "source": "https://igod.gov.in/sg/CH/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 1
+    },
+    {
+      "state": "Chhattisgarh",
+      "source": "https://igod.gov.in/sg/CG/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 33
+    },
+    {
+      "state": "Delhi",
+      "source": "https://igod.gov.in/sg/DL/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 13
+    },
+    {
+      "state": "Goa",
+      "source": "https://igod.gov.in/sg/GA/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 3
+    },
+    {
+      "state": "Gujarat",
+      "source": "https://igod.gov.in/sg/GJ/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 34
+    },
+    {
+      "state": "Haryana",
+      "source": "https://igod.gov.in/sg/HR/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 23
+    },
+    {
+      "state": "Himachal Pradesh",
+      "source": "https://igod.gov.in/sg/HP/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 12
+    },
+    {
+      "state": "Jammu And Kashmir",
+      "source": "https://igod.gov.in/sg/JK/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 20
+    },
+    {
+      "state": "Jharkhand",
+      "source": "https://igod.gov.in/sg/JH/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 24
+    },
+    {
+      "state": "Karnataka",
+      "source": "https://igod.gov.in/sg/KA/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 31
+    },
+    {
+      "state": "Kerala",
+      "source": "https://igod.gov.in/sg/KL/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 14
+    },
+    {
+      "state": "Ladakh",
+      "source": "https://igod.gov.in/sg/LA/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 2
+    },
+    {
+      "state": "Lakshadweep",
+      "source": "https://igod.gov.in/sg/LD/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 1
+    },
+    {
+      "state": "Madhya Pradesh",
+      "source": "https://igod.gov.in/sg/MP/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 55
+    },
+    {
+      "state": "Maharashtra",
+      "source": "https://igod.gov.in/sg/MH/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 36
+    },
+    {
+      "state": "Manipur",
+      "source": "https://igod.gov.in/sg/MN/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 16
+    },
+    {
+      "state": "Meghalaya",
+      "source": "https://igod.gov.in/sg/ML/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 12
+    },
+    {
+      "state": "Mizoram",
+      "source": "https://igod.gov.in/sg/MZ/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 11
+    },
+    {
+      "state": "Nagaland",
+      "source": "https://igod.gov.in/sg/NL/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 17
+    },
+    {
+      "state": "Odisha",
+      "source": "https://igod.gov.in/sg/OD/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 30
+    },
+    {
+      "state": "Puducherry",
+      "source": "https://igod.gov.in/sg/PY/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 2
+    },
+    {
+      "state": "Punjab",
+      "source": "https://igod.gov.in/sg/PB/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 23
+    },
+    {
+      "state": "Rajasthan",
+      "source": "https://igod.gov.in/sg/RJ/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 41
+    },
+    {
+      "state": "Sikkim",
+      "source": "https://igod.gov.in/sg/SK/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 6
+    },
+    {
+      "state": "Tamil Nadu",
+      "source": "https://igod.gov.in/sg/TN/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 38
+    },
+    {
+      "state": "Telangana",
+      "source": "https://igod.gov.in/sg/TS/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 33
+    },
+    {
+      "state": "The Dadra And Nagar Haveli And Daman And Diu",
+      "source": "https://igod.gov.in/sg/ND/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 3
+    },
+    {
+      "state": "Tripura",
+      "source": "https://igod.gov.in/sg/TR/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 8
+    },
+    {
+      "state": "Uttarakhand",
+      "source": "https://igod.gov.in/sg/UK/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 13
+    },
+    {
+      "state": "Uttar Pradesh",
+      "source": "https://igod.gov.in/sg/UP/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 75
+    },
+    {
+      "state": "West Bengal",
+      "source": "https://igod.gov.in/sg/WB/E042/organizations",
+      "lgd_only": [],
+      "igod_only": [],
+      "official_count": 23
+    }
+  ]
+}
