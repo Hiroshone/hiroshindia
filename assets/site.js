@@ -4,9 +4,11 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&menu?.getAttribute(
 const quote=document.querySelector('#quote-form');
 const partner=document.querySelector('#partner-form');
 const review=document.querySelector('#review');
-const names={odc_length:'Length (metres)',odc_width:'Width (metres)',odc_height:'Height (metres)',odc_weight:'Total weight (tonnes)',odc_handling:'Loading and unloading facilities',name:'Name',phone:'Phone / WhatsApp',email:'Email',company:'Business / organisation',origin:'Pickup / service location',destination:'Delivery location',date:'Preferred date',pincodes:'PIN codes',weight:'Approximate weight',packages:'Packages',dimensions:'Dimensions',vehicle_model:'Vehicle',truck_type:'Truck requirement',temperature:'Temperature requirement',access:'Site / packing details',vessel:'Vessel / port details',details:'Requirement',location:'City / state',pincode:'PIN code',role:'Partnership interest',coverage:'Areas / routes I can support',support:'Where I need HIROSH support',capabilities:'Capabilities and experience',volume:'Freight / other details'};
+const names={odc_length:'Length (metres)',odc_width:'Width (metres)',odc_height:'Height (metres)',odc_weight:'Total weight (tonnes)',odc_handling:'Loading and unloading facilities',name:'Name',phone:'Phone / WhatsApp',email:'Email',company:'Business / organisation',origin:'Pickup / service location',destination:'Delivery location',date:'Preferred date',origin_pin:'Pickup PIN code',destination_pin:'Delivery PIN code',pincodes:'PIN codes',weight:'Approximate weight',packages:'Packages',dimensions:'Dimensions',vehicle_model:'Vehicle',truck_type:'Truck requirement',temperature:'Temperature requirement',access:'Site / packing details',vessel:'Vessel / port details',details:'Requirement',location:'City / state',pincode:'PIN code',role:'Partnership interest',coverage:'Areas / routes I can support',support:'Where I need HIROSH support',capabilities:'Capabilities and experience',volume:'Freight / other details'};
 function invalidate(){if(review)review.hidden=true}
 if(quote){
+ const params=new URLSearchParams(location.search);
+ for(const key of ['origin','destination']){const value=params.get(key);if(value)document.querySelector('#'+key).value=value.slice(0,200);}
  const select=document.querySelector('#service');
  const initial=new URLSearchParams(location.search).get('service');
  if([...select.options].some(o=>o.value===initial))select.value=initial;
@@ -19,6 +21,7 @@ if(quote){
   for(const section of document.querySelectorAll('[data-fields]')){const show=enabled[section.dataset.fields];section.hidden=!show;section.querySelectorAll('input,select,textarea').forEach(i=>i.disabled=!show)}
   document.querySelector('#origin-label').textContent=maritime?'Port / service location *':s==='vehicle-storage'?'Storage location *':'Pickup city / location *';
   const dest=document.querySelector('#destination');dest.disabled=maritime||s==='vehicle-storage';dest.required=!dest.disabled;document.querySelector('#destination-wrap').hidden=dest.disabled;
+  const destPin=document.querySelector('#destination-pin');if(destPin){destPin.disabled=dest.disabled;document.querySelector('#destination-pin-wrap').hidden=dest.disabled;}
   invalidate();
  }
  select.addEventListener('change',serviceFields);serviceFields();
