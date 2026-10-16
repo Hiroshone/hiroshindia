@@ -15,3 +15,13 @@
 
 /* Approved orange Roadways logo */
 .brand .brand-logo{display:block;width:270px;height:auto;max-width:100%}footer .brand{display:inline-flex;background:#fff;border-radius:3px}footer .brand .brand-logo{width:240px}@media(max-width:760px){.brand .brand-logo{width:230px}}@media(max-width:420px){.brand .brand-logo{width:200px}}
+
+/* Linked operating-company identity, paired with the Roadways brand. */
+.header-brands{display:flex;align-items:center;gap:18px;flex-shrink:0}
+.header-brands .brand .brand-logo{width:175px}
+.company-brand{display:flex;flex-direction:column;gap:4px;padding-left:18px;border-left:1px solid #dce1e7;text-decoration:none;color:var(--navy);flex-shrink:0}
+.company-brand span{font-size:10px;line-height:1.2;letter-spacing:.08em}
+.company-brand img{display:block;width:195px;height:auto}
+.company-brand:focus-visible{outline:3px solid var(--orange);outline-offset:5px}
+@media(max-width:760px){.header-brands{width:100%;justify-content:space-between;gap:12px}.header-brands .brand .brand-logo{width:160px}.company-brand{padding-left:12px}.company-brand img{width:165px}}
+@media(max-width:380px){.header-brands .brand .brand-logo{width:125px}.company-brand img{width:135px}.header-brands{gap:8px}.company-brand{padding-left:8px}}
