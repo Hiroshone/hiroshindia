@@ -262,29 +262,73 @@
       ]
     },
     "24": {
-      "intro": "Gujarat transport enquiries include GIDC estates, commercial towns and interstate industrial supply movements. We coordinate goods, machinery, trailers and vehicle relocation through our partner network. Provide the estate name and unit address, especially where a city has several separate industrial areas.",
+      "intro": "Gujarat transport enquiries span GIDC estates, manufacturing towns and port-linked pickup points across the state. Hirosh Roadways coordinates goods, FTL/PTL, machinery, trailers, car shifting and relocation through its nationwide transport-partner network. The locations below cover several industrial regions; all 34 districts remain listed for enquiries from additional towns and villages.",
       "places": [
         {
           "area": "Ahmedabad: Naroda, Odhav, Vatwa and Sanand",
-          "context": "GIDC industrial-estate locations."
+          "context": "Industrial-estate collections for goods and machinery. Provide the estate, unit number and loading gate; an Ahmedabad city address alone can be ambiguous."
         },
         {
-          "area": "Surat: Sachin, Hazira and Icchapor",
-          "context": "Industrial and commercial cargo enquiry areas."
+          "area": "Surat: Sachin, Pandesara, Hazira and Icchapor",
+          "context": "Industrial and commercial dispatch enquiries. For Hazira-linked cargo, distinguish a factory collection from a port or terminal movement."
         },
         {
-          "area": "Ankleshwar and Panoli — Bharuch",
-          "context": "GIDC estate locations; identify cargo type and handling requirements."
+          "area": "Bharuch: Ankleshwar, Panoli, Jhagadia and Dahej",
+          "context": "Industrial-estate and port-linked road transport enquiries. State the cargo contents, packaging and handling requirements before vehicle allocation."
         },
         {
-          "area": "Vadodara, Rajkot, Morbi, Jamnagar and Gandhidham",
-          "context": "Business and industrial-town pickup and delivery enquiries."
+          "area": "Valsad: Vapi, Sarigam, Umargam / Umbergaon, Pardi and Dungra",
+          "context": "GIDC estate locations for factory dispatches and receiving-unit deliveries. Include the estate and exact unit instead of using Vapi for the whole area."
+        },
+        {
+          "area": "Vadodara: Makarpura, Nandesari, Savli, Vaghodia, Ranoli and Por-Ramangamdi",
+          "context": "Industrial pickup points for equipment and commercial loads. Confirm lifting equipment, loading space and the receiving gate."
+        },
+        {
+          "area": "Panch Mahals: Halol, Kalol and Godhra",
+          "context": "Industrial-estate enquiries. Specify Kalol in Panch Mahals when relevant, as Gujarat also has Kalol in the Gandhinagar area."
+        },
+        {
+          "area": "Gandhinagar: Chhatral, Kalol and Gandhinagar estates",
+          "context": "Industrial and commercial goods enquiries. State the district and estate to distinguish the location from similarly named towns."
+        },
+        {
+          "area": "Rajkot and Lodhika; Shapar-Veraval pickup area",
+          "context": "Machinery, packed goods and business-delivery enquiries. Supply the actual industrial premises and unloading requirements."
+        },
+        {
+          "area": "Morbi and Thangadh",
+          "context": "Ceramic-product and other commercial goods enquiries. Declare fragile items, pallet dimensions, stacking limits and the agreed unloading method."
+        },
+        {
+          "area": "Jamnagar and Dared",
+          "context": "Industrial-estate enquiries, including machinery and packed commercial consignments. Identify the phase and unit number for collection."
+        },
+        {
+          "area": "Kachchh: Mundra, Kandla and Gandhidham",
+          "context": "Port-linked container, project-cargo and inland road transport enquiries. Specify the terminal or CFS and empty-container return point."
+        },
+        {
+          "area": "Bhavnagar and Chitra",
+          "context": "GIDC estate and business-town transport enquiries for goods, equipment and relocation."
+        },
+        {
+          "area": "Mehsana, Anand / V.U. Nagar and Navsari",
+          "context": "Industrial-estate collection and delivery enquiries. Share the complete premises address and cargo inventory."
+        },
+        {
+          "area": "Surendranagar, Junagadh and Porbandar",
+          "context": "Industrial-estate and business-town enquiries connecting to destinations across India."
         }
       ],
       "planning": [
         "For cargo collected from Naroda, Vatwa or Sanand, state the actual estate and unit number. Ahmedabad alone is not a sufficiently precise truck collection address.",
         "For drums, liquids or chemical-related cargo, disclose the contents and handling documentation before vehicle allocation. Acceptance depends on cargo suitability and the agreed transport arrangement.",
-        "For machinery or packed industrial products, give dimensions, package count and unloading equipment. Container-related enquiries need the terminal and return location as well as the inland delivery point."
+        "For machinery or packed industrial products, give dimensions, package count and unloading equipment. Container-related enquiries need the terminal and return location as well as the inland delivery point.",
+        "For Mundra, Kandla, Hazira or Dahej-linked movements, identify the terminal/CFS, loaded or empty status, container size and gross weight. Agree the road-transport scope, release readiness, return point and any waiting charges; port handling or sea freight is a separate requirement.",
+        "For Morbi or Thangadh ceramic products, provide carton or pallet counts, packed dimensions, total weight and stacking instructions. Confirm the receiving equipment and unloading responsibility so fragile cargo is not treated as ordinary loose goods.",
+        "For Rajkot, Vadodara or Jamnagar machinery, list each machine separately with its packed dimensions and weight. Share photographs, lifting points and whether dismantling, packing or positioning is needed.",
+        "For collections from multiple Gujarat suppliers, list each estate, unit and loading slot. Ask for a plan that accounts for the order of pickups, load compatibility and available truck space rather than assuming one city-wide collection."
       ],
       "sources": [
         {
@@ -298,6 +342,42 @@
         {
           "label": "GIDC estate announcements",
           "url": "https://www.gidc.gujarat.gov.in/QuikLinks/Advertisement"
+        },
+        {
+          "label": "GIDC estate directory and allotment schedule",
+          "url": "https://www.gidc.gujarat.gov.in/allotmentprice"
+        },
+        {
+          "label": "GIDC Vadodara-region estate references",
+          "url": "https://gidc.gujarat.gov.in/pdf/add/auction.pdf"
+        },
+        {
+          "label": "Gujarat disaster-management industrial estate references",
+          "url": "https://gidm.gujarat.gov.in/sites/default/files/Training-Module-on-CIDRM.pdf"
+        },
+        {
+          "label": "Jamnagar GIDC estate association",
+          "url": "https://gidcdared.org/about.php"
+        },
+        {
+          "label": "Morbi district industrial context",
+          "url": "https://morbi.nic.in/history/"
+        },
+        {
+          "label": "Mundra port operator",
+          "url": "https://www.adaniports.com/Ports-and-Terminals/Mundra-Port"
+        },
+        {
+          "label": "Kandla and Gandhidham location — Kachchh district",
+          "url": "https://kachchh.nic.in/places-of-interest/"
+        },
+        {
+          "label": "Rajkot district — Shapar-Veraval location",
+          "url": "https://rajkot.nic.in/police/"
+        },
+        {
+          "label": "GIDC ceramic-cluster reference",
+          "url": "https://www.gidc.gujarat.gov.in/Document/LinkManagment/QuickLinks/ceramics_brochure08012024124344.pdf"
         }
       ]
     },
