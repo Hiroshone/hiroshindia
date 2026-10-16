@@ -20,6 +20,10 @@ Sources include SIPCOT, APIIC, Sri City, KIADB/MSME, KSIDC/KINFRA, Telangana inv
 
 ## Maintenance
 
+Local coverage expansion, 16 October 2026: 54 local groups across Kerala, Tamil Nadu, Karnataka, Andhra Pradesh, Telangana, Puducherry, Maharashtra, Gujarat, Delhi and Uttar Pradesh. Kerala has one local group for each of its 14 districts. The groups contain 293 state-qualified locality labels (100 in Kerala), with repeats across groups removed within each state. These overlap the existing district and industrial headings and must not be added to those totals as unique new places. This remains selected local coverage, not every village or every industrial estate.
+
+`local_coverage` stores explicit locality arrays, individually written pickup/delivery guidance and source references. The generator renders these as static, directly linked sections within the relevant state guide. It does not create mass-produced locality pages or imply local offices. Official locality/estate directories establish location names, not confirmed current operation of every unit, current transport restrictions or equipment availability. Older industrial references are used for location identity only. Development-stage enquiries require actual site confirmation.
+
 1. Update district data only after comparing dated official records; preserve provenance and distinguish supplemental identifiers from LGD codes.
 2. Edit reviewed state content in data/state-guides.json.
 3. Run python scripts/build-coverage-pages.py. This generator is idempotent and makes no network calls.

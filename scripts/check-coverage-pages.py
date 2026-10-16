@@ -14,6 +14,7 @@ class Page(HTMLParser):
         if tag=='a' and 'href' in a:self.links.append(a['href'])
         if tag=='link' and a.get('rel')=='canonical':self.canonical.append(a.get('href'))
 data=json.loads((ROOT/'assets/india-districts.json').read_text(encoding='utf-8'))
+content=json.loads((ROOT/'data/state-guides.json').read_text(encoding='utf-8'))['states']
 guides=list((ROOT/'service-areas').glob('*.html'))
 assert len(guides)==36
 assert len({d['code'] for s in data['states'] for d in s['districts']})==789
@@ -33,6 +34,15 @@ for p in guides+[ROOT/'hirosh-trucking-and-logistics.html',ROOT/'service-areas.h
         state_name=re.search(r'<span aria-current="page">(.*?)</span>',text).group(1)
         s=next(s for s in data['states'] if s['name'].removeprefix('The ').replace(' And ',' and ')==state_name)
         assert text.count('data-district=')==len(s['districts']),(path,'district count')
+        local=content[s['code']].get('local_coverage',[])
+        if local:
+            assert 'local-coverage' in parsed.ids
+            assert len({p['area'] for p in local})==len(local)
+            for i,group in enumerate(local,1):
+                assert f'local-{i}' in parsed.ids
+                assert group['sources'] and group['context'] and group['places']
+                assert all(v in text for v in group['places']),(path,'missing local place')
+                assert all(any(src['url']==u for src in content[s['code']]['sources']) for u in group['sources'])
     for raw in re.findall(r'<script type="application/ld\+json">(.*?)</script>',text,re.S):json.loads(raw)
     for link in parsed.links:
         u=urlsplit(link)
@@ -44,4 +54,5 @@ for p in guides+[ROOT/'hirosh-trucking-and-logistics.html',ROOT/'service-areas.h
         if u.fragment and target in pages:assert unquote(u.fragment) in pages[target].ids,(path,'broken anchor',link)
 assert 'Gangaikondan' in (ROOT/'service-areas/tamil-nadu.html').read_text(encoding='utf-8')
 for n in ['Nubra','Sham','Changthang','Zanskar','Drass']:assert n in (ROOT/'service-areas/ladakh.html').read_text(encoding='utf-8')
+assert {p['area'] for p in content['32']['local_coverage']}=={d['name'] for s in data['states'] if s['code']=='32' for d in s['districts']}
 print('PASS: 36 state pages + corporate page; 789 districts; official reconciliation; 19 services per guide; canonicals, sitemap, schema, local links and anchors.')
