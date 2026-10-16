@@ -1,0 +1,2167 @@
+{
+  "reviewed": "2026-10-16",
+  "states": {
+    "32": {
+      "intro": "Plan commercial goods transport, car shifting and industrial relocation between Kerala and destinations across India. Our Kazhakuttom and Vizhinjam offices provide a local point of contact, while a nationwide agent and transport-partner network supports interstate movements. Coverage includes inland business towns as well as the coastal cities.",
+      "places": [
+        {
+          "area": "Thiruvananthapuram, Kazhakuttom and Vizhinjam",
+          "context": "Office, commercial and port-linked transport enquiries; identify the actual factory, CFS or port gate."
+        },
+        {
+          "area": "Kochi, Kalamassery, Aluva and Angamaly — Ernakulam",
+          "context": "Commercial pickup points and industrial consignments, including the Angamaly business area."
+        },
+        {
+          "area": "Pallippuram, Cherthala and Aroor — Alappuzha",
+          "context": "KSIDC growth centre and food park at Pallippuram; KINFRA seafood park at Aroor."
+        },
+        {
+          "area": "Kanjikode — Palakkad",
+          "context": "Industrial shipments requiring vehicle access and loading arrangements to be checked with the receiving unit."
+        },
+        {
+          "area": "Kinalur and Kuttiyadi — Kozhikode",
+          "context": "KSIDC industrial locations; provide the unit name rather than only the nearest city."
+        },
+        {
+          "area": "Kuthuparamba — Kannur",
+          "context": "Industrial growth centre enquiries and connections to other districts."
+        },
+        {
+          "area": "Kollam, Adoor, Pathanamthitta, Kottayam and Thrissur",
+          "context": "Business deliveries, vehicle moves and household or office relocation enquiries."
+        }
+      ],
+      "planning": [
+        "For Vizhinjam or Kochi-linked container movements, specify the pickup terminal or CFS, container size, cargo weight, delivery address and empty-return location. Port handling and road transport must be identified separately in the quotation.",
+        "For Aroor or Pallippuram food consignments, confirm whether temperature control is required. Share the temperature range and loading readiness before requesting a reefer; ordinary covered transport is not a substitute for a cold chain.",
+        "For hill destinations and narrow residential roads, send the final address, access photographs and unloading space. A smaller final-delivery vehicle may need a separate arrangement."
+      ],
+      "sources": [
+        {
+          "label": "KSIDC industrial parks",
+          "url": "https://ksidc.org/industrial-parks/"
+        },
+        {
+          "label": "KINFRA parks",
+          "url": "https://kinfra.org/parks"
+        },
+        {
+          "label": "Kerala LSGD locality directory",
+          "url": "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Thiruvananthapuram",
+          "places": [
+            "Thiruvananthapuram",
+            "Kazhakuttom",
+            "Vizhinjam",
+            "Attingal",
+            "Varkala",
+            "Nedumangad",
+            "Neyyattinkara"
+          ],
+          "context": "For office or household moves, include the floor, lift and vehicle parking point. For Vizhinjam-linked cargo, identify the port or CFS gate and container return requirement.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Kollam",
+          "places": [
+            "Kollam",
+            "Karunagappally",
+            "Kottarakkara",
+            "Punalur",
+            "Paravur",
+            "Chavara",
+            "Kundara"
+          ],
+          "context": "Separate the town pickup address from the factory or warehouse entrance. Share package count and loading arrangements for goods transport, or an inventory for household shifting.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Pathanamthitta",
+          "places": [
+            "Pathanamthitta",
+            "Thiruvalla",
+            "Adoor",
+            "Pandalam",
+            "Ranni",
+            "Konni",
+            "Mallappally"
+          ],
+          "context": "For deliveries beyond the main towns, send a map pin and the last approach-road details. Confirm whether the truck can reach the premises or needs a smaller onward vehicle.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Alappuzha",
+          "places": [
+            "Alappuzha",
+            "Cherthala",
+            "Aroor",
+            "Kayamkulam",
+            "Chengannur",
+            "Mavelikkara",
+            "Haripad"
+          ],
+          "context": "Identify the road-accessible loading point for coastal and inland deliveries. For furniture or packed commercial goods, specify protection and unloading requirements.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Kottayam",
+          "places": [
+            "Kottayam",
+            "Changanassery",
+            "Pala",
+            "Ettumanoor",
+            "Vaikom",
+            "Erattupetta",
+            "Kanjirappally"
+          ],
+          "context": "For multi-stop collections, give each address and package inventory separately. Machinery and commercial loads need dimensions as well as total weight.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Idukki",
+          "places": [
+            "Thodupuzha",
+            "Kattappana",
+            "Munnar",
+            "Adimali",
+            "Nedumkandam",
+            "Kumily"
+          ],
+          "context": "Hill-route enquiries need an exact location and suitable vehicle-size assessment. Share access photos for narrow approaches and confirm a receiving contact before dispatch.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Ernakulam",
+          "places": [
+            "Kochi",
+            "Kalamassery",
+            "Aluva",
+            "Angamaly",
+            "Perumbavoor",
+            "Muvattupuzha",
+            "Kothamangalam",
+            "Tripunithura",
+            "Eloor",
+            "Edayar"
+          ],
+          "context": "Industrial packing, machine movements and business deliveries are assessed using the actual unit address. Port-linked movements also need terminal, release and empty-return details.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Thrissur",
+          "places": [
+            "Thrissur",
+            "Chalakudy",
+            "Irinjalakuda",
+            "Kodungallur",
+            "Kunnamkulam",
+            "Guruvayur",
+            "Wadakkanchery"
+          ],
+          "context": "For shop, office and household moves, include the access window and inventory. Discuss whether loading can happen at the building or at an agreed nearby parking point.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Palakkad",
+          "places": [
+            "Palakkad",
+            "Kanjikode",
+            "Ottapalam",
+            "Shoranur",
+            "Pattambi",
+            "Mannarkkad",
+            "Chittur"
+          ],
+          "context": "Factory pickups around Kanjikode need the unit gate and lifting plan. For other district locations, provide the full address so the collection vehicle and onward route can be assessed.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Malappuram",
+          "places": [
+            "Malappuram",
+            "Manjeri",
+            "Perinthalmanna",
+            "Tirur",
+            "Ponnani",
+            "Nilambur",
+            "Kottakkal",
+            "Kondotty",
+            "Tanur",
+            "Tirurangadi"
+          ],
+          "context": "Provide individual cartons or equipment dimensions when requesting FTL or PTL. Car and bike transport enquiries should identify the accessible handover location and vehicle condition.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Kozhikode",
+          "places": [
+            "Kozhikode",
+            "Feroke",
+            "Ramanattukara",
+            "Koyilandy",
+            "Vadakara",
+            "Mukkam",
+            "Kinalur",
+            "Kuttiyadi"
+          ],
+          "context": "For commercial collections, identify the warehouse or shop and loading time. Distinguish a town-centre pickup from an industrial-unit gate when requesting the vehicle.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Wayanad",
+          "places": [
+            "Kalpetta",
+            "Sulthan Bathery",
+            "Mananthavady",
+            "Meenangadi",
+            "Vythiri"
+          ],
+          "context": "Hill approaches and final-site access should be checked before selecting a large vehicle. Include cargo dimensions, receiving arrangements and any unloading equipment needed.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Kannur",
+          "places": [
+            "Kannur",
+            "Thalassery",
+            "Payyanur",
+            "Taliparamba",
+            "Mattannur",
+            "Iritty",
+            "Kuthuparamba"
+          ],
+          "context": "Business deliveries, vehicle moves and relocation enquiries can use these local pickup areas. Give the actual premises and loading inventory rather than only the nearest town.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        },
+        {
+          "area": "Kasaragod",
+          "places": [
+            "Kasaragod",
+            "Kanhangad",
+            "Nileshwaram",
+            "Uppala",
+            "Manjeshwaram"
+          ],
+          "context": "For interstate movements towards Karnataka or other destinations, identify both ends of the journey. Confirm vehicle access and the receiving contact for delivery beyond the main town.",
+          "sources": [
+            "https://lsgd.kerala.gov.in/en/know-the-lsgis/"
+          ]
+        }
+      ]
+    },
+    "33": {
+      "intro": "Tamil Nadu enquiries range from car relocation and commercial distribution to machinery, factory shifting and container transport. Share both the industrial park name and the individual unit address so that pickup planning distinguishes a large estate from the actual loading gate. Our transport network connects these locations with destinations throughout India.",
+      "places": [
+        {
+          "area": "Gangaikondan — Tirunelveli",
+          "context": "SIPCOT Industrial Park: include the company name, gate and cargo dimensions for machinery or trailer enquiries."
+        },
+        {
+          "area": "Sriperumbudur, Irungattukottai and Vallam Vadagal — Kancheepuram",
+          "context": "SIPCOT industrial locations for factory and supplier movements."
+        },
+        {
+          "area": "Gummidipoondi — Thiruvallur",
+          "context": "Industrial park and EPIP; specify the correct estate and loading point."
+        },
+        {
+          "area": "Hosur and Bargur — Krishnagiri",
+          "context": "Industrial pickup and delivery enquiries near the Karnataka connection."
+        },
+        {
+          "area": "Perundurai — Erode; Ranipet; Cheyyar — Tiruvannamalai",
+          "context": "SIPCOT locations for commercial goods and machinery movements."
+        },
+        {
+          "area": "Coimbatore, Tiruppur, Salem and Namakkal",
+          "context": "Business and industrial-town enquiries, including equipment, packed goods and vehicle relocation."
+        },
+        {
+          "area": "Chennai, Chengalpattu, Tiruchirappalli, Madurai and Thoothukkudi",
+          "context": "City distribution, office moves and industrial or port-linked road transport enquiries."
+        },
+        {
+          "area": "Cuddalore and Eraiyur — Perambalur",
+          "context": "SIPCOT park locations; check the unit and shipment readiness before dispatch."
+        }
+      ],
+      "planning": [
+        "For Gangaikondan pickups, give the SIPCOT unit address and identify whether the machine is crated, dismantled or transported as one piece. This determines the loading method and vehicle selection.",
+        "For a factory move involving Hosur, Sriperumbudur or Coimbatore, separate the machine inventory from office furniture and loose stores. Confirm who handles disconnection, lifting, packing and reinstallation before pricing.",
+        "For Chennai or Thoothukkudi-linked container transport, supply the terminal/CFS and empty-return instructions. A town name alone does not identify a container collection point."
+      ],
+      "sources": [
+        {
+          "label": "SIPCOT park and district directory",
+          "url": "https://sipcot.tn.gov.in/portal/reports/landdetails"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Kancheepuram industrial belt",
+          "places": [
+            "Sriperumbudur",
+            "Oragadam",
+            "Irungattukottai",
+            "Pillaipakkam",
+            "Vallam Vadagal",
+            "Thirumudivakkam"
+          ],
+          "context": "Use the specific industrial park and factory gate for machinery, component or container enquiries. Share the loading method and receiving appointment before selecting truck or trailer equipment.",
+          "sources": [
+            "https://sipcot.tn.gov.in/portal/reports/landdetails"
+          ]
+        },
+        {
+          "area": "Tiruvallur pickup areas",
+          "places": [
+            "Gummidipoondi",
+            "Thervoykandigai",
+            "Mappedu",
+            "Manallur"
+          ],
+          "context": "Confirm the site name and development stage for project deliveries. A park appearing in a land directory does not mean every plot is operating or ready to receive a truck.",
+          "sources": [
+            "https://sipcot.tn.gov.in/portal/reports/landdetails"
+          ]
+        },
+        {
+          "area": "Krishnagiri and western Tamil Nadu",
+          "places": [
+            "Hosur",
+            "Bargur",
+            "Shoolagiri",
+            "Perundurai"
+          ],
+          "context": "For factory dispatches, send package dimensions, loading equipment and delivery priority. FTL and shared-load suitability depend on the consignment rather than the town name.",
+          "sources": [
+            "https://sipcot.tn.gov.in/portal/reports/landdetails"
+          ]
+        },
+        {
+          "area": "Central Tamil Nadu",
+          "places": [
+            "Manapparai",
+            "Pudukkottai",
+            "Manamadurai",
+            "Eraiyur",
+            "Tindivanam"
+          ],
+          "context": "For food-related or other packed goods, specify packaging and any temperature requirement. Reefer arrangements require separate confirmation of the cargo temperature and route.",
+          "sources": [
+            "https://sipcot.tn.gov.in/portal/reports/landdetails"
+          ]
+        },
+        {
+          "area": "Southern industrial destinations",
+          "places": [
+            "Gangaikondan",
+            "Thoothukudi",
+            "Nilakkottai",
+            "Melur",
+            "Theni"
+          ],
+          "context": "Identify whether the enquiry is a factory collection, project-site delivery or port-linked road movement. Container work needs the release location and empty-return point in addition to the destination.",
+          "sources": [
+            "https://sipcot.tn.gov.in/portal/reports/landdetails"
+          ]
+        }
+      ]
+    },
+    "29": {
+      "intro": "Arrange Karnataka transport for industrial cargo, commercial goods, cars, bikes and relocation consignments. Bengaluru enquiries should distinguish the city address from surrounding industrial estates; statewide enquiries can use any district below. Vehicle and handling arrangements are assessed through our nationwide transport-partner network.",
+      "places": [
+        {
+          "area": "Bengaluru: Peenya, Bommasandra, Jigani and Whitefield",
+          "context": "Industrial and office pickup areas; provide the full estate and unit address."
+        },
+        {
+          "area": "Dobaspet and Doddaballapura",
+          "context": "Industrial areas outside central Bengaluru with separate pickup locations."
+        },
+        {
+          "area": "Bidadi and Harohalli — Bengaluru South",
+          "context": "Industrial locations formerly commonly described using Ramanagara district."
+        },
+        {
+          "area": "Hebbal — Mysuru; Baikampady — Mangaluru",
+          "context": "Industrial areas identified in the government MSME state profile."
+        },
+        {
+          "area": "Belur — Dharwad; Kanabargi and Honaga — Belagavi",
+          "context": "Manufacturing-area enquiries for commercial goods and equipment."
+        },
+        {
+          "area": "Sira — Tumakuru; Raichur Growth Centre",
+          "context": "Industrial pickup and delivery locations."
+        }
+      ],
+      "planning": [
+        "For Bengaluru office relocation, identify floor access, lifts, dismantling work and receiving-site hours. Industrial machinery requires a separate dimensions and lifting assessment.",
+        "A Peenya-to-interstate enquiry should include the factory gate, packed load dimensions and forklift or crane availability. Do not assume that the same loading arrangement exists at the delivery end.",
+        "For Mangaluru and other coastal deliveries, confirm weather protection and the exact unloading point. For estates outside Bengaluru, use the estate name and PIN code to avoid a city-centre routing assumption."
+      ],
+      "sources": [
+        {
+          "label": "Government MSME Karnataka industrial profile",
+          "url": "https://dcmsme.gov.in/dips/state_wise_dips/state_profile_karnatka_11316.pdf"
+        },
+        {
+          "label": "KIADB",
+          "url": "https://kiadb.org/en/"
+        },
+        {
+          "label": "Karnataka district industrial profiles",
+          "url": "https://static.investindia.gov.in/s3fs-public/2018-08/Compiled%20Doc_District%20Profiles%20of%20Karnataka.compressed.pdf"
+        },
+        {
+          "label": "Mysuru district export action plan: industrial locations",
+          "url": "https://exporthubs.gov.in/resources/docs/DEPC-7e70552c-0dc0-4630-871a-9896b01cfe67-Mysuru-district-action-plan.-V1-1.pdf"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Bengaluru industrial pickup areas",
+          "places": [
+            "Peenya",
+            "Bommasandra",
+            "Jigani",
+            "Whitefield",
+            "Dobaspet",
+            "Doddaballapura"
+          ],
+          "context": "Provide the industrial phase or cross-road and the factory gate. For machinery shifting, discuss dismantling, lifting and packing as distinct parts of the requirement.",
+          "sources": [
+            "https://static.investindia.gov.in/s3fs-public/2018-08/Compiled%20Doc_District%20Profiles%20of%20Karnataka.compressed.pdf"
+          ]
+        },
+        {
+          "area": "Kolar business and industrial locations",
+          "places": [
+            "Malur",
+            "Narsapura",
+            "Vemagal"
+          ],
+          "context": "Give the operating unit or project-site address and pickup readiness. Road freight and equipment delivery require the actual load dimensions and site access, not a land-allotment reference alone.",
+          "sources": [
+            "https://static.investindia.gov.in/s3fs-public/2018-08/Compiled%20Doc_District%20Profiles%20of%20Karnataka.compressed.pdf"
+          ]
+        },
+        {
+          "area": "Mysuru industrial locations",
+          "places": [
+            "Hebbal",
+            "Hootagalli",
+            "Nanjangud",
+            "Thandavapura"
+          ],
+          "context": "Factory equipment enquiries need dimensions after packing and an agreed crane or forklift plan. Identify the Mysuru-area location explicitly because Hebbal is also used in other cities.",
+          "sources": [
+            "https://exporthubs.gov.in/resources/docs/DEPC-7e70552c-0dc0-4630-871a-9896b01cfe67-Mysuru-district-action-plan.-V1-1.pdf"
+          ]
+        },
+        {
+          "area": "Coastal and northern industrial locations",
+          "places": [
+            "Baikampady",
+            "Belur",
+            "Kanabargi",
+            "Honaga",
+            "Sira"
+          ],
+          "context": "Specify the district and industrial unit with these locality names. Confirm loading access and the delivery route when comparing a dedicated truck with a shared-load arrangement.",
+          "sources": [
+            "https://static.investindia.gov.in/s3fs-public/2018-08/Compiled%20Doc_District%20Profiles%20of%20Karnataka.compressed.pdf"
+          ]
+        }
+      ]
+    },
+    "28": {
+      "intro": "Andhra Pradesh transport planning covers industrial estates, business towns and coastal cargo connections. Sri City, Nellore and the Visakhapatnam region are distinct pickup areas and should be quoted with their actual unit or terminal addresses. We coordinate road transport and relocation enquiries across the state through transport partners.",
+      "places": [
+        {
+          "area": "Sri City and Tada — Tirupati",
+          "context": "Sri City integrated business location; specify the SEZ or domestic unit and gate."
+        },
+        {
+          "area": "Nellore and nearby industrial pickup points",
+          "context": "Commercial goods, equipment and container-related road transport enquiries."
+        },
+        {
+          "area": "Atchutapuram APSEZ — Anakapalli",
+          "context": "APIIC industrial location; check unit access and loading requirements."
+        },
+        {
+          "area": "Visakhapatnam, Kakinada and Vijayawada",
+          "context": "Business, industrial and coastal cargo enquiries with terminal details where relevant."
+        },
+        {
+          "area": "Guntur, Chittoor, Ananthapuramu and Kurnool",
+          "context": "District and town pickup enquiries for goods, machinery and vehicle moves."
+        }
+      ],
+      "planning": [
+        "For Sri City, identify the exact unit and whether the movement involves an SEZ gate. The shipper should confirm the dispatch documentation and permitted collection time.",
+        "For port-linked loads near Visakhapatnam, Kakinada or Nellore, specify whether the request is for a loaded container, loose cargo or an empty container. Include the release point and empty-return instructions.",
+        "For equipment moving between Andhra Pradesh and Tamil Nadu, Telangana or Karnataka, provide a complete loading and unloading scope. Dismantling and positioning work should be agreed separately from the road journey."
+      ],
+      "sources": [
+        {
+          "label": "Sri City location",
+          "url": "https://sricity.in/en/why-sri-city/"
+        },
+        {
+          "label": "APIIC industrial parks",
+          "url": "https://apiic.in/plug-and-play-infrastructure-policy/assets/images/List%20of%20IPs.pdf"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Tirupati industrial pickup areas",
+          "places": [
+            "Tirupati",
+            "Attivaram",
+            "Naidupet",
+            "Akkampet",
+            "Madannapalem"
+          ],
+          "context": "Identify the exact APIIC park, factory or electronics-cluster gate. For machinery or project cargo, give the lifting requirements and whether the receiving site is ready for unloading.",
+          "sources": [
+            "https://apiic.in/plug-and-play-infrastructure-policy/assets/images/List%20of%20IPs.pdf"
+          ]
+        },
+        {
+          "area": "Sri Sathya Sai industrial locations",
+          "places": [
+            "Penukonda",
+            "Erramanchi",
+            "Sadlapalli",
+            "Kutagulla"
+          ],
+          "context": "Factory-to-factory movements need a package list and receiving appointment. The park name alone is insufficient for a vehicle allocation; send the unit and approach-road details.",
+          "sources": [
+            "https://apiic.in/plug-and-play-infrastructure-policy/assets/images/List%20of%20IPs.pdf"
+          ]
+        },
+        {
+          "area": "Coastal and southern enquiry points",
+          "places": [
+            "Atchutapuram",
+            "Visakhapatnam",
+            "Kakinada",
+            "Nellore",
+            "Sri City",
+            "Tada"
+          ],
+          "context": "For coastal industrial or container movements, separate the factory address from any terminal or CFS. We assess the road leg, handling responsibilities and empty-container return separately.",
+          "sources": [
+            "https://apiic.in/plug-and-play-infrastructure-policy/assets/images/List%20of%20IPs.pdf"
+          ]
+        }
+      ]
+    },
+    "36": {
+      "intro": "Telangana enquiries include industrial goods, machinery, cars and office or household relocation. Hyderabad metropolitan pickup points often extend into surrounding districts, so the estate name and PIN code matter as much as the city name. We also accept enquiries from Nizamabad, Nalgonda and every district in the directory.",
+      "places": [
+        {
+          "area": "Pashamylaram and Sultanpur — Sangareddy",
+          "context": "Industrial and manufacturing locations; share the receiving unit and gate."
+        },
+        {
+          "area": "Shamirpet / Genome Valley",
+          "context": "Life-sciences cluster enquiries; cargo handling and temperature requirements must be specified."
+        },
+        {
+          "area": "Mangalapally and Batasingaram — Ranga Reddy",
+          "context": "Logistics-park locations for warehouse collection and delivery enquiries."
+        },
+        {
+          "area": "Hyderabad, Nizamabad, Nalgonda, Karimnagar and Khammam",
+          "context": "Commercial goods, equipment and relocation pickup towns."
+        },
+        {
+          "area": "Warangal and textile-park locations",
+          "context": "Packed goods and industrial equipment enquiries; include the park and unit name."
+        }
+      ],
+      "planning": [
+        "For warehouse pickup at Batasingaram or Mangalapally, confirm the dock slot, pallet count and whether the load can be stacked. Waiting time and unloading responsibilities should be agreed before dispatch.",
+        "For pharmaceutical or other sensitive cargo, state the required temperature, packaging and handling instructions. Reefer availability and suitability are confirmed for the shipment rather than assumed from the location.",
+        "For Nizamabad or Nalgonda enquiries, share the exact pickup village or town and delivery address. The district list supports enquiries beyond Hyderabad without implying a local Hirosh office in every district."
+      ],
+      "sources": [
+        {
+          "label": "Telangana investment and logistics locations",
+          "url": "https://invest.telangana.gov.in/"
+        },
+        {
+          "label": "Sangareddy industrial lands",
+          "url": "https://sangareddy.telangana.gov.in/industrial-lands/"
+        },
+        {
+          "label": "HMDA industrial-area locations",
+          "url": "https://www.hmda.gov.in/greenery-development-in-industrial-areas/"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Hyderabad-area industrial collections",
+          "places": [
+            "Jeedimetla",
+            "Balanagar",
+            "Cherlapally",
+            "Nacharam",
+            "Ramachandrapuram"
+          ],
+          "context": "Quote the industrial phase, plot and loading gate. For plant equipment, provide packed dimensions and clarify whether dismantling or packing is included in the enquiry.",
+          "sources": [
+            "https://www.hmda.gov.in/greenery-development-in-industrial-areas/"
+          ]
+        },
+        {
+          "area": "Sangareddy and eastern logistics enquiries",
+          "places": [
+            "Pashamylaram",
+            "Sultanpur",
+            "Mangalapally",
+            "Batasingaram"
+          ],
+          "context": "Use the exact industrial or logistics-park address for collection and delivery. Compare FTL, PTL or trailer options using cargo size, weight and the receiving-site facilities.",
+          "sources": [
+            "https://invest.telangana.gov.in/",
+            "https://sangareddy.telangana.gov.in/industrial-lands/",
+            "https://www.hmda.gov.in/greenery-development-in-industrial-areas/"
+          ]
+        },
+        {
+          "area": "District-town collections",
+          "places": [
+            "Nizamabad",
+            "Nalgonda",
+            "Karimnagar",
+            "Khammam",
+            "Warangal"
+          ],
+          "context": "Commercial goods, car and bike moves, office relocation and household enquiries should include the local street address. Confirm the pickup date and accessible handover point with the team.",
+          "sources": [
+            "https://invest.telangana.gov.in/",
+            "https://sangareddy.telangana.gov.in/industrial-lands/",
+            "https://www.hmda.gov.in/greenery-development-in-industrial-areas/"
+          ]
+        }
+      ]
+    },
+    "27": {
+      "intro": "Maharashtra road transport enquiries cover manufacturing estates, urban distribution and interstate vehicle relocation. Distinguish Navi Mumbai, Panvel and a specific MIDC estate when describing the collection point. Our team can assess truck, trailer, FTL, PTL and machinery movements using the cargo and site details.",
+      "places": [
+        {
+          "area": "Navi Mumbai, Taloja and Panvel",
+          "context": "Industrial and distribution enquiries; specify the estate or terminal rather than only Mumbai."
+        },
+        {
+          "area": "Pune and Ranjangaon",
+          "context": "Factory dispatches and equipment relocation enquiries."
+        },
+        {
+          "area": "Nashik and Sinnar",
+          "context": "MIDC industrial locations for goods and machinery movements."
+        },
+        {
+          "area": "Nagpur and Butibori; Amravati / Nandgaonpeth",
+          "context": "Industrial areas listed by MIDC."
+        },
+        {
+          "area": "Kolhapur, Sangli, Satara, Solapur and Chhatrapati Sambhajinagar",
+          "context": "Business-town enquiries for commercial goods, cars and relocation."
+        }
+      ],
+      "planning": [
+        "For Navi Mumbai or Panvel container enquiries, include the actual terminal or CFS, container size and empty-return point. This avoids treating an industrial-estate delivery as a port collection.",
+        "For Pune-region factory dispatches, confirm the MIDC estate, gate booking and crane or forklift provision. Trailer dimensions and turning space matter for long machinery.",
+        "For Kolhapur, Nashik or other district pickups, compare FTL and PTL using the actual weight, volume and delivery requirement. A shared-load option should not be assumed suitable for fragile or oversized cargo."
+      ],
+      "sources": [
+        {
+          "label": "MIDC industrial area directory",
+          "url": "https://services.midcindia.org/industrial_rates/"
+        },
+        {
+          "label": "MIDC land bank",
+          "url": "https://land.midcindia.org/LandBank/Index?pageno=1&tab=0"
+        },
+        {
+          "label": "Invest India industrial-location reference",
+          "url": "https://static.investindia.gov.in/s3fs-public/2019-01/Securing%20Industrial%20Land%20in%20India.pdf"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Mumbai and the metropolitan region",
+          "places": [
+            "Mumbai",
+            "Mumbai Suburban",
+            "Navi Mumbai",
+            "Panvel",
+            "Taloja"
+          ],
+          "context": "For urban goods, car transport or office moves, share the access window and loading point. For port-linked cargo, name the terminal or CFS separately from the final delivery address.",
+          "sources": [
+            "https://services.midcindia.org/industrial_rates/",
+            "https://land.midcindia.org/LandBank/Index?pageno=1&tab=0"
+          ]
+        },
+        {
+          "area": "Thane and Palghar industrial belt",
+          "places": [
+            "Dombivli",
+            "Ambernath",
+            "Tarapur",
+            "Bhiwandi"
+          ],
+          "context": "Use the warehouse or industrial plot address rather than only the metropolitan-region name. Confirm the vehicle approach and loading slot before dispatching commercial goods.",
+          "sources": [
+            "https://static.investindia.gov.in/s3fs-public/2019-01/Securing%20Industrial%20Land%20in%20India.pdf"
+          ]
+        },
+        {
+          "area": "Pune industrial belt",
+          "places": [
+            "Pune",
+            "Chakan",
+            "Talegaon",
+            "Ranjangaon",
+            "Kurkumbh"
+          ],
+          "context": "For component and machinery movements, provide packed dimensions, unit gates and unloading arrangements. Crane work and dismantling should be identified separately in the requested scope.",
+          "sources": [
+            "https://land.midcindia.org/LandBank/Index?pageno=1&tab=0"
+          ]
+        },
+        {
+          "area": "Chhatrapati Sambhajinagar industrial belt",
+          "places": [
+            "Chhatrapati Sambhajinagar",
+            "Waluj",
+            "Shendra"
+          ],
+          "context": "Include the industrial estate and specific factory address. For machinery shifting or plant relocation, explain whether the equipment is ready for loading or requires dismantling and packing.",
+          "sources": [
+            "https://static.investindia.gov.in/s3fs-public/2019-01/Securing%20Industrial%20Land%20in%20India.pdf"
+          ]
+        },
+        {
+          "area": "North Maharashtra locations",
+          "places": [
+            "Nashik",
+            "Sinnar",
+            "Dindori",
+            "Jalgaon",
+            "Dhule",
+            "Nandurbar"
+          ],
+          "context": "For collections outside the main city, include the actual unit and approach-road details. Shared-load and dedicated-truck options are assessed against cargo dimensions and the destination.",
+          "sources": [
+            "https://land.midcindia.org/LandBank/Index?pageno=1&tab=0"
+          ]
+        },
+        {
+          "area": "Vidarbha industrial locations",
+          "places": [
+            "Nagpur",
+            "Butibori",
+            "Amravati",
+            "Nandgaonpeth",
+            "Chandrapur"
+          ],
+          "context": "For long-distance commercial loads, supply the cargo weight, number of packages and receiving-site contact. ODC movements require a separate dimension and route assessment.",
+          "sources": [
+            "https://land.midcindia.org/LandBank/Index?pageno=1&tab=0"
+          ]
+        },
+        {
+          "area": "Southern Maharashtra business locations",
+          "places": [
+            "Kolhapur",
+            "Sangli",
+            "Satara",
+            "Solapur"
+          ],
+          "context": "Commercial goods, vehicle transport and household or office moves can be discussed with the team. Provide the local address and inventory so transport and handling can be quoted together.",
+          "sources": [
+            "https://services.midcindia.org/industrial_rates/",
+            "https://land.midcindia.org/LandBank/Index?pageno=1&tab=0",
+            "https://static.investindia.gov.in/s3fs-public/2019-01/Securing%20Industrial%20Land%20in%20India.pdf"
+          ]
+        }
+      ]
+    },
+    "24": {
+      "intro": "Gujarat transport enquiries span GIDC estates, manufacturing towns and port-linked pickup points across the state. Hirosh Roadways coordinates goods, FTL/PTL, machinery, trailers, car shifting and relocation through its nationwide transport-partner network. The locations below cover several industrial regions; all 34 districts remain listed for enquiries from additional towns and villages.",
+      "places": [
+        {
+          "area": "Ahmedabad: Naroda, Odhav, Vatwa and Sanand",
+          "context": "Industrial-estate collections for goods and machinery. Provide the estate, unit number and loading gate; an Ahmedabad city address alone can be ambiguous."
+        },
+        {
+          "area": "Surat: Sachin, Pandesara, Hazira and Icchapor",
+          "context": "Industrial and commercial dispatch enquiries. For Hazira-linked cargo, distinguish a factory collection from a port or terminal movement."
+        },
+        {
+          "area": "Bharuch: Ankleshwar, Panoli, Jhagadia and Dahej",
+          "context": "Industrial-estate and port-linked road transport enquiries. State the cargo contents, packaging and handling requirements before vehicle allocation."
+        },
+        {
+          "area": "Valsad: Vapi, Sarigam, Umargam / Umbergaon, Pardi and Dungra",
+          "context": "GIDC estate locations for factory dispatches and receiving-unit deliveries. Include the estate and exact unit instead of using Vapi for the whole area."
+        },
+        {
+          "area": "Vadodara: Makarpura, Nandesari, Savli, Vaghodia, Ranoli and Por-Ramangamdi",
+          "context": "Industrial pickup points for equipment and commercial loads. Confirm lifting equipment, loading space and the receiving gate."
+        },
+        {
+          "area": "Panch Mahals: Halol, Kalol and Godhra",
+          "context": "Industrial-estate enquiries. Specify Kalol in Panch Mahals when relevant, as Gujarat also has Kalol in the Gandhinagar area."
+        },
+        {
+          "area": "Gandhinagar: Chhatral, Kalol and Gandhinagar estates",
+          "context": "Industrial and commercial goods enquiries. State the district and estate to distinguish the location from similarly named towns."
+        },
+        {
+          "area": "Rajkot and Lodhika; Shapar-Veraval pickup area",
+          "context": "Machinery, packed goods and business-delivery enquiries. Supply the actual industrial premises and unloading requirements."
+        },
+        {
+          "area": "Morbi and Thangadh",
+          "context": "Ceramic-product and other commercial goods enquiries. Declare fragile items, pallet dimensions, stacking limits and the agreed unloading method."
+        },
+        {
+          "area": "Jamnagar and Dared",
+          "context": "Industrial-estate enquiries, including machinery and packed commercial consignments. Identify the phase and unit number for collection."
+        },
+        {
+          "area": "Kachchh: Mundra, Kandla and Gandhidham",
+          "context": "Port-linked container, project-cargo and inland road transport enquiries. Specify the terminal or CFS and empty-container return point."
+        },
+        {
+          "area": "Bhavnagar and Chitra",
+          "context": "GIDC estate and business-town transport enquiries for goods, equipment and relocation."
+        },
+        {
+          "area": "Mehsana, Anand / V.U. Nagar and Navsari",
+          "context": "Industrial-estate collection and delivery enquiries. Share the complete premises address and cargo inventory."
+        },
+        {
+          "area": "Surendranagar, Junagadh and Porbandar",
+          "context": "Industrial-estate and business-town enquiries connecting to destinations across India."
+        }
+      ],
+      "planning": [
+        "For cargo collected from Naroda, Vatwa or Sanand, state the actual estate and unit number. Ahmedabad alone is not a sufficiently precise truck collection address.",
+        "For drums, liquids or chemical-related cargo, disclose the contents and handling documentation before vehicle allocation. Acceptance depends on cargo suitability and the agreed transport arrangement.",
+        "For machinery or packed industrial products, give dimensions, package count and unloading equipment. Container-related enquiries need the terminal and return location as well as the inland delivery point.",
+        "For Mundra, Kandla, Hazira or Dahej-linked movements, identify the terminal/CFS, loaded or empty status, container size and gross weight. Agree the road-transport scope, release readiness, return point and any waiting charges; port handling or sea freight is a separate requirement.",
+        "For Morbi or Thangadh ceramic products, provide carton or pallet counts, packed dimensions, total weight and stacking instructions. Confirm the receiving equipment and unloading responsibility so fragile cargo is not treated as ordinary loose goods.",
+        "For Rajkot, Vadodara or Jamnagar machinery, list each machine separately with its packed dimensions and weight. Share photographs, lifting points and whether dismantling, packing or positioning is needed.",
+        "For collections from multiple Gujarat suppliers, list each estate, unit and loading slot. Ask for a plan that accounts for the order of pickups, load compatibility and available truck space rather than assuming one city-wide collection."
+      ],
+      "sources": [
+        {
+          "label": "GIDC estate list",
+          "url": "https://www.gidc.gujarat.gov.in/Pages/Contents/allotment%20of%20properties"
+        },
+        {
+          "label": "GIDC Sanand information",
+          "url": "https://gidc.gujarat.gov.in/Pages/Contents/faqs"
+        },
+        {
+          "label": "GIDC estate announcements",
+          "url": "https://www.gidc.gujarat.gov.in/QuikLinks/Advertisement"
+        },
+        {
+          "label": "GIDC estate directory and allotment schedule",
+          "url": "https://www.gidc.gujarat.gov.in/allotmentprice"
+        },
+        {
+          "label": "GIDC Vadodara-region estate references",
+          "url": "https://gidc.gujarat.gov.in/pdf/add/auction.pdf"
+        },
+        {
+          "label": "Gujarat disaster-management industrial estate references",
+          "url": "https://gidm.gujarat.gov.in/sites/default/files/Training-Module-on-CIDRM.pdf"
+        },
+        {
+          "label": "Jamnagar GIDC estate association",
+          "url": "https://gidcdared.org/about.php"
+        },
+        {
+          "label": "Morbi district industrial context",
+          "url": "https://morbi.nic.in/history/"
+        },
+        {
+          "label": "Mundra port operator",
+          "url": "https://www.adaniports.com/Ports-and-Terminals/Mundra-Port"
+        },
+        {
+          "label": "Kandla and Gandhidham location — Kachchh district",
+          "url": "https://kachchh.nic.in/places-of-interest/"
+        },
+        {
+          "label": "Rajkot district — Shapar-Veraval location",
+          "url": "https://rajkot.nic.in/police/"
+        },
+        {
+          "label": "GIDC ceramic-cluster reference",
+          "url": "https://www.gidc.gujarat.gov.in/Document/LinkManagment/QuickLinks/ceramics_brochure08012024124344.pdf"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Ahmedabad local industrial areas",
+          "places": [
+            "Naroda",
+            "Odhav",
+            "Vatva",
+            "Kathwada",
+            "Sanand",
+            "Chharodi",
+            "Dholka",
+            "Viramgam"
+          ],
+          "context": "State the estate and factory gate when requesting truck, trailer or machinery transport. Large loads need turning-space and lifting information at both collection and delivery.",
+          "sources": [
+            "https://www.gidc.gujarat.gov.in/allotmentprice"
+          ]
+        },
+        {
+          "area": "Surat local industrial areas",
+          "places": [
+            "Sachin",
+            "Pandesara",
+            "Hazira",
+            "Icchapor",
+            "Katargam",
+            "Khatodara",
+            "Bardoli",
+            "Olpad"
+          ],
+          "context": "For packed goods, include carton or bale dimensions and protection requirements. A Hazira port-linked movement needs its terminal instructions in addition to the commercial delivery address.",
+          "sources": [
+            "https://www.gidc.gujarat.gov.in/allotmentprice"
+          ]
+        },
+        {
+          "area": "Vadodara industrial locations",
+          "places": [
+            "Makarpura",
+            "Nandesari",
+            "Savli",
+            "Vaghodia",
+            "Ranoli",
+            "Por-Ramangamdi",
+            "Dabhoi"
+          ],
+          "context": "Identify whether the shipment is general cargo, machinery or a special-handling consignment. Share the cargo details before vehicle selection; specialist loads need separate suitability checks.",
+          "sources": [
+            "https://www.gidc.gujarat.gov.in/allotmentprice"
+          ]
+        },
+        {
+          "area": "Saurashtra local enquiry areas",
+          "places": [
+            "Halvad",
+            "Thangadh",
+            "Surendranagar",
+            "Chotila",
+            "Bamanbore",
+            "Rajula",
+            "Amreli",
+            "Babra"
+          ],
+          "context": "Confirm the exact town, estate and consignee rather than only a regional label. Packed fragile goods need stacking and handling instructions alongside the package weights.",
+          "sources": [
+            "https://www.gidc.gujarat.gov.in/allotmentprice"
+          ]
+        },
+        {
+          "area": "Bharuch and south Gujarat",
+          "places": [
+            "Ankleshwar",
+            "Panoli",
+            "Jhagadia",
+            "Dahej",
+            "Vapi",
+            "Sarigam",
+            "Umargam"
+          ],
+          "context": "For industrial dispatches, provide the unit, loading gate and cargo description. Confirm any special cargo conditions before booking; coverage does not imply every vehicle or permit is available.",
+          "sources": [
+            "https://www.gidc.gujarat.gov.in/Pages/Contents/allotment%20of%20properties",
+            "https://gidc.gujarat.gov.in/Pages/Contents/faqs",
+            "https://www.gidc.gujarat.gov.in/QuikLinks/Advertisement",
+            "https://www.gidc.gujarat.gov.in/allotmentprice",
+            "https://gidc.gujarat.gov.in/pdf/add/auction.pdf",
+            "https://gidm.gujarat.gov.in/sites/default/files/Training-Module-on-CIDRM.pdf",
+            "https://gidcdared.org/about.php",
+            "https://morbi.nic.in/history/",
+            "https://www.adaniports.com/Ports-and-Terminals/Mundra-Port",
+            "https://kachchh.nic.in/places-of-interest/",
+            "https://rajkot.nic.in/police/",
+            "https://www.gidc.gujarat.gov.in/Document/LinkManagment/QuickLinks/ceramics_brochure08012024124344.pdf"
+          ]
+        },
+        {
+          "area": "Kachchh port-linked road movements",
+          "places": [
+            "Mundra",
+            "Kandla",
+            "Gandhidham"
+          ],
+          "context": "Send the release point, container size, final delivery address and empty-return location. Port access, waiting and handling responsibilities should be agreed in the quotation.",
+          "sources": [
+            "https://www.gidc.gujarat.gov.in/Pages/Contents/allotment%20of%20properties",
+            "https://gidc.gujarat.gov.in/Pages/Contents/faqs",
+            "https://www.gidc.gujarat.gov.in/QuikLinks/Advertisement",
+            "https://www.gidc.gujarat.gov.in/allotmentprice",
+            "https://gidc.gujarat.gov.in/pdf/add/auction.pdf",
+            "https://gidm.gujarat.gov.in/sites/default/files/Training-Module-on-CIDRM.pdf",
+            "https://gidcdared.org/about.php",
+            "https://morbi.nic.in/history/",
+            "https://www.adaniports.com/Ports-and-Terminals/Mundra-Port",
+            "https://kachchh.nic.in/places-of-interest/",
+            "https://rajkot.nic.in/police/",
+            "https://www.gidc.gujarat.gov.in/Document/LinkManagment/QuickLinks/ceramics_brochure08012024124344.pdf"
+          ]
+        }
+      ]
+    },
+    "8": {
+      "intro": "Rajasthan transport planning includes RIICO estates and business towns spread across the state. Machinery, commercial goods and relocation enquiries require a precise pickup point and final delivery address; an estate name helps separate industrial loading from city distribution.",
+      "places": [
+        {
+          "area": "Jaipur: Sitapura, VKIA and Jhotwara",
+          "context": "RIICO industrial areas."
+        },
+        {
+          "area": "Bhiwadi, Khushkhera, Tapukara and Neemrana",
+          "context": "Industrial-estate enquiries; use the exact estate and gate."
+        },
+        {
+          "area": "Boranada — Jodhpur; Balotra; Bhilwara",
+          "context": "Industrial and commercial cargo locations."
+        },
+        {
+          "area": "Bikaner, Ajmer, Udaipur and Kota",
+          "context": "Business-town pickup and delivery enquiries."
+        }
+      ],
+      "planning": [
+        "For Jaipur industrial shipments, identify Sitapura, VKIA or the relevant estate instead of a general city address. Share loading hours and the vehicle space inside the premises.",
+        "For Bhiwadi or Neemrana machinery, include packed dimensions, weight and lifting points. Check that unloading equipment is ready before agreeing a dispatch date.",
+        "For long-distance district deliveries, give the last accessible truck point and any onward handling requirement. Packing and weather protection should match the cargo rather than the distance alone."
+      ],
+      "sources": [
+        {
+          "label": "RIICO industrial area layouts",
+          "url": "https://riico.rajasthan.gov.in/LA.aspx?menu_id=95"
+        }
+      ]
+    },
+    "23": {
+      "intro": "Madhya Pradesh offers central-India pickup and delivery points for industrial goods, machinery and interstate relocation. A request for the Indore region should identify whether the load is in the city, Pithampur or another industrial area. Our team assesses vehicle and handling requirements for each movement.",
+      "places": [
+        {
+          "area": "Pithampur — Dhar; Indore",
+          "context": "Industrial-estate and commercial dispatch enquiries."
+        },
+        {
+          "area": "Mandideep — Raisen, near Bhopal",
+          "context": "Industrial location distinct from a central Bhopal pickup."
+        },
+        {
+          "area": "Dewas, Ujjain and Malanpur",
+          "context": "Industrial and business-town enquiries."
+        },
+        {
+          "area": "Jabalpur, Gwalior and Satna",
+          "context": "Commercial goods and relocation pickup points."
+        }
+      ],
+      "planning": [
+        "For Pithampur consignments, state the sector, unit and gate so the pickup is not treated as an Indore city collection.",
+        "For Mandideep machinery, provide a machine list, packed sizes and lifting arrangements at both ends. State whether packing or dismantling is part of the request.",
+        "For mixed commercial goods, list package dimensions and stackability alongside weight. This helps assess FTL versus PTL without assuming that a light load occupies little truck space."
+      ],
+      "sources": [
+        {
+          "label": "MPIDC land directory",
+          "url": "https://invest.mp.gov.in/public-service/land_availability_report"
+        },
+        {
+          "label": "Government MP economic survey",
+          "url": "https://static.investindia.gov.in/s3fs-public/2023-04/MPES%202022-23_English.pdf"
+        }
+      ]
+    },
+    "22": {
+      "intro": "Chhattisgarh transport enquiries include industrial equipment, packed commercial goods and vehicle relocation. The Raipur and Bilaspur industrial areas contain distinct loading points; identify the estate and factory before requesting a truck or trailer.",
+      "places": [
+        {
+          "area": "Urla and Siltara",
+          "context": "CSIDC industrial growth centres in the Raipur area."
+        },
+        {
+          "area": "Sirgitti and Tifra",
+          "context": "CSIDC industrial locations in the Bilaspur area."
+        },
+        {
+          "area": "Raigarh, Bhilai and Durg",
+          "context": "Industrial and business-town pickup enquiries."
+        }
+      ],
+      "planning": [
+        "For heavy equipment, provide individual-piece weight and dimensions rather than only the total consignment weight. The largest piece determines trailer suitability.",
+        "For factory deliveries around Urla or Siltara, confirm the receiving gate, unloading machinery and permitted entry hours before dispatch.",
+        "For project-site deliveries outside a town centre, share an access map and ground conditions. Road transport and crane positioning should be scoped separately."
+      ],
+      "sources": [
+        {
+          "label": "CSIDC industrial infrastructure",
+          "url": "https://csidc.in/about-csidc-2/"
+        }
+      ]
+    },
+    "21": {
+      "intro": "Odisha enquiries cover industrial estates, business centres and coastal cargo movements. We coordinate road transport for goods, machinery, containers and relocation consignments, with shipment-specific confirmation of equipment and access.",
+      "places": [
+        {
+          "area": "Mancheswar — Bhubaneswar, Khordha",
+          "context": "IDCO industrial-estate location."
+        },
+        {
+          "area": "Kalinganagar — Jajpur",
+          "context": "Industrial-area enquiries for equipment and goods."
+        },
+        {
+          "area": "Cuttack, Rourkela, Sambalpur and Jharsuguda",
+          "context": "Business and industrial-town enquiries."
+        },
+        {
+          "area": "Paradip and Balasore",
+          "context": "Coastal and commercial pickup points; identify any terminal separately."
+        }
+      ],
+      "planning": [
+        "For a Kalinganagar equipment movement, state the receiving plant, cargo size and handling method. Large project loads require route and site assessment.",
+        "For Paradip-linked container or cargo movement, distinguish terminal collection from a factory pickup and provide release and empty-return details where applicable.",
+        "For Mancheswar commercial dispatches, list packages, weight and loading readiness. Delivery timing depends on the agreed vehicle and receiving-site arrangements."
+      ],
+      "sources": [
+        {
+          "label": "IDCO industrial estate references",
+          "url": "https://www.idco.in/circulars"
+        }
+      ]
+    },
+    "19": {
+      "intro": "West Bengal road transport planning connects industrial parks, distribution locations and district business towns with destinations across India. Give the exact park or warehouse address; a Kolkata reference may describe the wider region rather than the actual loading point.",
+      "places": [
+        {
+          "area": "Panagarh and Durgapur — Paschim Bardhaman",
+          "context": "WBIDC industrial locations."
+        },
+        {
+          "area": "Kharagpur — Paschim Medinipur",
+          "context": "Vidyasagar Industrial Park."
+        },
+        {
+          "area": "Raghunathpur — Purulia",
+          "context": "Industrial-park area; confirm the operating unit and cargo readiness."
+        },
+        {
+          "area": "Kolkata, Howrah, Haldia and Siliguri",
+          "context": "Commercial, industrial and onward-distribution enquiries."
+        }
+      ],
+      "planning": [
+        "For Panagarh or Kharagpur pickups, share the park, unit and loading gate. Factory dispatch slots and handling equipment should be confirmed before vehicle arrival.",
+        "For Kolkata or Howrah urban deliveries, identify access limitations and the unloading point. A long trailer may need a different plan from a small commercial vehicle.",
+        "For an onward movement from Siliguri into hill destinations, provide the final location and cargo size. The onward route and vehicle suitability need a separate check."
+      ],
+      "sources": [
+        {
+          "label": "West Bengal industrial parks",
+          "url": "https://silpasathi.wb.gov.in/industrial-parks-wbidc"
+        },
+        {
+          "label": "WBIDC industrial corridors",
+          "url": "https://corridor.wbidc.com/"
+        }
+      ]
+    },
+    "20": {
+      "intro": "Jharkhand enquiries include industrial equipment, factory dispatches and commercial goods across its districts. Adityapur and Jamshedpur are connected business areas but the specific estate and factory address should be supplied for vehicle planning.",
+      "places": [
+        {
+          "area": "Adityapur near Jamshedpur",
+          "context": "JIADA industrial hub with engineering, steel and automotive activity."
+        },
+        {
+          "area": "Bokaro / Balidih",
+          "context": "Industrial-area pickup and delivery enquiries."
+        },
+        {
+          "area": "Namkum, Ranchi and Barhi",
+          "context": "JIADA industrial locations."
+        },
+        {
+          "area": "Dhanbad and Deoghar",
+          "context": "Business and project-cargo enquiry locations."
+        }
+      ],
+      "planning": [
+        "For Adityapur machinery, list each piece and whether it can travel on its own base or needs a crate. Agree lifting and lashing responsibility before dispatch.",
+        "For Bokaro or other plant deliveries, obtain the gate instructions and receiving contact. A city address is not a substitute for plant-entry details.",
+        "For factory relocation, separate equipment transport from dismantling, packing and positioning. The quotation should identify which tasks are included."
+      ],
+      "sources": [
+        {
+          "label": "JIADA industrial locations",
+          "url": "https://jiada.jharkhand.gov.in/"
+        },
+        {
+          "label": "JIADA Adityapur",
+          "url": "https://jiada.jharkhand.gov.in/adityapur"
+        }
+      ]
+    },
+    "10": {
+      "intro": "Bihar transport enquiries include commercial goods, industrial supplies, machinery and household or vehicle relocation. Our network accepts district-level enquiries while the precise town, industrial area and delivery address determine the vehicle plan.",
+      "places": [
+        {
+          "area": "Bihta and Patliputra — Patna",
+          "context": "BIADA industrial areas and the Bihta industrial park."
+        },
+        {
+          "area": "Hajipur — Vaishali",
+          "context": "Industrial area and export promotion industrial park."
+        },
+        {
+          "area": "Barauni — Begusarai; Muzaffarpur",
+          "context": "BIADA industrial locations."
+        },
+        {
+          "area": "Biharsharif, Gaya, Bhagalpur and Purnea",
+          "context": "Business-town and industrial enquiry points."
+        }
+      ],
+      "planning": [
+        "For Bihta pickups, distinguish the industrial area from the mega industrial park and provide the actual unit address.",
+        "For Hajipur or Barauni goods, state package count, weight, dimensions and whether the receiving site has unloading equipment.",
+        "For district deliveries beyond the main town, include the village, landmark and PIN code. Confirm the last truck-accessible point before scheduling a large vehicle."
+      ],
+      "sources": [
+        {
+          "label": "BIADA industrial area directory",
+          "url": "https://biada1.bihar.gov.in/KeyOfficer.aspx"
+        }
+      ]
+    },
+    "9": {
+      "intro": "Uttar Pradesh enquiries span NCR industrial locations, manufacturing towns and district distribution points. We coordinate commercial goods, FTL/PTL, machinery and vehicle relocation. Specify both the city and estate so that a Surajpur pickup is not confused with another NCR location.",
+      "places": [
+        {
+          "area": "Surajpur — Gautam Buddha Nagar",
+          "context": "UPSIDA industrial area and associated sites."
+        },
+        {
+          "area": "Naini — Prayagraj",
+          "context": "UPSIDA industrial-area location."
+        },
+        {
+          "area": "Kanpur, Lucknow, Agra and Aligarh",
+          "context": "Business and industrial-town transport enquiries."
+        },
+        {
+          "area": "Ghaziabad, Meerut, Moradabad, Varanasi and Gorakhpur",
+          "context": "Commercial distribution, equipment and relocation enquiry towns."
+        }
+      ],
+      "planning": [
+        "For Surajpur or other NCR pickups, confirm the estate/site number, entry timing and exact gate. Access requirements should be checked for the chosen vehicle.",
+        "For packed products, include cubic dimensions as well as weight. Fragile items and non-stackable packages can change the vehicle requirement substantially.",
+        "For machinery delivered outside the city, share an access map and unloading plan. Trailer and ODC enquiries are assessed using the full route and load dimensions."
+      ],
+      "sources": [
+        {
+          "label": "UPSIDA industrial areas",
+          "url": "https://www.upsida.in/Home/"
+        },
+        {
+          "label": "UPSIDA Surajpur sites",
+          "url": "https://beta.upsidamarketplace.com/Home/AllIndustrialArea?regionalOffice=SURAJPUR"
+        },
+        {
+          "label": "UPSIDA Surajpur regional industrial layouts",
+          "url": "https://onlineupsida.com/SurajpurProduction.aspx"
+        },
+        {
+          "label": "UPSIDA industrial-area location reference",
+          "url": "https://eservices.onlineupsida.com/doc/operating_manual_upsidc.pdf"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Greater Noida and Bulandshahr industrial locations",
+          "places": [
+            "Surajpur",
+            "Sikandrabad",
+            "Gopalpur",
+            "Khurja"
+          ],
+          "context": "Use the industrial site and plot number in the enquiry. Confirm whether the collection is at an operating factory, warehouse or project location so loading arrangements can be assessed.",
+          "sources": [
+            "https://onlineupsida.com/SurajpurProduction.aspx"
+          ]
+        },
+        {
+          "area": "Ghaziabad local pickup areas",
+          "places": [
+            "Sahibabad",
+            "Loni",
+            "Dasna",
+            "Kavi Nagar",
+            "Meerut Road"
+          ],
+          "context": "Provide the industrial site, gate and receiving contact. Confirm pickup timing and actual vehicle access for movements crossing between Uttar Pradesh and Delhi.",
+          "sources": [
+            "https://eservices.onlineupsida.com/doc/operating_manual_upsidc.pdf"
+          ]
+        },
+        {
+          "area": "Kanpur industrial locations",
+          "places": [
+            "Panki",
+            "Rooma",
+            "Jainpur",
+            "Rania"
+          ],
+          "context": "Include the correct industrial site and a package list. For machinery, clarify the packed dimensions, lifting points and whether loading or unloading equipment is required.",
+          "sources": [
+            "https://eservices.onlineupsida.com/doc/operating_manual_upsidc.pdf"
+          ]
+        },
+        {
+          "area": "Jhansi and Bundelkhand locations",
+          "places": [
+            "Jhansi",
+            "Bijoli",
+            "Orai",
+            "Sumerpur"
+          ],
+          "context": "For delivery beyond the main town, identify the final site and its approach road. Trailer and heavy-equipment enquiries need site-access and unloading checks before confirmation.",
+          "sources": [
+            "https://eservices.onlineupsida.com/doc/operating_manual_upsidc.pdf"
+          ]
+        },
+        {
+          "area": "Eastern UP business locations",
+          "places": [
+            "Gorakhpur",
+            "Deoria",
+            "Basti",
+            "Khalilabad",
+            "Mau"
+          ],
+          "context": "Supply the actual shop, warehouse or factory address for road freight. Choose a dedicated or shared-load enquiry using shipment size and delivery needs rather than a fixed assumed schedule.",
+          "sources": [
+            "https://eservices.onlineupsida.com/doc/operating_manual_upsidc.pdf"
+          ]
+        }
+      ]
+    },
+    "6": {
+      "intro": "Haryana transport planning includes NCR factories, industrial estates and district business deliveries. Car shifting, goods transport and machinery enquiries can be coordinated through our partner network, using the precise pickup estate and destination rather than a broad NCR label.",
+      "places": [
+        {
+          "area": "Manesar — Gurugram; Bawal — Rewari",
+          "context": "HSIIDC industrial model townships."
+        },
+        {
+          "area": "Kundli — Sonipat",
+          "context": "HSIIDC industrial-estate location."
+        },
+        {
+          "area": "Yamunanagar and Manakpur",
+          "context": "HSIIDC industrial locations."
+        },
+        {
+          "area": "Faridabad, Panipat, Ambala, Hisar and Hansi",
+          "context": "Business-town transport and relocation enquiries."
+        }
+      ],
+      "planning": [
+        "For Manesar factory pickup, provide sector, plot and gate details together with the loading slot. For a car move, identify whether the vehicle is running and whether carrier access is possible.",
+        "For Bawal or Kundli equipment, share packed dimensions and weight per piece. Lifting equipment and loading supervision must be agreed at both ends.",
+        "For Haryana-to-Delhi deliveries, confirm the final receiving address and applicable vehicle-entry conditions before dispatch. A fixed delivery promise should follow route and vehicle assessment."
+      ],
+      "sources": [
+        {
+          "label": "HSIIDC industrial estate references",
+          "url": "https://www.hsiidc.org/"
+        },
+        {
+          "label": "HSIIDC estate auctions",
+          "url": "https://hsiidc.bidx.in/"
+        }
+      ]
+    },
+    "3": {
+      "intro": "Punjab enquiries include industrial focal points, business-town distribution and interstate relocation. We coordinate truck and trailer movements for goods and machinery alongside car, bike, household and office transport requests.",
+      "places": [
+        {
+          "area": "Dhandari Kalan — Ludhiana",
+          "context": "Industrial focal-point location."
+        },
+        {
+          "area": "Mohali Phase 9",
+          "context": "PSIEC industrial focal-point location."
+        },
+        {
+          "area": "Naya Nangal and Goindwal Sahib",
+          "context": "PSIEC industrial locations."
+        },
+        {
+          "area": "Jalandhar, Amritsar, Mandi Gobindgarh and Bathinda",
+          "context": "Business and industrial-town enquiries."
+        }
+      ],
+      "planning": [
+        "For Ludhiana machinery, include the focal-point phase, machine dimensions and whether packing or dismantling is required.",
+        "For goods collected from several suppliers, list each pickup separately. Multiple stops and loading time should be agreed before selecting FTL or PTL.",
+        "For Mohali office relocation, share the floor, lift availability, furniture inventory and receiving-site timings. Packing and access needs differ from industrial cargo."
+      ],
+      "sources": [
+        {
+          "label": "PSIEC estate directory",
+          "url": "https://psiecems.punjab.gov.in/"
+        }
+      ]
+    },
+    "7": {
+      "intro": "Delhi transport enquiries need a precise industrial area, market or residential address. We coordinate goods, cars and relocation through transport partners, with vehicle entry and final unloading access checked before scheduling.",
+      "places": [
+        {
+          "area": "Bawana and Narela",
+          "context": "DSIIDC industrial complexes."
+        },
+        {
+          "area": "Okhla, Patparganj and Jhilmil",
+          "context": "Industrial areas identified by DSIIDC."
+        },
+        {
+          "area": "Wazirpur, Nangloi and Badli",
+          "context": "Industrial pickup and delivery enquiry areas."
+        }
+      ],
+      "planning": [
+        "For industrial collection in Bawana or Narela, send the sector, plot and gate contact. Confirm that loading can take place inside the premises.",
+        "For city deliveries, tell us about narrow lanes, floor access and receiving hours. A smaller local vehicle or additional handling may be necessary and should be separately agreed.",
+        "For Delhi-to-interstate car transport, share the car model, running condition and accessible handover point. For goods, state package dimensions and stackability so the vehicle can be assessed."
+      ],
+      "sources": [
+        {
+          "label": "DSIIDC industrial estates",
+          "url": "https://industries.delhi.gov.in/industries/industrial-estates-delhi-state-industrial-and-infrastructure-development-corporation"
+        },
+        {
+          "label": "DSIIDC estate references",
+          "url": "https://www.dsiidc.org/dsidc/16092025oo173.pdf"
+        },
+        {
+          "label": "Delhi Industries Department: northern industrial areas",
+          "url": "https://industries.delhi.gov.in/industries/north-zone"
+        },
+        {
+          "label": "DSIIDC industrial-area schedule",
+          "url": "https://www.dsiidc.org/dsidc/04022021order-didom.pdf"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "North Delhi industrial areas",
+          "places": [
+            "Bawana",
+            "Narela",
+            "Badli",
+            "Wazirpur",
+            "Lawrence Road"
+          ],
+          "context": "Provide the sector, block and plot for collection. Confirm the actual loading window and access rules for the chosen vehicle before scheduling a goods movement.",
+          "sources": [
+            "https://industries.delhi.gov.in/industries/north-zone"
+          ]
+        },
+        {
+          "area": "North-west industrial locations",
+          "places": [
+            "Mangolpuri",
+            "Udyog Nagar",
+            "Nangloi",
+            "Rajasthani Udyog Nagar",
+            "G.T. Karnal Road"
+          ],
+          "context": "State the estate and premises clearly. For machinery or bulky furniture, share access photographs and confirm whether loading equipment can operate at the site.",
+          "sources": [
+            "https://industries.delhi.gov.in/industries/north-zone"
+          ]
+        },
+        {
+          "area": "West Delhi industrial locations",
+          "places": [
+            "Naraina",
+            "Mayapuri",
+            "Kirti Nagar",
+            "Moti Nagar",
+            "Najafgarh Road"
+          ],
+          "context": "Separate the goods inventory from any packing, dismantling or loading work required. Confirm vehicle parking and loading access for shop, warehouse and office movements.",
+          "sources": [
+            "https://www.dsiidc.org/dsidc/04022021order-didom.pdf"
+          ]
+        },
+        {
+          "area": "East and south Delhi locations",
+          "places": [
+            "Patparganj",
+            "Jhilmil",
+            "Okhla"
+          ],
+          "context": "For industrial and office collections, include the phase or block and building access details. Delhi and nearby UP or Haryana addresses must be specified separately when arranging an NCR movement.",
+          "sources": [
+            "https://www.dsiidc.org/dsidc/04022021order-didom.pdf"
+          ]
+        }
+      ]
+    },
+    "5": {
+      "intro": "Uttarakhand transport planning distinguishes industrial estates in the plains from hill destinations. We accept enquiries for machinery, goods, vehicle relocation and household moves, with route and last-mile access assessed for the actual destination.",
+      "places": [
+        {
+          "area": "Haridwar integrated industrial estate",
+          "context": "SIIDCUL industrial location."
+        },
+        {
+          "area": "Pantnagar and Rudrapur — Udham Singh Nagar",
+          "context": "Industrial and commercial cargo enquiry area."
+        },
+        {
+          "area": "Dehradun, Kashipur and Haldwani",
+          "context": "Business-town and relocation enquiries."
+        }
+      ],
+      "planning": [
+        "For Haridwar or Pantnagar factory loads, give the sector, unit, cargo size and unloading-equipment details.",
+        "For a hill destination, send the exact final location and road-access information. The vehicle that can travel to a plains hub may not suit the final delivery road.",
+        "For temperature-sensitive goods, state the required range and maximum handling exposure. Reefer suitability and availability are confirmed before booking."
+      ],
+      "sources": [
+        {
+          "label": "Uttarakhand industrial estates",
+          "url": "https://sidauk.in/"
+        }
+      ]
+    },
+    "2": {
+      "intro": "Himachal Pradesh enquiries include industrial estates in lower elevations and deliveries to hill towns. Goods, machinery and relocation movements require an access check as well as the usual weight and dimensions.",
+      "places": [
+        {
+          "area": "Baddi, Barotiwala, Nalagarh and Parwanoo — Solan",
+          "context": "Industrial and business locations."
+        },
+        {
+          "area": "Kala Amb and Paonta Sahib — Sirmaur",
+          "context": "Industrial-area enquiries."
+        },
+        {
+          "area": "Mehatpur and Gagret — Una",
+          "context": "Industrial pickup and delivery areas."
+        },
+        {
+          "area": "Shimla, Mandi and Kangra",
+          "context": "Business and relocation enquiries."
+        }
+      ],
+      "planning": [
+        "For Baddi factory collection, identify the estate and loading gate; include any special handling requirement for packed machinery or sensitive goods.",
+        "For hill deliveries, disclose the largest package and vehicle-access limitations. Sharp approaches and restricted unloading space should be checked before allocating a truck.",
+        "For relocation, provide an inventory and photographs of access at both addresses. Carrying distance, stairs and packing scope affect the arrangement."
+      ],
+      "sources": [
+        {
+          "label": "Himachal industrial area profile",
+          "url": "https://www.hpsdma.hp.gov.in/Images/Environmental.pdf"
+        }
+      ]
+    },
+    "4": {
+      "intro": "Chandigarh transport enquiries include industrial-area dispatches, office moves and vehicle relocation. State whether the address is within Chandigarh or in neighbouring Mohali or Panchkula, as these are different pickup locations.",
+      "places": [
+        {
+          "area": "Industrial Area Phase I",
+          "context": "Established industrial area in Chandigarh."
+        },
+        {
+          "area": "Industrial Area Phase II",
+          "context": "Industrial premises and commercial pickup enquiries."
+        },
+        {
+          "area": "Chandigarh city sectors",
+          "context": "Office, household, car and bike relocation enquiries."
+        }
+      ],
+      "planning": [
+        "For industrial-area pickup, supply the phase, plot number and loading contact. Machinery dimensions and crane availability are needed for a trailer assessment.",
+        "For an office move, identify floor access, furniture dismantling and the receiving slot. Packing, transport and unloading should be itemised in the enquiry.",
+        "For a movement involving the wider Tricity area, list the actual state and address for each stop. This avoids combining Chandigarh, Mohali and Panchkula into one assumed collection point."
+      ],
+      "sources": [
+        {
+          "label": "Chandigarh industrial area master plan",
+          "url": "https://www.chandigarh.gov.in/sites/default/files/documents/industrial-area.pdf"
+        }
+      ]
+    },
+    "30": {
+      "intro": "Goa enquiries include industrial-estate goods, equipment and vehicle or household relocation. Specify the estate and unit rather than only North or South Goa; commercial loading access can differ from a city or residential delivery.",
+      "places": [
+        {
+          "area": "Verna and Sancoale",
+          "context": "Goa IDC industrial estates."
+        },
+        {
+          "area": "Kundaim, Bethora, Corlim and Pilerne",
+          "context": "Industrial-estate enquiry locations."
+        },
+        {
+          "area": "Margao, Mapusa, Cuncolim and Canacona",
+          "context": "Industrial and business-town transport enquiries."
+        }
+      ],
+      "planning": [
+        "For Verna or Kundaim factory dispatches, share the unit, gate hours and loading method. Confirm whether packed goods can be stacked.",
+        "For hotel, office or household deliveries, provide access photographs and receiving hours. Large-vehicle access and manual carrying needs should be checked in advance.",
+        "For car or bike relocation, give the vehicle model and running condition. Handover arrangements are confirmed separately from the district coverage list."
+      ],
+      "sources": [
+        {
+          "label": "Government of Goa industrial estates",
+          "url": "https://www.goa.gov.in/department/goa-industrial-development-corporation/"
+        }
+      ]
+    },
+    "34": {
+      "intro": "Puducherry transport enquiries include industrial-estate shipments, commercial goods and relocation. The territory has geographically separate regions, so specify Puducherry, Karaikal, Mahe or Yanam rather than only the UT name.",
+      "places": [
+        {
+          "area": "Mettupalayam and Sedarapet",
+          "context": "PIPDIC industrial estates."
+        },
+        {
+          "area": "Thirubuvanai and Kirumampakkam",
+          "context": "Industrial-estate locations."
+        },
+        {
+          "area": "Kottucherry and Polagam — Karaikal",
+          "context": "Industrial locations in the Karaikal region."
+        },
+        {
+          "area": "Mahe and Yanam",
+          "context": "Separate UT regions; include the full pickup address."
+        }
+      ],
+      "planning": [
+        "For Sedarapet or Thirubuvanai loads, identify the industrial estate and unit. Confirm package sizes and loading equipment before requesting a vehicle.",
+        "For Karaikal enquiries, give the specific region and delivery point. A Puducherry city assumption can produce the wrong route plan.",
+        "For Mahe or Yanam, include the nearest road landmark and PIN code. These separate regions require their own routing assessment even though they belong to the same union territory."
+      ],
+      "sources": [
+        {
+          "label": "Puducherry industrial estates",
+          "url": "https://industry.py.gov.in/industrial-estate"
+        },
+        {
+          "label": "PIPDIC estate charter",
+          "url": "https://industry.py.gov.in/citizen-charter"
+        }
+      ],
+      "local_coverage": [
+        {
+          "area": "Puducherry industrial estates",
+          "places": [
+            "Thattanchavady",
+            "Mettupalayam",
+            "Sedarapet",
+            "Thirubuvanai"
+          ],
+          "context": "State the estate, plot and unit name for commercial freight or machinery movements. Confirm whether collection requires lifting equipment or only a dock-height vehicle.",
+          "sources": [
+            "https://industry.py.gov.in/citizen-charter"
+          ]
+        },
+        {
+          "area": "Southern Puducherry and Karaikal",
+          "places": [
+            "Manapet",
+            "Kirumampakkam",
+            "Kottucherry"
+          ],
+          "context": "Distinguish the Puducherry-region address from Karaikal when requesting a vehicle. The quote depends on the actual origin and destination, even when both are within the same union territory.",
+          "sources": [
+            "https://industry.py.gov.in/citizen-charter"
+          ]
+        },
+        {
+          "area": "Other Puducherry regions",
+          "places": [
+            "Mahe",
+            "Yanam"
+          ],
+          "context": "Provide the region and PIN code: Mahe and Yanam are geographically separate from Puducherry town. Route planning and pickup arrangements are confirmed for the actual address.",
+          "sources": [
+            "https://industry.py.gov.in/industrial-estate",
+            "https://industry.py.gov.in/citizen-charter"
+          ]
+        }
+      ]
+    },
+    "38": {
+      "intro": "Dadra and Nagar Haveli and Daman and Diu transport enquiries cover industrial cargo, commercial goods and relocation. Silvassa, Daman and Diu are different collection areas; supply the precise town, estate and unit address for a useful quotation.",
+      "places": [
+        {
+          "area": "Silvassa and Piparia",
+          "context": "Industrial-estate and business enquiries in Dadra and Nagar Haveli."
+        },
+        {
+          "area": "Dabhel, Bhimpore, Kachigam and Kadaiya",
+          "context": "Industrial locations in Daman."
+        },
+        {
+          "area": "Diu",
+          "context": "Commercial goods and relocation enquiries, routed separately from Silvassa or Daman."
+        }
+      ],
+      "planning": [
+        "For Silvassa or Daman factory loads, state the estate, package count and dimensions. Confirm whether the receiving site can unload the proposed vehicle.",
+        "For a multi-stop industrial pickup, list each unit separately and identify dispatch readiness. Collection time should be planned rather than assumed.",
+        "For Diu, confirm the full destination and delivery access; do not use a Daman address as a substitute. Cargo type and route determine the equipment arrangement."
+      ],
+      "sources": [
+        {
+          "label": "Daman industrial-area profile",
+          "url": "https://www.sda.dded.gov.in/sda/Daman_SEEAP_Final.pdf"
+        },
+        {
+          "label": "Government establishment directory — Piparia",
+          "url": "https://mospi.gov.in/sites/default/files/economic-census/Directories_of_Establishment/Urban_26.pdf"
+        }
+      ]
+    },
+    "18": {
+      "intro": "Assam road transport enquiries include industrial locations around Guwahati and shipments to business towns across the state. We coordinate goods, equipment and relocation requests through partners, with the final district and unloading address included in the route assessment.",
+      "places": [
+        {
+          "area": "Amingaon — Kamrup",
+          "context": "Industrial area and export promotion industrial park."
+        },
+        {
+          "area": "Chaygaon — Kamrup",
+          "context": "Food park and industrial growth-centre locations."
+        },
+        {
+          "area": "Tihu — Nalbari",
+          "context": "Food-processing and industrial-location enquiries."
+        },
+        {
+          "area": "Guwahati, Bongaigaon, Dibrugarh, Tinsukia and Silchar",
+          "context": "Commercial and onward-distribution enquiries."
+        }
+      ],
+      "planning": [
+        "For Amingaon or Chaygaon collection, name the estate and unit rather than using Guwahati alone. Share loading hours and cargo readiness.",
+        "For food products, specify packaging, shelf-life handling and any temperature requirement. A reefer arrangement is confirmed only after the cargo specification is reviewed.",
+        "For onward deliveries to other northeastern states, identify the final destination, not just an Assam transfer point. Handling and onward vehicle suitability should be agreed before dispatch."
+      ],
+      "sources": [
+        {
+          "label": "Assam industrial infrastructure",
+          "url": "https://industriescom.assam.gov.in/portlet-innerpage/industrial-and-trade-related-infrastructure"
+        },
+        {
+          "label": "AIDC industrial facilities",
+          "url": "https://aidcltd.assam.gov.in/about-us/detail/functions-and-objectives-5"
+        }
+      ]
+    },
+    "17": {
+      "intro": "Meghalaya enquiries include industrial locations in Ri-Bhoi and commercial deliveries to hill towns. Truck suitability depends on the final approach and cargo dimensions, so provide the actual premises rather than only the district name.",
+      "places": [
+        {
+          "area": "Byrnihat and Umiam — Ri-Bhoi",
+          "context": "Export promotion industrial park and industrial area."
+        },
+        {
+          "area": "Shillong and Tura",
+          "context": "Industrial estates and business-town enquiries."
+        },
+        {
+          "area": "Mendipathar, Williamnagar and Nongstoin",
+          "context": "Industrial-estate and district delivery locations."
+        }
+      ],
+      "planning": [
+        "For Byrnihat or Umiam factory loads, supply the unit, loading method and receiving-site equipment details.",
+        "For hill-town deliveries, confirm the final access road and available turning space. Large equipment may need additional route assessment.",
+        "For retail or office goods, identify package count, weight and carrying distance from vehicle to premises. Separate packing and manual handling from the road transport scope."
+      ],
+      "sources": [
+        {
+          "label": "Meghalaya industrial land bank",
+          "url": "https://invest.meghalaya.gov.in/LandBank.aspx"
+        }
+      ]
+    },
+    "16": {
+      "intro": "Tripura goods and relocation enquiries are assessed using the full pickup and delivery addresses. Industrial-estate consignments and deliveries to district towns may need different vehicle and handling arrangements; our team confirms these through the transport network.",
+      "places": [
+        {
+          "area": "Bodhjungnagar and R.K. Nagar",
+          "context": "Industrial-estate enquiry locations."
+        },
+        {
+          "area": "Dukli and Nagicherra",
+          "context": "Industrial-location enquiries near Agartala."
+        },
+        {
+          "area": "Agartala, Udaipur and Dharmanagar",
+          "context": "Commercial goods and relocation pickup points."
+        }
+      ],
+      "planning": [
+        "For Bodhjungnagar collection, identify the operating unit and gate, cargo size and loading readiness.",
+        "For an interstate shipment, provide the final district and receiving address so the route is assessed end to end. Do not assume a transfer point is the final delivery.",
+        "For fragile commercial goods or furniture, agree packaging and unloading arrangements before dispatch. Scheduled availability and transit estimates are confirmed in the quotation."
+      ],
+      "sources": [
+        {
+          "label": "Tripura industrial infrastructure project",
+          "url": "https://industries.tripura.gov.in/sites/default/files/Tripura%20Industrial%20Infrastructure%20Development%20Project-Bodhjungnagar%20Industrial%20Estate%20Draft%20Initial%20Environmental%20Examination.pdf"
+        }
+      ]
+    },
+    "11": {
+      "intro": "Sikkim transport enquiries need careful separation of industrial pickup points and hill-town deliveries. We assess goods, equipment and relocation requests using the cargo size, final address and access conditions before confirming a vehicle arrangement.",
+      "places": [
+        {
+          "area": "Rangpo",
+          "context": "Industrial and business enquiries on the state approach."
+        },
+        {
+          "area": "Singtam",
+          "context": "Commercial and industrial-area enquiries."
+        },
+        {
+          "area": "Gangtok, Namchi and other district towns",
+          "context": "Goods, office and household relocation enquiries."
+        }
+      ],
+      "planning": [
+        "For Rangpo or Singtam industrial cargo, state the unit, loading access and packaging requirements. Sensitive products require a specific handling brief.",
+        "For Gangtok or other hill destinations, share the final road and unloading space. A vehicle suitable for an approach town may not suit the last leg.",
+        "Ask for a shipment-specific schedule after route and weather conditions are checked. For machinery, provide every piece dimension and weight before a trailer decision."
+      ],
+      "sources": [
+        {
+          "label": "Sikkim investment information",
+          "url": "https://industries.sikkim.gov.in/visitors/investsikkim"
+        },
+        {
+          "label": "Sikkim industrial and transport context",
+          "url": "https://spcb.sikkim.gov.in/Air.html"
+        }
+      ]
+    },
+    "15": {
+      "intro": "Mizoram enquiries include industrial premises, commercial goods and relocation to district towns. The final approach, package sizes and unloading arrangements are essential to assess a suitable vehicle and handling plan.",
+      "places": [
+        {
+          "area": "Zuangtui — Aizawl",
+          "context": "Industrial-estate pickup and delivery enquiries."
+        },
+        {
+          "area": "Luangmual",
+          "context": "Industrial growth-centre location; confirm the specific operating unit."
+        },
+        {
+          "area": "Kolasib, Lunglei and Champhai",
+          "context": "Business-town and district enquiries."
+        }
+      ],
+      "planning": [
+        "For Zuangtui or Luangmual collection, identify the operating unit and confirm cargo readiness. A listed estate does not mean every project or shed is operational.",
+        "For Aizawl deliveries, send access photographs and unloading-space details. Include carrying distance and stairs for household or office goods.",
+        "For a district destination beyond the main town, give the final village and receiving contact. Vehicle availability and route suitability are confirmed before dispatch."
+      ],
+      "sources": [
+        {
+          "label": "Mizoram industrial policy locations",
+          "url": "https://www.nsws.gov.in/s3fs/2025-02/posts-86-ex-120.pdf"
+        }
+      ]
+    },
+    "14": {
+      "intro": "Manipur goods, machinery and relocation enquiries are assessed for the specific route and receiving location. Industrial-estate collection and hill-district delivery have different access needs, so availability and movement conditions must be confirmed for the shipment.",
+      "places": [
+        {
+          "area": "Takyelpat — Imphal West",
+          "context": "Industrial-estate location."
+        },
+        {
+          "area": "Bishnupur industrial estate / Tera Urak",
+          "context": "Industrial-location enquiries; confirm the receiving unit."
+        },
+        {
+          "area": "Imphal, Thoubal, Kakching and Ukhrul",
+          "context": "Commercial and relocation enquiry towns."
+        }
+      ],
+      "planning": [
+        "For Takyelpat collection, give the estate unit, cargo dimensions and loading contact. Agree packing and lifting scope for machinery.",
+        "Before setting dispatch dates, confirm current route access and the receiving site’s readiness with our team. Do not rely on a generic statewide transit estimate.",
+        "For hill-district deliveries, share the final road approach and unloading method. If a smaller onward vehicle is needed, its scope should be agreed separately."
+      ],
+      "sources": [
+        {
+          "label": "Manipur industry department",
+          "url": "https://dcimanipur.gov.in/en/download/"
+        },
+        {
+          "label": "Government northeastern industrial projects",
+          "url": "https://nesetu.mdoner.gov.in/projects/project-list?scheme=schemesofnec"
+        }
+      ]
+    },
+    "13": {
+      "intro": "Nagaland enquiries include industrial locations, district-town deliveries and interstate relocation. Give the exact premises and road access so that collection, onward routing and unloading can be planned through our transport partners.",
+      "places": [
+        {
+          "area": "Dimapur industrial estate",
+          "context": "NIDC industrial and manufacturing units."
+        },
+        {
+          "area": "Ganeshnagar",
+          "context": "Industrial growth-centre and SEZ location; specify the actual unit."
+        },
+        {
+          "area": "Chumoukedima, Kohima and Mokokchung",
+          "context": "Business-town and relocation enquiries."
+        }
+      ],
+      "planning": [
+        "For Dimapur or Ganeshnagar cargo, state the unit name, package count and loading method. Confirm the operating premises rather than only the estate name.",
+        "For onward movement to Kohima or another hill location, supply the final address and access information. A transfer at a plains point is not the same as completed delivery.",
+        "For machinery, list individual dimensions and weight. For furniture and office items, provide an inventory and floor-access details so the packing and handling scope is clear."
+      ],
+      "sources": [
+        {
+          "label": "Nagaland industrial corporation locations",
+          "url": "https://industry.nagaland.gov.in/corporations-institutions/nidc/"
+        }
+      ]
+    },
+    "12": {
+      "intro": "Arunachal Pradesh enquiries are planned around the final destination and road access. We accept requests for commercial goods, equipment and relocation, with vehicle suitability and any movement requirements assessed before confirmation.",
+      "places": [
+        {
+          "area": "Naharlagun",
+          "context": "Industrial-estate and commercial enquiries in the capital region."
+        },
+        {
+          "area": "Pasighat — East Siang",
+          "context": "Industrial-estate and business-town enquiries."
+        },
+        {
+          "area": "Itanagar, Namsai and Tezu",
+          "context": "Commercial and district delivery enquiry points."
+        }
+      ],
+      "planning": [
+        "For Naharlagun or Pasighat collection, identify the unit and cargo readiness. Include packed dimensions, weight and lifting requirements.",
+        "For remote or hill deliveries, give the actual site, route landmarks and unloading space. A district headquarters address cannot represent every village approach.",
+        "Confirm applicable access permissions and current route conditions before dispatch. The quotation should state the agreed final delivery point and any onward handling."
+      ],
+      "sources": [
+        {
+          "label": "Arunachal industrial land bank",
+          "url": "https://eodb.arunachal.gov.in/investment/land_banks.php"
+        }
+      ]
+    },
+    "1": {
+      "intro": "Jammu and Kashmir transport enquiries cover industrial estates, commercial goods and relocation. Jammu-region and Kashmir-region movements require distinct routing plans; supply the actual industrial unit or final address so vehicle suitability and timing can be assessed.",
+      "places": [
+        {
+          "area": "Bari Brahmana and Samba",
+          "context": "Industrial complexes and growth-centre locations."
+        },
+        {
+          "area": "Lassipora — Pulwama",
+          "context": "Industrial growth centre."
+        },
+        {
+          "area": "Rangreth, Khunmoh and Shalteng",
+          "context": "Industrial-estate enquiries in the Kashmir region."
+        },
+        {
+          "area": "Jammu, Srinagar and Kathua",
+          "context": "Business-town and relocation enquiries."
+        }
+      ],
+      "planning": [
+        "For Bari Brahmana or Lassipora machinery, state the loading gate, dimensions and handling equipment. Industrial entry and unloading should be confirmed by the receiving unit.",
+        "For movements between Jammu and the Kashmir region, ask for a route-specific schedule after current road conditions are checked.",
+        "For cars and household goods, share the exact handover point and delivery access. Packing, unloading and any onward transfer should be clear in the agreed scope."
+      ],
+      "sources": [
+        {
+          "label": "J&K SIDCO industrial locations",
+          "url": "https://industriescommerce.jk.gov.in/jksidco.html"
+        }
+      ]
+    },
+    "37": {
+      "intro": "Ladakh enquiries require an individual route and access assessment. We can review goods, equipment and relocation requests through our transport network, but vehicle suitability, seasonal access and the final delivery point must be confirmed before booking.",
+      "places": [
+        {
+          "area": "Leh and Kargil",
+          "context": "Commercial and industrial enquiries supported by the respective district industries centres."
+        },
+        {
+          "area": "Diskit, Khaltse and Nyoma",
+          "context": "Headquarters of Nubra, Sham and Changthang districts."
+        },
+        {
+          "area": "Padum and Drass",
+          "context": "Headquarters serving Zanskar and Drass districts."
+        }
+      ],
+      "planning": [
+        "Give the final site and district rather than only Leh or Kargil. The new district headquarters can help identify the intended delivery area, but the actual premises and road access are still needed.",
+        "For heavy equipment, provide dimensions, weight, lifting method and site photographs. The load and route must be assessed before selecting a truck or trailer.",
+        "Agree the dispatch window only after seasonal road access and receiving-site readiness are checked. A standard all-season or fixed-day transit promise is not appropriate for every destination."
+      ],
+      "sources": [
+        {
+          "label": "Ladakh industries department",
+          "url": "https://ladakh.gov.in/industries-and-commerce-department/"
+        },
+        {
+          "label": "Ladakh seven-district notification",
+          "url": "https://ladakh.gov.in/historic-milestone-for-ladakh-five-new-districts-notified-in-ladakh-taking-total-districts-to-seven/"
+        }
+      ]
+    },
+    "35": {
+      "intro": "Andaman and Nicobar enquiries need an island-specific transport plan. Mainland road transport alone does not complete an island delivery. Share the destination island, cargo details and any booked sea connection so our team can assess the road legs and separately confirm available onward arrangements.",
+      "places": [
+        {
+          "area": "Dollygunj and Garacharma",
+          "context": "Industrial-estate locations in the Sri Vijaya Puram / Port Blair area."
+        },
+        {
+          "area": "Sri Vijaya Puram and South Andaman",
+          "context": "Commercial collection and delivery enquiries."
+        },
+        {
+          "area": "North and Middle Andaman; Nicobar destinations",
+          "context": "Island-specific enquiries subject to access and onward transport confirmation."
+        }
+      ],
+      "planning": [
+        "State the island, receiving jetty or premises and the cargo’s packed size. Confirm who is arranging the sea leg and port handling before requesting mainland collection.",
+        "For machinery or vehicles, check acceptance, handling and documentation with the relevant carrier before dispatch. A road-transport quotation should not be assumed to include sea freight.",
+        "Agree the final handover point, storage or waiting arrangements and delivery responsibility in writing. Availability of each service below must be checked for the island and shipment."
+      ],
+      "sources": [
+        {
+          "label": "Andaman industrial estates",
+          "url": "https://industrialestate.andamannicobar.gov.in/"
+        }
+      ]
+    },
+    "31": {
+      "intro": "Lakshadweep cargo enquiries require separate planning for mainland road movement, the sea connection and island handling. Our team can assess the road transport requirement and check available onward coordination; no direct road connection or automatic island-wide equipment availability is implied.",
+      "places": [
+        {
+          "area": "Kavaratti",
+          "context": "Commercial enquiries and coconut/coir-related industry context."
+        },
+        {
+          "area": "Andrott and Minicoy",
+          "context": "Island business and processing-related cargo enquiries."
+        },
+        {
+          "area": "Agatti, Amini and other inhabited islands",
+          "context": "Delivery enquiries requiring island-specific confirmation."
+        }
+      ],
+      "planning": [
+        "Provide the destination island, packed cargo dimensions and weight. State whether a carrier booking and receiving arrangements already exist.",
+        "For food or temperature-sensitive cargo, confirm handling and temperature control across every leg. A mainland reefer journey does not establish an uninterrupted island cold chain.",
+        "Before mainland dispatch, agree the port handover, sea-freight responsibility and island unloading. Service availability, documentation and access are assessed for the individual movement."
+      ],
+      "sources": [
+        {
+          "label": "Lakshadweep industries",
+          "url": "https://lakshadweep.gov.in/departments-new/department-of-industries/"
+        },
+        {
+          "label": "Lakshadweep port and shipping",
+          "url": "https://lakshadweep.gov.in/departments/port-shipping-aviation/"
+        }
+      ]
+    }
+  },
+  "local_coverage_reviewed": "2026-10-16"
+}
